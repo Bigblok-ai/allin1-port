@@ -482,19 +482,28 @@ def m3u_entry(group_title, display_name, logo, link, source_index):
         f'{m3u_escape(shown)}'
     ]
 
-    # --- Custom headers (UA / Referer / còn lại) ---
     headers = headers_to_dict(link)
     ua = headers.pop("User-Agent", "") or headers.pop("user-agent", "")
     referer = (headers.pop("Referer", "") or headers.pop("referer", "")
                or headers.pop("Referrer", ""))
+
+    # --- 1) #EXTHTTP (JSON) — TiViMate đọc chuẩn nhất ---
+    hdr_json = {}
+    if ua:
+        hdr_json["User-Agent"] = ua
+    if referer:
+        hdr_json["Referer"] = referer
+    hdr_json.update(headers)   # các header lạ còn lại
+    if hdr_json:
+        lines.append("#EXTHTTP:" + json.dumps(hdr_json, separators=(",", ":"), ensure_ascii=False))
+
+    # --- 2) #EXTVLCOPT — giữ cho VLC và player khác ---
     if ua:
         lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
     if referer:
         lines.append(f"#EXTVLCOPT:http-referrer={referer}")
-    if headers:
-        lines.append("#EXTHTTP:" + json.dumps(headers, ensure_ascii=False))
 
-    # --- DRM Clearkey (kênh HBO...) ---
+    # --- DRM Clearkey (như cũ) ---
     drm_type = (link.get("drm_type") or "").lower()
     drm_key = link.get("drm_key") or ""
     if drm_type == "clearkey" and drm_key:
@@ -505,7 +514,7 @@ def m3u_entry(group_title, display_name, logo, link, source_index):
 
     lines.append(url)
     return lines
-
+    
 def build_m3u(final_data):
     lines = ["#EXTM3U"]
     for group in final_data.get("groups", []):
