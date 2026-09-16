@@ -590,7 +590,10 @@ def build_display_name(ch, is_tv_group):
     if meta.get("is_live", False):
         return f"🔴 {base}"
     if time_val:
-        return f"{base} ({time_val})"
+        parts = time_val.split(" ")
+        if len(parts) == 2 and ":" in parts[0] and len(parts[0]) < 5:
+            time_val = f"{parts[0].zfill(5)} {parts[1]}"   # 9:00 -> 09:00
+        return f"{time_val} {base}"
     return base
 
 def m3u_entry(group_title, display_name, logo, link, source_index):
