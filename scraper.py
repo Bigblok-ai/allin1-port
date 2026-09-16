@@ -756,17 +756,15 @@ def main():
                             existing_channel["sources"].append(temp_src)
 
     # ==========================================
-    # BƯỚC 2: GỘP KÊNH TRUYỀN HÌNH (từ file M3U, giữ nguyên group)
+    # BƯỚC 2: GỘP KÊNH TRUYỀN HÌNH (1 nhóm duy nhất, hardcode)
     # ==========================================
     try:
         if os.path.exists(HOIQUAN_M3U_FILE):
             tv_list = parse_m3u_tv(HOIQUAN_M3U_FILE)
             if tv_list:
-                tv_groups = build_tv_groups(tv_list)
-                for gi, grp in enumerate(tv_groups):
-                    final_data["groups"].insert(gi, grp)
-                total_tv_ch = sum(len(g["channels"]) for g in tv_groups)
-                print(f"Da doc {len(tv_list)} link -> {total_tv_ch} kenh TV trong {len(tv_groups)} nhom ({HOIQUAN_M3U_FILE}).")
+                tv_group = build_tv_groups(tv_list)[0]
+                final_data["groups"].insert(0, tv_group)
+                print(f"Da doc {len(tv_list)} link -> {len(tv_group['channels'])} kenh TV ({HOIQUAN_M3U_FILE}).")
         else:
             print(f"Canh bao: Khong tim thay file {HOIQUAN_M3U_FILE}.")
     except Exception as e:
