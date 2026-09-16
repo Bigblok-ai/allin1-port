@@ -527,32 +527,25 @@ def build_tv_channel_obj(i, name, variants):
 def build_tv_groups(tv_list):
     """
     Gom link cùng tên -> 1 kênh nhiều nguồn.
-    Giữ nguyên group-title từ file gốc -> trả về list các group TV.
+    ★ HARD CODE: toàn bộ kênh TV dồn về đúng 1 nhóm DEFAULT_TV_GROUP,
+    bỏ qua group-title trong file gốc (VTV, THỂ THAO QUỐC TẾ...).
     """
-    group_order = []
-    groups_map = {}
+    groups_map = defaultdict(list)
     for ch in tv_list:
-        g_name = (ch.get("group") or "").strip() or DEFAULT_TV_GROUP
-        if g_name not in groups_map:
-            groups_map[g_name] = defaultdict(list)
-            group_order.append(g_name)
-        groups_map[g_name][ch["name"]].append(ch)
+        groups_map[ch["name"]].append(ch)
 
-    result = []
-    ch_counter = 0
-    for g_name in group_order:
-        channels = []
-        for name, variants in groups_map[g_name].items():
-            channels.append(build_tv_channel_obj(ch_counter, name, variants))
-            ch_counter += 1
-        result.append({
-            "id": f"grp-tv-{len(result)}",
-            "name": g_name,
-            "display": "vertical",
-            "grid_number": 2,
-            "enable_detail": False,
-            "channels": channels
-        })
+    channels = []
+    for i, (name, variants) in enumerate(groups_map.items()):
+        channels.append(build_tv_channel_obj(i, name, variants))
+
+    return [{
+        "id": "grp-tv-hoiquan",
+        "name": DEFAULT_TV_GROUP,
+        "display": "vertical",
+        "grid_number": 2,
+        "enable_detail": False,
+        "channels": channels
+    }]
     return result
 
 # ==========================================
