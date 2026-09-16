@@ -45,31 +45,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (17 LIVE)",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="🔴 Deportivo La Coruna vs Sevilla" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19824d46db870536782_2dd6a848_20260917.png?v=2dd6a848" group-title="⚽ Bóng Đá (8 LIVE)",🔴 Deportivo La Coruna vs Sevilla
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1789543828_hd/1789543828_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="🔴 Deportivo La Coruna vs Sevilla" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19824d46db870536782_2dd6a848_20260917.png?v=2dd6a848" group-title="⚽ Bóng Đá (8 LIVE)",🔴 Deportivo La Coruna vs Sevilla | Nguồn 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="" tvg-name="🔴 Deportivo La Coruna vs Sevilla" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19824d46db870536782_2dd6a848_20260917.png?v=2dd6a848" group-title="⚽ Bóng Đá (8 LIVE)",🔴 Deportivo La Coruna vs Sevilla | Nguồn 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://livecdn.cdnfastter.xyz/live/livehub2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="🔴 Atletico Madrid vs Osasuna" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19824d46db87053677b_bb3cd5c9_20260917.png?v=bb3cd5c9" group-title="⚽ Bóng Đá (8 LIVE)",🔴 Atletico Madrid vs Osasuna
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1789543905_hd/1789543905_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="🔴 Atletico Madrid vs Osasuna" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19824d46db87053677b_bb3cd5c9_20260917.png?v=bb3cd5c9" group-title="⚽ Bóng Đá (8 LIVE)",🔴 Atletico Madrid vs Osasuna | Nguồn 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 #EXTINF:-1 tvg-id="" tvg-name="🔴 Manchester United vs Brighton   Hove Albion" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a92222407a55a68f709dabb_7cdc1c93_20260917.png?v=7cdc1c93" group-title="⚽ Bóng Đá (8 LIVE)",🔴 Manchester United vs Brighton   Hove Albion
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -130,6 +105,21 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789545605_hd/1789545605_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="🔴 Atletico Madrid vs Osasuna" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/61a08dbd-59e7-4a6f-8086-7a4df1ca97a7_645cd25a_20260917.png?v=645cd25a" group-title="⚽ Bóng Đá (8 LIVE)",🔴 Atletico Madrid vs Osasuna
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.tv/
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:-1 tvg-id="" tvg-name="🔴 Deportivo La Coruna vs Sevilla" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/1a6dc209-a04a-442f-8f82-2395b7e0b2aa_172ef53b_20260917.png?v=172ef53b" group-title="⚽ Bóng Đá (8 LIVE)",🔴 Deportivo La Coruna vs Sevilla
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.tv/
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="" tvg-name="🔴 Deportivo La Coruna vs Sevilla" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/1a6dc209-a04a-442f-8f82-2395b7e0b2aa_172ef53b_20260917.png?v=172ef53b" group-title="⚽ Bóng Đá (8 LIVE)",🔴 Deportivo La Coruna vs Sevilla | Nguồn 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.tv/
+https://livecdn.cdnfastter.xyz/live/livehub2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:30 17/09 Barcelona vs Racing Santander" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19924d46db87053699b_9bd50633_20260917.png?v=9bd50633" group-title="⚽ Bóng Đá (8 LIVE)",02:30 17/09 Barcelona vs Racing Santander
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
