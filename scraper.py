@@ -579,6 +579,7 @@ def build_display_name(ch, is_tv_group):
     team_a = (meta.get("team_a") or "").strip()
     team_b = (meta.get("team_b") or "").strip()
     time_val = (meta.get("time") or "").strip()
+    is_live = meta.get("is_live", False)
 
     if team_a and team_b:
         base = f"{team_a} vs {team_b}"
@@ -587,13 +588,19 @@ def build_display_name(ch, is_tv_group):
 
     if is_tv_group:
         return base  # Kênh TV giữ tên sạch
-    if meta.get("is_live", False):
-        return f"🔴 {base}"
+
+    # Chuẩn hóa giờ: zero-pad nếu thiếu (9:00 -> 09:00)
+    time_part = ""
     if time_val:
         parts = time_val.split(" ")
         if len(parts) == 2 and ":" in parts[0] and len(parts[0]) < 5:
-            time_val = f"{parts[0].zfill(5)} {parts[1]}"   # 9:00 -> 09:00
-        return f"{time_val} {base}"
+            time_val = f"{parts[0].zfill(5)} {parts[1]}"
+        time_part = f"{time_val} "
+
+    if is_live:
+        return f"{time_part}🔴 {base}".strip()
+    if time_part:
+        return f"{time_part}{base}"
     return base
 
 def m3u_entry(group_title, display_name, logo, link, source_index):
