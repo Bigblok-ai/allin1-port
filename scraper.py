@@ -33,15 +33,13 @@ SOURCES = [
     {"name": "ChoangTV", "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/output.json"},
 ]
 
-HOIQUAN_FILE = "hoiquan.json"
+HOIQUAN_M3U_FILE = "hoiquan.m3u"      # file kênh TV đầu vào (định dạng M3U)
+DEFAULT_TV_GROUP = "📺 Kênh Truyền Hình"
 FOOTBALL_TIME_LIMIT_HOURS = 20
 
-# ==========================================
-# CONFIG M3U (TIVIMATE)
-# ==========================================
 M3U_OUTPUT_FILE = "output.m3u"
-M3U_INCLUDE_ALL_SOURCES = True   # True = link dự phòng xuất thành kênh riêng; False = chỉ lấy link đầu tiên
-M3U_SUFFIX_SOURCES = True        # Thêm " | Nguồn 2" vào tên các link dự phòng
+M3U_INCLUDE_ALL_SOURCES = True        # True = link dự phòng xuất thành kênh riêng
+M3U_SUFFIX_SOURCES = True             # Thêm " | Nguồn 2" vào link dự phòng
 
 try:
     from zoneinfo import ZoneInfo
@@ -126,6 +124,25 @@ COUNTRY_MAP = {
     "anh": "england",
     "dai loan": "chinese taipei",
 }
+
+# ==========================================
+# BẢNG CẤU HÌNH TỰ ĐỘNG TIÊM DRM CHO KÊNH
+# ==========================================
+DRM_AUTO_INJECT = [
+    {
+        "url_contains": "mytvnet.vn/pkg20/live_dzones/hbo.smil",
+        "user_agent": "Dalvik/2.1.0",
+        "drm_type": "clearkey",
+        "drm_key": "09ddfe3d63863caf2eeb79d0546b098a:3dde0f38dcf014827dfd5bec38743c6a"
+    },
+    # Mẫu thêm kênh DRM mới (vd VTVPrime) — thay KID:KEY thật vào:
+    # {
+    #     "url_contains": "vtvprime.vn",
+    #     "user_agent": "",
+    #     "drm_type": "clearkey",
+    #     "drm_key": "KID_HEX:KEY_HEX"
+    # },
+]
 
 # ==========================================
 # HELPER FUNCTIONS
@@ -322,105 +339,221 @@ def extract_sort_key(channel):
     return (2, 99, 99, 99, 99)
 
 # ==========================================
-# BẢNG CẤU HÌNH TỰ ĐỘNG TIÊM DRM CHO KÊNH
+# ★ M3U READER — đọc file kênh TV (hoiquan.m3u)
 # ==========================================
-DRM_AUTO_INJECT = [
-    {
-        "url_contains": "mytvnet.vn/pkg20/live_dzones/hbo.smil",
-        "user_agent": "Dalvik/2.1.0",
-        "drm_type": "clearkey",
-        "drm_key": "09ddfe3d63863caf2eeb79d0546b098a:3dde0f38dcf014827dfd5bec38743c6a"
-    }
-]
+def parse_extinf(line):
+    """Trả về (tên hiển thị, dict attrs) từ 1 dòng #EXTINF"""
+    attrs = dict(re.findall(r'([\w-]+)="([^"]*)"', line))
+    no_attrs = re.sub(r'"[^"]*"', '', line)
+    if ',' in no_attrs:
+        name = no_attrs.split(',', 1)[1].strip()
+    else:
+        name = attrs.get('tvg-name', '').strip()
+    return name, attrs
 
-# ==========================================
-# LOGIC KÊNH TRUYỀN HÌNH - GOM LINK CÙNG TÊN + TIÊM DRM
-# ==========================================
-def build_tv_channels(tv_list):
-    grouped = defaultdict(list)
-    for ch in tv_list:
-        grouped[ch["name"]].append(ch)
+def parse_m3u_tv(filepath):
+    """
+    M3U -> list dict: {name, group, url, logo, user_agent, referer,
+                       drm_type, drm_key, manifest_type}
+    - Đọc cả #EXTVLCOPT lẫn #EXTHTTP
+    - Đọc group-title / #EXTGRP để giữ nguyên nhóm kênh
+    - Đọc #KODIPROP (manifest_type, clearkey license_type/license_key)
+    - Bỏ qua entry thiếu tên hoặc thiếu URL
+    """
+    entries = []
+    current = None
 
-    channels = []
-    for i, (name, variants) in enumerate(grouped.items()):
-        logo = variants[0].get("logo", "")
+    def finalize(cur):
+        if cur and cur.get("url"):
+            if not cur.get("name"):
+                cur["name"] = "Unknown"
+            entries.append(cur)
 
-        sources = []
-        for j, var in enumerate(variants):
-            try:
-                domain = var["url"].split("//")[1].split("/")[0]
-                domain_parts = domain.split(".")
-                src_name = f"Source {j+1} - {domain_parts[-2] if len(domain_parts) > 1 else domain}"
-            except:
-                src_name = f"Source {j+1}"
+    with open(filepath, "r", encoding="utf-8-sig") as f:
+        for raw in f:
+            line = raw.strip()
+            if not line or line.startswith("#EXTM3U"):
+                continue
 
-            url = var.get("url", "")
-            ua = var.get("user_agent", "")
-            drm_type = var.get("drm_type", "")
-            drm_key_raw = var.get("drm_key", "")
-
-            for drm_cfg in DRM_AUTO_INJECT:
-                if drm_cfg["url_contains"] in url:
-                    if not ua: ua = drm_cfg.get("user_agent", "")
-                    if not drm_type: drm_type = drm_cfg.get("drm_type", "")
-                    if not drm_key_raw: drm_key_raw = drm_cfg.get("drm_key", "")
-                    break
-
-            link_type = "dash" if ".mpd" in url.lower() else "hls"
-            headers = [{"key": "User-Agent", "value": ua}] if ua else []
-            drm_key_obj = drm_key_raw
-
-            sources.append({
-                "id": f"src-tv-{i}-{j}",
-                "name": src_name,
-                "contents": [{
-                    "id": f"ct-tv-{i}-{j}",
+            if line.startswith("#EXTINF"):
+                finalize(current)
+                current = None
+                name, attrs = parse_extinf(line)
+                if not name:
+                    continue  # bỏ entry không có tên
+                current = {
                     "name": name,
-                    "streams": [{
-                        "id": f"st-tv-{i}-{j}",
-                        "name": "KT",
-                        "stream_links": [{
-                            "id": f"lnk-tv-{i}-{j}",
-                            "name": f"Link {j+1}",
-                            "type": link_type,
-                            "default": j == 0,
-                            "url": url,
-                            "request_headers": headers,
-                            "drm_type": drm_type,
-                            "drm_key": drm_key_obj
-                        }]
+                    "group": attrs.get("group-title", ""),
+                    "url": "",
+                    "logo": attrs.get("tvg-logo", ""),
+                    "user_agent": "",
+                    "referer": "",
+                    "drm_type": "",
+                    "drm_key": "",
+                    "manifest_type": "",
+                }
+                continue
+
+            if current is None:
+                continue
+
+            if line.startswith("#EXTVLCOPT:"):
+                opt = line[len("#EXTVLCOPT:"):]
+                low = opt.lower()
+                if low.startswith("http-user-agent="):
+                    current["user_agent"] = opt.split("=", 1)[1].strip()
+                elif low.startswith("http-referrer=") or low.startswith("http-referer="):
+                    current["referer"] = opt.split("=", 1)[1].strip()
+
+            elif line.startswith("#EXTGRP:"):
+                current["group"] = line.split(":", 1)[1].strip()
+
+            elif line.startswith("#EXTHTTP:"):
+                try:
+                    hdr = json.loads(line[len("#EXTHTTP:"):])
+                    current["user_agent"] = current["user_agent"] or hdr.get("User-Agent", "")
+                    current["referer"] = current["referer"] or hdr.get("Referer", "")
+                except Exception:
+                    pass
+
+            elif line.startswith("#KODIPROP:"):
+                prop = line[len("#KODIPROP:"):].strip()
+                if "license_type=clearkey" in prop:
+                    current["drm_type"] = "clearkey"
+                elif "license_key=" in prop:
+                    current["drm_key"] = prop.split("license_key=", 1)[1].strip()
+                elif "manifest_type=" in prop:
+                    current["manifest_type"] = prop.split("manifest_type=", 1)[1].strip().lower()
+
+            elif not line.startswith("#"):
+                current["url"] = line
+                finalize(current)
+                current = None
+
+    finalize(current)
+    return entries
+
+# ==========================================
+# ★ KÊNH TRUYỀN HÌNH — build channel + gom nguồn + tiêm DRM
+# ==========================================
+def build_tv_channel_obj(i, name, variants):
+    logo = variants[0].get("logo", "")
+
+    sources = []
+    for j, var in enumerate(variants):
+        try:
+            domain = var["url"].split("//")[1].split("/")[0]
+            domain_parts = domain.split(".")
+            src_name = f"Source {j+1} - {domain_parts[-2] if len(domain_parts) > 1 else domain}"
+        except Exception:
+            src_name = f"Source {j+1}"
+
+        url = var.get("url", "")
+        ua = var.get("user_agent", "")
+        referer = var.get("referer", "")
+        drm_type = var.get("drm_type", "")
+        drm_key_raw = var.get("drm_key", "")
+
+        # Tự động tiêm DRM nếu URL khớp cấu hình
+        for drm_cfg in DRM_AUTO_INJECT:
+            if drm_cfg["url_contains"] in url:
+                if not ua: ua = drm_cfg.get("user_agent", "")
+                if not drm_type: drm_type = drm_cfg.get("drm_type", "")
+                if not drm_key_raw: drm_key_raw = drm_cfg.get("drm_key", "")
+                break
+
+        if drm_type == "clearkey" and not drm_key_raw:
+            print(f"  ⚠️ '{name}': có DRM clearkey nhưng THIẾU license_key -> sẽ xuất không DRM (không thể giải mã)")
+
+        # Nhận diện DASH: ưu tiên đuôi .mpd, dự phòng manifest_type từ KODIPROP
+        is_dash = ".mpd" in url.lower() or var.get("manifest_type", "") == "mpd"
+        link_type = "dash" if is_dash else "hls"
+
+        headers = []
+        if ua:
+            headers.append({"key": "User-Agent", "value": ua})
+        if referer:
+            headers.append({"key": "Referer", "value": referer})
+
+        sources.append({
+            "id": f"src-tv-{i}-{j}",
+            "name": src_name,
+            "contents": [{
+                "id": f"ct-tv-{i}-{j}",
+                "name": name,
+                "streams": [{
+                    "id": f"st-tv-{i}-{j}",
+                    "name": "KT",
+                    "stream_links": [{
+                        "id": f"lnk-tv-{i}-{j}",
+                        "name": f"Link {j+1}",
+                        "type": link_type,
+                        "default": j == 0,
+                        "url": url,
+                        "request_headers": headers,
+                        "drm_type": drm_type,
+                        "drm_key": drm_key_raw
                     }]
                 }]
-            })
+            }]
+        })
 
-        channel_obj = {
-            "id": f"tv-{i}",
-            "name": name,
-            "type": "single",
-            "display": "thumbnail-only",
-            "enable_detail": False,
-            "labels": [
-                {"text": "● LIVE", "position": "top-left", "color": "#00000080", "text_color": "#ff4444"}
-            ],
-            "sources": sources,
-            "org_metadata": {
-                "is_live": True,
-                "time": "",
-                "team_a": name,
-                "team_b": ""
-            },
-            "image": {
-                "padding": 1,
-                "background_color": "#ffffff",
-                "display": "contain",
-                "url": logo,
-                "width": 1600,
-                "height": 1200
-            }
+    return {
+        "id": f"tv-{i}",
+        "name": name,
+        "type": "single",
+        "display": "thumbnail-only",
+        "enable_detail": False,
+        "labels": [
+            {"text": "● LIVE", "position": "top-left", "color": "#00000080", "text_color": "#ff4444"}
+        ],
+        "sources": sources,
+        "org_metadata": {
+            "is_live": True,
+            "time": "",
+            "team_a": name,
+            "team_b": ""
+        },
+        "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": logo,
+            "width": 1600,
+            "height": 1200
         }
-        channels.append(channel_obj)
+    }
 
-    return channels
+def build_tv_groups(tv_list):
+    """
+    Gom link cùng tên -> 1 kênh nhiều nguồn.
+    Giữ nguyên group-title từ file gốc -> trả về list các group TV.
+    """
+    group_order = []
+    groups_map = {}
+    for ch in tv_list:
+        g_name = (ch.get("group") or "").strip() or DEFAULT_TV_GROUP
+        if g_name not in groups_map:
+            groups_map[g_name] = defaultdict(list)
+            group_order.append(g_name)
+        groups_map[g_name][ch["name"]].append(ch)
+
+    result = []
+    ch_counter = 0
+    for g_name in group_order:
+        channels = []
+        for name, variants in groups_map[g_name].items():
+            channels.append(build_tv_channel_obj(ch_counter, name, variants))
+            ch_counter += 1
+        result.append({
+            "id": f"grp-tv-{len(result)}",
+            "name": g_name,
+            "display": "vertical",
+            "grid_number": 2,
+            "enable_detail": False,
+            "channels": channels
+        })
+    return result
 
 # ==========================================
 # ★ M3U WRITER (TIVIMATE)
@@ -493,28 +626,31 @@ def m3u_entry(group_title, display_name, logo, link, source_index):
         hdr_json["User-Agent"] = ua
     if referer:
         hdr_json["Referer"] = referer
-    hdr_json.update(headers)   # các header lạ còn lại
+    hdr_json.update(headers)
     if hdr_json:
         lines.append("#EXTHTTP:" + json.dumps(hdr_json, separators=(",", ":"), ensure_ascii=False))
 
-    # --- 2) #EXTVLCOPT — giữ cho VLC và player khác ---
+    # --- 2) #EXTVLCOPT — cho VLC / player khác ---
     if ua:
         lines.append(f"#EXTVLCOPT:http-user-agent={ua}")
     if referer:
         lines.append(f"#EXTVLCOPT:http-referrer={referer}")
 
-    # --- DRM Clearkey (như cũ) ---
+    # --- 3) DASH hint (VLC bỏ qua, Kodi/TiViMate đọc) ---
+    is_dash = link.get("type") == "dash" or ".mpd" in url.lower()
+    if is_dash:
+        lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
+
+    # --- 4) DRM Clearkey (chỉ xuất khi đủ type + key) ---
     drm_type = (link.get("drm_type") or "").lower()
     drm_key = link.get("drm_key") or ""
     if drm_type == "clearkey" and drm_key:
-        if ".mpd" in url.lower():
-            lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
         lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
         lines.append(f"#KODIPROP:inputstream.adaptive.license_key={drm_key}")
 
     lines.append(url)
     return lines
-    
+
 def build_m3u(final_data):
     lines = ["#EXTM3U"]
     for group in final_data.get("groups", []):
@@ -550,7 +686,7 @@ def main():
         raw_jsons = list(executor.map(fetch_json, [s["url"] for s in SOURCES]))
 
     # ==========================================
-    # BƯỚC 1: GỘP DỮ LIỆU TỪ 5 NGUỒN
+    # BƯỚC 1: GỘP DỮ LIỆU THỂ THAO TỪ 5 NGUỒN JSON
     # ==========================================
     for index, raw_data in enumerate(raw_jsons):
         if not raw_data: continue
@@ -627,29 +763,21 @@ def main():
                             existing_channel["sources"].append(temp_src)
 
     # ==========================================
-    # BƯỚC 2: GỘP KÊNH TRUYỀN HÌNH
+    # BƯỚC 2: GỘP KÊNH TRUYỀN HÌNH (từ file M3U, giữ nguyên group)
     # ==========================================
     try:
-        if os.path.exists(HOIQUAN_FILE):
-            with open(HOIQUAN_FILE, "r", encoding="utf-8") as f:
-                tv_list = json.load(f)
+        if os.path.exists(HOIQUAN_M3U_FILE):
+            tv_list = parse_m3u_tv(HOIQUAN_M3U_FILE)
             if tv_list:
-                tv_channels = build_tv_channels(tv_list)
-
-                tv_group = {
-                    "id": "grp-tv-hoiquan",
-                    "name": "📺 Kênh Truyền Hình",
-                    "display": "vertical",
-                    "grid_number": 2,
-                    "enable_detail": False,
-                    "channels": tv_channels
-                }
-                final_data["groups"].insert(0, tv_group)
-                print(f"Da gom {len(tv_list)} link tu {len(tv_channels)} kenh truyen hinh.")
+                tv_groups = build_tv_groups(tv_list)
+                for gi, grp in enumerate(tv_groups):
+                    final_data["groups"].insert(gi, grp)
+                total_tv_ch = sum(len(g["channels"]) for g in tv_groups)
+                print(f"Da doc {len(tv_list)} link -> {total_tv_ch} kenh TV trong {len(tv_groups)} nhom ({HOIQUAN_M3U_FILE}).")
         else:
-            print(f"Canh bao: Khong tim thay file {HOIQUAN_FILE}.")
+            print(f"Canh bao: Khong tim thay file {HOIQUAN_M3U_FILE}.")
     except Exception as e:
-        print(f"Canh bao: Loi xu ly {HOIQUAN_FILE} -> {e}")
+        print(f"Canh bao: Loi xu ly {HOIQUAN_M3U_FILE} -> {e}")
 
     # ==========================================
     # BƯỚC 3: LỌC BÓNG ĐÁ — CHỈ GIỮ TRẬN TRONG 20H TỚI
@@ -694,18 +822,7 @@ def main():
         valid_channels = []
         ghosts = 0
         for ch in g["channels"]:
-            has_link = False
-            for src in ch.get("sources", []):
-                for ct in src.get("contents", []):
-                    for st in ct.get("streams", []):
-                        for lnk in st.get("stream_links", []):
-                            if lnk.get("url"):
-                                has_link = True
-                                break
-                        if has_link: break
-                    if has_link: break
-                if has_link: break
-
+            has_link = bool(collect_links(ch))
             if has_link:
                 valid_channels.append(ch)
             else:
