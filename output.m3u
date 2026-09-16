@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV1.jpg" group-title="VTV (13 LIVE)",VTV1
+#EXTINF:-1 tvg-id="" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV1.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV2" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV2_ident2026.jpg" group-title="VTV (13 LIVE)",VTV2
+#EXTINF:-1 tvg-id="" tvg-name="VTV2" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV2_ident2026.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV2
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV3" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV3.jpg" group-title="VTV (13 LIVE)",VTV3
+#EXTINF:-1 tvg-id="" tvg-name="VTV3" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV3.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV3
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV4" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV4_ident2026.jpg" group-title="VTV (13 LIVE)",VTV4
+#EXTINF:-1 tvg-id="" tvg-name="VTV4" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV4_ident2026.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV4
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vietnam Today" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg" group-title="VTV (13 LIVE)",Vietnam Today
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam Today" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV5" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV5.jpg" group-title="VTV (13 LIVE)",VTV5
+#EXTINF:-1 tvg-id="" tvg-name="VTV5" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV5.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV5
 #EXTHTTP:{"User-Agent":"cvmedia/1.1.0"}
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV5TNB.jpg" group-title="VTV (13 LIVE)",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV5TNB.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV5 Tây Nam Bộ
 https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV5TN.jpg" group-title="VTV (13 LIVE)",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV5TN.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6_logo2026.jpg" group-title="VTV (13 LIVE)",VTV6
+#EXTINF:-1 tvg-id="" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6_logo2026.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV6
 https://vmttv.dpdns.org/tv360/?id=vtv6-hd
-#EXTINF:-1 tvg-id="" tvg-name="VTV7" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV7_logo2026.jpg" group-title="VTV (13 LIVE)",VTV7
+#EXTINF:-1 tvg-id="" tvg-name="VTV7" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV7_logo2026.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV7
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV8" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV8.jpg" group-title="VTV (13 LIVE)",VTV8
+#EXTINF:-1 tvg-id="" tvg-name="VTV8" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV8.jpg" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV8
 https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV9" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV9.png" group-title="VTV (13 LIVE)",VTV9
+#EXTINF:-1 tvg-id="" tvg-name="VTV9" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV9.png" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV9
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV10" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png" group-title="VTV (13 LIVE)",VTV10
+#EXTINF:-1 tvg-id="" tvg-name="VTV10" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png" group-title="📺 Kênh Truyền Hình (16 LIVE)",VTV10
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV360+12" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png" group-title="Sự Kiện TV360 (1 LIVE)",TV360+12
+#EXTINF:-1 tvg-id="" tvg-name="TV360+12" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png" group-title="📺 Kênh Truyền Hình (16 LIVE)",TV360+12
 #EXTHTTP:{"User-Agent":"Dalvik/2.1.0"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6db5c5c963365f6fafa1a23b8a06bd67:1a0727fcea62de4e4471ebb0aaaec628
 https://vmttv.dpdns.org/tv360/?id=tv360-12
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png" group-title="Quốc Tế (1 LIVE)",HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png" group-title="📺 Kênh Truyền Hình (16 LIVE)",HBO
 #EXTHTTP:{"User-Agent":"Dalvik/2.1.0"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="THỂ THAO QUỐC TẾ (1 LIVE)",Sky Sport F1
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (16 LIVE)",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="🔴 Al Hussein vs East Bengal" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/c214b2uitlpz_922c7c2a_20260917.png?v=922c7c2a" group-title="⚽ Bóng Đá (7 LIVE)",🔴 Al Hussein vs East Bengal
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
