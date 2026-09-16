@@ -45,77 +45,72 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (17 LIVE)",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="02:30 🔴 Levante vs Ath Bilbao" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/2f9c5105-11bd-46ac-8154-61daa2f8997d_2925e6b4_20260917.png?v=2925e6b4" group-title="⚽ Bóng Đá (1 LIVE)",02:30 🔴 Levante vs Ath Bilbao
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://livecdn.cdnfastter.xyz/live/livehub7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:30 17/09 Colorado Rapids vs St. Louis City" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/rn3fj7zki7sp_de423f78_20260917.png?v=de423f78" group-title="⚽ Bóng Đá (1 LIVE)",08:30 17/09 Colorado Rapids vs St. Louis City
+#EXTINF:-1 tvg-id="" tvg-name="08:30 17/09 Colorado Rapids vs St. Louis City" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/rn3fj7zki7sp_de423f78_20260917.png?v=de423f78" group-title="⚽ Bóng Đá",08:30 17/09 Colorado Rapids vs St. Louis City
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789576921_hd/1789576921_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:30 17/09 Denver Summit vs Bay FC" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ezy6zmv4f5mi_5684f9aa_20260917.png?v=5684f9aa" group-title="⚽ Bóng Đá (1 LIVE)",08:30 17/09 Denver Summit vs Bay FC
+#EXTINF:-1 tvg-id="" tvg-name="08:30 17/09 Denver Summit vs Bay FC" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ezy6zmv4f5mi_5684f9aa_20260917.png?v=5684f9aa" group-title="⚽ Bóng Đá",08:30 17/09 Denver Summit vs Bay FC
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789576959_hd/1789576959_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:00 17/09 Angel City vs Seattle Reign" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/4j0dw6a7fecv_c1345c52_20260917.png?v=c1345c52" group-title="⚽ Bóng Đá (1 LIVE)",09:00 17/09 Angel City vs Seattle Reign
+#EXTINF:-1 tvg-id="" tvg-name="09:00 17/09 Angel City vs Seattle Reign" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/4j0dw6a7fecv_c1345c52_20260917.png?v=c1345c52" group-title="⚽ Bóng Đá",09:00 17/09 Angel City vs Seattle Reign
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789577069_hd/1789577069_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 17/09 Uzbekistan Nữ vs China Nữ" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536aac_f87de7c2_20260917.png?v=f87de7c2" group-title="⚽ Bóng Đá (1 LIVE)",12:00 17/09 Uzbekistan Nữ vs China Nữ
+#EXTINF:-1 tvg-id="" tvg-name="12:00 17/09 Uzbekistan Nữ vs China Nữ" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536aac_f87de7c2_20260917.png?v=f87de7c2" group-title="⚽ Bóng Đá",12:00 17/09 Uzbekistan Nữ vs China Nữ
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789577142_hd/1789577142_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 17/09 Bangladesh W vs South Korea W" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536abf_079f38dc_20260917.png?v=079f38dc" group-title="⚽ Bóng Đá (1 LIVE)",14:00 17/09 Bangladesh W vs South Korea W
+#EXTINF:-1 tvg-id="" tvg-name="14:00 17/09 Bangladesh W vs South Korea W" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536abf_079f38dc_20260917.png?v=079f38dc" group-title="⚽ Bóng Đá",14:00 17/09 Bangladesh W vs South Korea W
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789577160_hd/1789577160_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 17/09 Thailand W vs Chinese Taipei W" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536ab5_644af9be_20260917.png?v=644af9be" group-title="⚽ Bóng Đá (1 LIVE)",14:00 17/09 Thailand W vs Chinese Taipei W
+#EXTINF:-1 tvg-id="" tvg-name="14:00 17/09 Thailand W vs Chinese Taipei W" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536ab5_644af9be_20260917.png?v=644af9be" group-title="⚽ Bóng Đá",14:00 17/09 Thailand W vs Chinese Taipei W
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789577221_hd/1789577221_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 17/09 Hồng Kông Nữ vs Nữ Philippines" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536adc_c31ec564_20260917.png?v=c31ec564" group-title="⚽ Bóng Đá (1 LIVE)",17:00 17/09 Hồng Kông Nữ vs Nữ Philippines
+#EXTINF:-1 tvg-id="" tvg-name="17:00 17/09 Hồng Kông Nữ vs Nữ Philippines" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536adc_c31ec564_20260917.png?v=c31ec564" group-title="⚽ Bóng Đá",17:00 17/09 Hồng Kông Nữ vs Nữ Philippines
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789571019_hd/1789571019_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 17/09 Adelaide United FC vs Wofoo Tai Po" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd93_33e97670_20260917.png?v=33e97670" group-title="⚽ Bóng Đá (1 LIVE)",17:00 17/09 Adelaide United FC vs Wofoo Tai Po
+#EXTINF:-1 tvg-id="" tvg-name="17:00 17/09 Adelaide United FC vs Wofoo Tai Po" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd93_33e97670_20260917.png?v=33e97670" group-title="⚽ Bóng Đá",17:00 17/09 Adelaide United FC vs Wofoo Tai Po
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789571112_hd/1789571112_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 17/09 Nữ Việt Nam vs Nữ Nhật Bản" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536b1b_ed2c667f_20260917.png?v=ed2c667f" group-title="⚽ Bóng Đá (1 LIVE)",17:30 17/09 Nữ Việt Nam vs Nữ Nhật Bản
+#EXTINF:-1 tvg-id="" tvg-name="17:30 17/09 Nữ Việt Nam vs Nữ Nhật Bản" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536b1b_ed2c667f_20260917.png?v=ed2c667f" group-title="⚽ Bóng Đá",17:30 17/09 Nữ Việt Nam vs Nữ Nhật Bản
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789571076_hd/1789571076_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:15 17/09 Kitchee vs Gangwon FC" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a88e7955d02aeccba0052a2_ae52da68_20260917.png?v=ae52da68" group-title="⚽ Bóng Đá (1 LIVE)",19:15 17/09 Kitchee vs Gangwon FC
+#EXTINF:-1 tvg-id="" tvg-name="19:15 17/09 Kitchee vs Gangwon FC" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a88e7955d02aeccba0052a2_ae52da68_20260917.png?v=ae52da68" group-title="⚽ Bóng Đá",19:15 17/09 Kitchee vs Gangwon FC
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789571227_hd/1789571227_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:15 17/09 Phnom Penh FC vs Kuching FA" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9574_e9cff7e0_20260917.png?v=e9cff7e0" group-title="⚽ Bóng Đá (1 LIVE)",19:15 17/09 Phnom Penh FC vs Kuching FA
+#EXTINF:-1 tvg-id="" tvg-name="19:15 17/09 Phnom Penh FC vs Kuching FA" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9574_e9cff7e0_20260917.png?v=e9cff7e0" group-title="⚽ Bóng Đá",19:15 17/09 Phnom Penh FC vs Kuching FA
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789571253_hd/1789571253_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 17/09 Navbahor Namangan vs Dinamo Samarkand" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88a9524d46db870488857_a8e47b9e_20260917.png?v=a8e47b9e" group-title="⚽ Bóng Đá (1 LIVE)",20:00 17/09 Navbahor Namangan vs Dinamo Samarkand
+#EXTINF:-1 tvg-id="" tvg-name="20:00 17/09 Navbahor Namangan vs Dinamo Samarkand" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88a9524d46db870488857_a8e47b9e_20260917.png?v=a8e47b9e" group-title="⚽ Bóng Đá",20:00 17/09 Navbahor Namangan vs Dinamo Samarkand
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789571278_hd/1789571278_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:30 17/09 FK Rostov vs Dinamo Moscow" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19b24d46db870536c1c_e84e8ef2_20260917.png?v=e84e8ef2" group-title="⚽ Bóng Đá (1 LIVE)",22:30 17/09 FK Rostov vs Dinamo Moscow
+#EXTINF:-1 tvg-id="" tvg-name="22:30 17/09 FK Rostov vs Dinamo Moscow" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa0a19b24d46db870536c1c_e84e8ef2_20260917.png?v=e84e8ef2" group-title="⚽ Bóng Đá",22:30 17/09 FK Rostov vs Dinamo Moscow
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789571330_hd/1789571330_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 Inter Miami vs Cruz Azul" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/b7586a64-5b09-4c41-afd6-547662b74ac5_bfd9bd22_20260917.png?v=bfd9bd22" group-title="⚽ Bóng Đá (1 LIVE)",07:00 Inter Miami vs Cruz Azul
+#EXTINF:-1 tvg-id="" tvg-name="07:00 Inter Miami vs Cruz Azul" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/b7586a64-5b09-4c41-afd6-547662b74ac5_bfd9bd22_20260917.png?v=bfd9bd22" group-title="⚽ Bóng Đá",07:00 Inter Miami vs Cruz Azul
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.tv/
