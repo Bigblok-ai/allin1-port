@@ -45,21 +45,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (17 LIVE)",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="02:00 19/09 🔴 Brentford vs Chelsea FC" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b47a_bb340d3c_20260919.png?v=bb340d3c" group-title="⚽ Bóng Đá (4 LIVE)",02:00 19/09 🔴 Brentford vs Chelsea FC
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1789719936_hd/1789719936_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 19/09 🔴 Brentford vs Chelsea FC" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b47a_bb340d3c_20260919.png?v=bb340d3c" group-title="⚽ Bóng Đá (4 LIVE)",02:00 19/09 🔴 Brentford vs Chelsea FC | Nguồn 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="" tvg-name="02:00 19/09 🔴 Brentford vs Chelsea FC" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b47a_bb340d3c_20260919.png?v=bb340d3c" group-title="⚽ Bóng Đá (4 LIVE)",02:00 19/09 🔴 Brentford vs Chelsea FC | Nguồn 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://livecdn.cdnfastter.xyz/live/livehub5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:00 19/09 🔴 Espanyol vs Elche" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b48b_5ae00598_20260919.png?v=5ae00598" group-title="⚽ Bóng Đá (4 LIVE)",02:00 19/09 🔴 Espanyol vs Elche
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -85,6 +70,16 @@ https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.tv/
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="" tvg-name="02:00 🔴 Brentford vs Chelsea" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/9a2197e2-28e5-4e10-a571-362afbf09e4f_0bfebed2_20260919.png?v=0bfebed2" group-title="⚽ Bóng Đá (4 LIVE)",02:00 🔴 Brentford vs Chelsea
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.tv/
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="" tvg-name="02:00 🔴 Brentford vs Chelsea" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/9a2197e2-28e5-4e10-a571-362afbf09e4f_0bfebed2_20260919.png?v=0bfebed2" group-title="⚽ Bóng Đá (4 LIVE)",02:00 🔴 Brentford vs Chelsea | Nguồn 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.tv/
+https://livecdn.cdnfastter.xyz/live/livehub5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="06:00 19/09 DC Power W vs Tampa Bay Sun W" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/u4ttunz7ahg7_e53fc287_20260919.png?v=e53fc287" group-title="⚽ Bóng Đá (4 LIVE)",06:00 19/09 DC Power W vs Tampa Bay Sun W
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -100,16 +95,16 @@ https://eqr2hdarxfliv.vcdn.cloud/1789749697_hd/1789749697_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789740601_hd/1789740601_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:30 19/09 Meizhou Hakka vs Hebei Gongfu" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c696_f1d2c062_20260919.png?v=f1d2c062" group-title="⚽ Bóng Đá (4 LIVE)",18:30 19/09 Meizhou Hakka vs Hebei Gongfu
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1789741124_hd/1789741124_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="18:30 19/09 Tottenham Hotspur vs Aston Villa" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c5b6_11a13e57_20260919.png?v=11a13e57" group-title="⚽ Bóng Đá (4 LIVE)",18:30 19/09 Tottenham Hotspur vs Aston Villa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789741328_hd/1789741328_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:30 19/09 Meizhou Hakka vs Hebei Gongfu" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c696_f1d2c062_20260919.png?v=f1d2c062" group-title="⚽ Bóng Đá (4 LIVE)",18:30 19/09 Meizhou Hakka vs Hebei Gongfu
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://eqr2hdarxfliv.vcdn.cloud/1789741124_hd/1789741124_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="19:00 19/09 Osasuna vs Rayo Vallecano" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88aaa24d46db87048c8a3_5089c7ad_20260919.png?v=5089c7ad" group-title="⚽ Bóng Đá (4 LIVE)",19:00 19/09 Osasuna vs Rayo Vallecano
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -210,11 +205,26 @@ https://eqr2hdarxfliv.vcdn.cloud/1789741804_hd/1789741804_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789742230_hd/1789742230_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:00 20/09 Dallas Wings vs Phoenix Mercury" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/29325076_0071b2bf_20260919.png?v=0071b2bf" group-title="🏀 Bóng Rổ",00:00 20/09 Dallas Wings vs Phoenix Mercury
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://eqr2hdarxfliv.vcdn.cloud/1789765048_hd/1789765048_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="06:00 20/09 Atlanta Dream vs Chicago Sky" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/10425078_ae61326a_20260919.png?v=ae61326a" group-title="🏀 Bóng Rổ",06:00 20/09 Atlanta Dream vs Chicago Sky
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://eqr2hdarxfliv.vcdn.cloud/1789765069_hd/1789765069_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 19/09 Ba Lan vs Latvia" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/lfnsc5z6w02x_b19d00be_20260919.png?v=b19d00be" group-title="🏐 Bóng Chuyền",20:00 19/09 Ba Lan vs Latvia
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789742991_hd/1789742991_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 19/09 Germany vs Bulgaria" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/iy1ej2j9ya5m_2ba04b61_20260919.png?v=2ba04b61" group-title="🏐 Bóng Chuyền",23:00 19/09 Germany vs Bulgaria
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://eqr2hdarxfliv.vcdn.cloud/1789765092_hd/1789765092_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="04:00 20/09 Van vs Pantoja 2" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ty1nn69th37m_f8d4c999_20260919.png?v=f8d4c999" group-title="🥊 Võ Thuật",04:00 20/09 Van vs Pantoja 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
