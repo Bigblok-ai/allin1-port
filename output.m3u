@@ -49,12 +49,7 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=11494
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 tvg-id="" tvg-name="02:00 🔴 Espanyol vs Elche" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/e2ef6918-4e10-44d7-b706-75ec6637d801_ca30d0ec_20260919.png?v=ca30d0ec" group-title="⚽ Bóng Đá (1 LIVE)",02:00 🔴 Espanyol vs Elche | Nguồn 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://livecdn.cdnfastter.xyz/live/livehub3/index.m3u8
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159
 #EXTINF:-1 tvg-id="" tvg-name="06:00 19/09 DC Power W vs Tampa Bay Sun W" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/u4ttunz7ahg7_e53fc287_20260919.png?v=e53fc287" group-title="⚽ Bóng Đá (1 LIVE)",06:00 19/09 DC Power W vs Tampa Bay Sun W
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -150,16 +145,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1789764867_hd/1789764867_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789764900_hd/1789764900_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:45 Monaco vs Lens" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/bc88e18f-a59c-4d1c-b0b8-775b15ea7da7_df6cdefc_20260919.png?v=df6cdefc" group-title="⚽ Bóng Đá (1 LIVE)",01:45 Monaco vs Lens
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-#EXTINF:-1 tvg-id="" tvg-name="02:00 Brentford vs Chelsea" tvg-logo="https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/thumbs/9a2197e2-28e5-4e10-a571-362afbf09e4f_0bfebed2_20260919.png?v=0bfebed2" group-title="⚽ Bóng Đá (1 LIVE)",02:00 Brentford vs Chelsea
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-id="" tvg-name="06:30 19/09 Minnesota Lynx vs New York Liberty" tvg-logo="https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/26325073_180df4ab_20260919.png?v=180df4ab" group-title="🏀 Bóng Rổ",06:30 19/09 Minnesota Lynx vs New York Liberty
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
