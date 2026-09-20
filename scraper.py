@@ -27,10 +27,10 @@ CATEGORIES = {
 
 SOURCES = [
     {"name": "Giovang", "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json"},
+    {"name": "Hoiquan", "url": "https://raw.githubusercontent.com/jasminliu98/hoiquan-stream/refs/heads/main/output.json"},
     {"name": "PhaoHoa", "url": "https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/output.json"},
     {"name": "ChuoiChien", "url": "https://raw.githubusercontent.com/jasminliu98/loc-stream/refs/heads/main/output.json"},
     {"name": "ChoangTV", "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/output.json"},
-    {"name": "Phalang", "url": "https://raw.githubusercontent.com/jasminliu98/teee/refs/heads/main/output.json"},    
 ]
 
 HOIQUAN_M3U_FILE = "hoiquan.m3u"      # file kênh TV đầu vào (định dạng M3U)
@@ -152,9 +152,8 @@ def fetch_json(source):
     """
     Tải 1 nguồn JSON.
     Trả về (data, None) nếu OK, hoặc (None, mô_tả_lỗi_chi_tiết).
-    Không bao giờ raise — lỗi được trả về dưới dạng chuỗi để log rõ nguồn.
+    Không bao giờ raise — lỗi trả về dạng chuỗi để log rõ nguồn nào lỗi vì gì.
     """
-    name = source.get("name", "?")
     url = source.get("url", "")
     try:
         response = requests.get(url, timeout=15)
@@ -166,7 +165,7 @@ def fetch_json(source):
             snippet = response.text[:200].replace("\n", " ")
             return None, f"JSON không hợp lệ ({e}) | Nội dung đầu: {snippet!r}"
         if not isinstance(data, dict):
-            return None, f"JSON gốc là {type(data).__name__}, kỳ vọng object {url}"
+            return None, f"JSON gốc là {type(data).__name__}, kỳ vọng object — {url}"
         return data, None
     except requests.exceptions.Timeout:
         return None, f"Timeout 15s khi tải {url}"
@@ -178,7 +177,7 @@ def fetch_json(source):
 def sanitize_source_channel(ch):
     """
     Chuẩn hóa 1 channel từ nguồn (nguồn có thể trả null / sai kiểu ở bất kỳ đâu).
-    Trả về (channel_đã_sạch, số_field_đã_sửa) hoặc (None, 0) nếu channel không dùng được.
+    Trả về (channel_đã_sạch, số_field_đã_sửa) hoặc (None, 0) nếu không dùng được.
     """
     if not isinstance(ch, dict):
         return None, 0
@@ -202,6 +201,19 @@ def sanitize_source_channel(ch):
         ch["labels"] = []
         fixes += 1
     return ch, fixes
+
+def channel_label(ch, cate_name=""):
+    """Tên rút gọn 1 channel để in log debug"""
+    meta = ch.get("org_metadata", {})
+    team_a = (meta.get("team_a") or "").strip()
+    team_b = (meta.get("team_b") or "").strip()
+    time_val = (meta.get("time") or "").strip()
+    live = " 🔴LIVE" if meta.get("is_live") else ""
+    name = f"{team_a} vs {team_b}" if team_a and team_b else team_a
+    prefix = f"{cate_name}: " if cate_name else ""
+    if time_val:
+        return f"{prefix}{time_val} {name}{live}".strip()
+    return f"{prefix}{name}{live}".strip()
 
 def normalize_cate_name(name):
     if not isinstance(name, str):
@@ -403,11 +415,10 @@ def parse_extinf(line):
 
 def parse_m3u_tv(filepath):
     """
-    M3U -> (list dict entry, list tên entry bị bỏ qua)
+    M3U -> (list entry hợp lệ, list tên entry bị bỏ qua)
     entry: {name, group, url, logo, user_agent, referer, drm_type, drm_key, manifest_type}
     - Đọc cả #EXTVLCOPT lẫn #EXTHTTP
     - Đọc #KODIPROP (manifest_type, clearkey license_type/license_key)
-    - Entry thiếu URL hoặc thiếu tên được đưa vào list skipped để báo trong log
     """
     entries = []
     skipped = []
@@ -742,9 +753,9 @@ def main():
         base_name = normalize_cate_name(g["name"])
         group_map[base_name] = g
 
-    # Thống kê từng nguồn để debug — in ra cuối log
+    # Thống kê từng nguồn — in chi tiết cuối log để dễ soát lỗi
     source_stats = {
-        s["name"]: {"error": "", "added": 0, "merged": 0, "skipped": 0, "sanitized": 0}
+        s["name"]: {"error": "", "new": [], "merged": [], "skipped": [], "sanitized": 0}
         for s in SOURCES
     }
 
@@ -762,10 +773,7 @@ def main():
             print(f"  ❌ [Nguồn {source['name']}] {error}")
         else:
             src_groups = data.get("groups") if isinstance(data.get("groups"), list) else []
-            n_ch = sum(
-                len(g.get("channels") or [])
-                for g in src_groups if isinstance(g, dict)
-            )
+            n_ch = sum(len(g.get("channels") or []) for g in src_groups if isinstance(g, dict))
             print(f"  ✅ [Nguồn {source['name']}] OK — {len(src_groups)} nhóm, {n_ch} kênh")
     print("=" * 60)
 
@@ -773,7 +781,6 @@ def main():
     # BƯỚC 1: GỘP DỮ LIỆU THỂ THAO TỪ 5 NGUỒN JSON
     # (mỗi nguồn chạy độc lập — nguồn lỗi không làm chết pipeline)
     # ==========================================
-    print("\nGOP DU LIEU THE THAO:")
     for index, (raw_data, fetch_error) in enumerate(fetch_results):
         source_name = SOURCES[index]["name"]
         stats = source_stats[source_name]
@@ -785,17 +792,16 @@ def main():
         try:
             for src_group in (raw_data.get("groups") or []):
                 if not isinstance(src_group, dict):
-                    stats["skipped"] += 1
                     continue
                 src_cate_name = normalize_cate_name(src_group.get("name"))
                 if src_cate_name not in group_map:
-                    continue
+                    continue  # nhóm lạ ngoài 11 môn — bỏ qua im lặng
                 target_group = group_map[src_cate_name]
 
                 for src_channel in (src_group.get("channels") or []):
                     src_channel, n_fix = sanitize_source_channel(src_channel)
                     if src_channel is None:
-                        stats["skipped"] += 1
+                        stats["skipped"].append(f"{src_cate_name}: (channel không phải object)")
                         continue
                     if n_fix:
                         stats["sanitized"] += n_fix
@@ -811,28 +817,28 @@ def main():
                     thumb_url = src_channel["image"].get("url") or ""
 
                     if not team_a:
-                        stats["skipped"] += 1
+                        stats["skipped"].append(f"{src_cate_name}: thiếu team_a")
                         continue
 
+                    label = channel_label(src_channel, src_cate_name)
                     ch_idx = find_channel_index(time_val, team_a, team_b, target_group["channels"], date_val)
 
                     if ch_idx == -1:
                         new_channel = copy.deepcopy(src_channel)
                         target_group["channels"].append(new_channel)
-                        stats["added"] += 1
+                        stats["new"].append(label)
                     else:
                         existing_channel = target_group["channels"][ch_idx]
-                        stats["merged"] += 1
 
                         if thumb_url and not existing_channel["image"].get("url"):
                             existing_channel["image"]["url"] = thumb_url
 
                         if meta.get("is_live"):
                             existing_channel["org_metadata"]["is_live"] = True
-                            for label in existing_channel.get("labels", []):
-                                if label.get("text") == "🕐 Sắp":
-                                    label["text"] = "● LIVE"
-                                    label["text_color"] = "#ff4444"
+                            for lb in existing_channel.get("labels", []):
+                                if lb.get("text") == "🕐 Sắp":
+                                    lb["text"] = "● LIVE"
+                                    lb["text_color"] = "#ff4444"
 
                         if time_val and not existing_channel["org_metadata"].get("time", ""):
                             existing_channel["org_metadata"]["time"] = time_val
@@ -845,6 +851,7 @@ def main():
                                         if "url" in link:
                                             existing_urls.add(link["url"])
 
+                        n_new_links = 0
                         for inc_src in src_channel.get("sources", []):
                             has_new_link = False
                             temp_src = copy.deepcopy(inc_src)
@@ -858,6 +865,7 @@ def main():
                                             new_valid_links.append(link)
                                             existing_urls.add(link_url)
                                             has_new_link = True
+                                            n_new_links += 1
 
                                     if new_valid_links:
                                         inc_st["stream_links"] = new_valid_links
@@ -868,14 +876,32 @@ def main():
                             if has_new_link:
                                 existing_channel["sources"].append(temp_src)
 
-            line = f"  ✅ [Nguồn {source_name}] +{stats['added']} mới, {stats['merged']} gộp, bỏ qua {stats['skipped']}"
-            if stats["sanitized"]:
-                line += f", sửa {stats['sanitized']} field lỗi kiểu dữ liệu"
-            print(line)
+                        if n_new_links:
+                            stats["merged"].append(f"{label} (+{n_new_links} link mới)")
+                        else:
+                            stats["skipped"].append(f"{label} (đã có, không link mới)")
 
         except Exception as e:
             stats["error"] = f"{type(e).__name__}: {e}"
-            print(f"  ❌ [Nguồn {source_name}] LỖI XỬ LÝ — {stats['error']} (nguồn này bị bỏ qua)")
+
+    # In chi tiết từng nguồn
+    print("\nGOP DU LIEU THE THAO:")
+    for s in SOURCES:
+        name = s["name"]
+        st = source_stats[name]
+        if st["error"]:
+            print(f"  ❌ [Nguồn {name}] LỖI XỬ LÝ — {st['error']} (nguồn này bị bỏ qua)")
+            continue
+        line = f"  ✅ [Nguồn {name}] +{len(st['new'])} mới, {len(st['merged'])} gộp, bỏ qua {len(st['skipped'])}"
+        if st["sanitized"]:
+            line += f", sửa {st['sanitized']} field lỗi kiểu dữ liệu"
+        print(line)
+        for item in st["new"]:
+            print(f"     ➕ MỚI   : {item}")
+        for item in st["merged"]:
+            print(f"     🔀 GỘP   : {item}")
+        for item in st["skipped"]:
+            print(f"     ⏭️ BỎ QUA: {item}")
 
     # ==========================================
     # BƯỚC 2: GỘP KÊNH TRUYỀN HÌNH (1 nhóm duy nhất, hardcode)
