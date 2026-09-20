@@ -36,6 +36,7 @@ SOURCES = [
 HOIQUAN_M3U_FILE = "hoiquan.m3u"      # file kênh TV đầu vào (định dạng M3U)
 DEFAULT_TV_GROUP = "📺 Kênh Truyền Hình"
 FOOTBALL_TIME_LIMIT_HOURS = 20
+STALE_LIVE_HOURS = 5                  # trận có giờ bắt đầu đã quá X giờ -> xóa (chống LIVE ma)
 
 M3U_OUTPUT_FILE = "output.m3u"
 M3U_INCLUDE_ALL_SOURCES = True        # True = link dự phòng xuất thành kênh riêng
@@ -147,15 +148,64 @@ DRM_AUTO_INJECT = [
 # ==========================================
 # HELPER FUNCTIONS
 # ==========================================
-def fetch_json(url):
+def fetch_json(source):
+    """
+    Tải 1 nguồn JSON.
+    Trả về (data, None) nếu OK, hoặc (None, mô_tả_lỗi_chi_tiết).
+    Không bao giờ raise — lỗi được trả về dưới dạng chuỗi để log rõ nguồn.
+    """
+    name = source.get("name", "?")
+    url = source.get("url", "")
     try:
         response = requests.get(url, timeout=15)
-        response.raise_for_status()
-        return response.json()
-    except Exception:
-        return None
+        if response.status_code != 200:
+            return None, f"HTTP {response.status_code} khi tải {url}"
+        try:
+            data = response.json()
+        except ValueError as e:
+            snippet = response.text[:200].replace("\n", " ")
+            return None, f"JSON không hợp lệ ({e}) | Nội dung đầu: {snippet!r}"
+        if not isinstance(data, dict):
+            return None, f"JSON gốc là {type(data).__name__}, kỳ vọng object {url}"
+        return data, None
+    except requests.exceptions.Timeout:
+        return None, f"Timeout 15s khi tải {url}"
+    except requests.exceptions.RequestException as e:
+        return None, f"Lỗi mạng: {e}"
+    except Exception as e:
+        return None, f"Lỗi không xác định: {type(e).__name__}: {e}"
+
+def sanitize_source_channel(ch):
+    """
+    Chuẩn hóa 1 channel từ nguồn (nguồn có thể trả null / sai kiểu ở bất kỳ đâu).
+    Trả về (channel_đã_sạch, số_field_đã_sửa) hoặc (None, 0) nếu channel không dùng được.
+    """
+    if not isinstance(ch, dict):
+        return None, 0
+
+    fixes = 0
+    if not isinstance(ch.get("org_metadata"), dict):
+        ch["org_metadata"] = {}
+        fixes += 1
+    meta = ch["org_metadata"]
+    for key in ("time", "date", "team_a", "team_b", "blv", "league"):
+        if not isinstance(meta.get(key), str):
+            meta[key] = "" if meta.get(key) is None else str(meta[key])
+            fixes += 1
+    if not isinstance(ch.get("image"), dict):
+        ch["image"] = {}
+        fixes += 1
+    if not isinstance(ch.get("sources"), list):
+        ch["sources"] = []
+        fixes += 1
+    if not isinstance(ch.get("labels"), list):
+        ch["labels"] = []
+        fixes += 1
+    return ch, fixes
 
 def normalize_cate_name(name):
+    if not isinstance(name, str):
+        return ""
     return re.sub(r'\s*\(\d+\s+\w+\)\s*$', '', name, flags=re.IGNORECASE).strip()
 
 def remove_diacritics(text):
@@ -353,21 +403,25 @@ def parse_extinf(line):
 
 def parse_m3u_tv(filepath):
     """
-    M3U -> list dict: {name, group, url, logo, user_agent, referer,
-                       drm_type, drm_key, manifest_type}
+    M3U -> (list dict entry, list tên entry bị bỏ qua)
+    entry: {name, group, url, logo, user_agent, referer, drm_type, drm_key, manifest_type}
     - Đọc cả #EXTVLCOPT lẫn #EXTHTTP
-    - Đọc group-title / #EXTGRP để giữ nguyên nhóm kênh
     - Đọc #KODIPROP (manifest_type, clearkey license_type/license_key)
-    - Bỏ qua entry thiếu tên hoặc thiếu URL
+    - Entry thiếu URL hoặc thiếu tên được đưa vào list skipped để báo trong log
     """
     entries = []
+    skipped = []
     current = None
 
     def finalize(cur):
-        if cur and cur.get("url"):
+        if cur is None:
+            return
+        if cur.get("url"):
             if not cur.get("name"):
                 cur["name"] = "Unknown"
             entries.append(cur)
+        else:
+            skipped.append(cur.get("name") or "(không tên)")
 
     with open(filepath, "r", encoding="utf-8-sig") as f:
         for raw in f:
@@ -380,7 +434,8 @@ def parse_m3u_tv(filepath):
                 current = None
                 name, attrs = parse_extinf(line)
                 if not name:
-                    continue  # bỏ entry không có tên
+                    skipped.append("(EXTINF không có tên)")
+                    continue
                 current = {
                     "name": name,
                     "group": attrs.get("group-title", ""),
@@ -431,7 +486,7 @@ def parse_m3u_tv(filepath):
                 current = None
 
     finalize(current)
-    return entries
+    return entries, skipped
 
 # ==========================================
 # ★ KÊNH TRUYỀN HÌNH — build channel + gom nguồn + tiêm DRM
@@ -463,7 +518,7 @@ def build_tv_channel_obj(i, name, variants):
                 break
 
         if drm_type == "clearkey" and not drm_key_raw:
-            print(f"  ⚠️ '{name}': có DRM clearkey nhưng THIẾU license_key -> sẽ xuất không DRM (không thể giải mã)")
+            print(f"  ⚠️ [TV] '{name}': có DRM clearkey nhưng THIẾU license_key -> sẽ xuất không DRM (không thể giải mã)")
 
         # Nhận diện DASH: ưu tiên đuôi .mpd, dự phòng manifest_type từ KODIPROP
         is_dash = ".mpd" in url.lower() or var.get("manifest_type", "") == "mpd"
@@ -546,13 +601,15 @@ def build_tv_groups(tv_list):
         "enable_detail": False,
         "channels": channels
     }]
-    return result
 
 # ==========================================
 # ★ M3U WRITER (TIVIMATE)
 # ==========================================
 def m3u_escape(text):
-    return str(text or "").replace('"', "'").replace("\n", " ").replace("\r", "").strip()
+    t = str(text or "").replace('"', "'").replace("\n", " ").replace("\r", "")
+    while "  " in t:
+        t = t.replace("  ", " ")
+    return t.strip()
 
 def headers_to_dict(link):
     result = {}
@@ -685,100 +742,162 @@ def main():
         base_name = normalize_cate_name(g["name"])
         group_map[base_name] = g
 
+    # Thống kê từng nguồn để debug — in ra cuối log
+    source_stats = {
+        s["name"]: {"error": "", "added": 0, "merged": 0, "skipped": 0, "sanitized": 0}
+        for s in SOURCES
+    }
+
+    # ==========================================
+    # TẢI 5 NGUỒN + TỔNG QUAN
+    # ==========================================
+    print("Dang tai 5 nguon...")
     with ThreadPoolExecutor(max_workers=5) as executor:
-        raw_jsons = list(executor.map(fetch_json, [s["url"] for s in SOURCES]))
+        fetch_results = list(executor.map(fetch_json, SOURCES))
+
+    print("\n" + "=" * 60)
+    print("TONG QUAN TAI NGUON:")
+    for source, (data, error) in zip(SOURCES, fetch_results):
+        if error:
+            print(f"  ❌ [Nguồn {source['name']}] {error}")
+        else:
+            src_groups = data.get("groups") if isinstance(data.get("groups"), list) else []
+            n_ch = sum(
+                len(g.get("channels") or [])
+                for g in src_groups if isinstance(g, dict)
+            )
+            print(f"  ✅ [Nguồn {source['name']}] OK — {len(src_groups)} nhóm, {n_ch} kênh")
+    print("=" * 60)
 
     # ==========================================
     # BƯỚC 1: GỘP DỮ LIỆU THỂ THAO TỪ 5 NGUỒN JSON
+    # (mỗi nguồn chạy độc lập — nguồn lỗi không làm chết pipeline)
     # ==========================================
-    for index, raw_data in enumerate(raw_jsons):
-        if not raw_data: continue
+    print("\nGOP DU LIEU THE THAO:")
+    for index, (raw_data, fetch_error) in enumerate(fetch_results):
         source_name = SOURCES[index]["name"]
+        stats = source_stats[source_name]
 
-        for src_group in raw_data.get("groups", []):
-            src_cate_name = normalize_cate_name(src_group.get("name", ""))
-            if src_cate_name not in group_map: continue
-            target_group = group_map[src_cate_name]
+        if fetch_error:
+            stats["error"] = fetch_error
+            continue
 
-            for src_channel in src_group.get("channels", []):
-                src_channel = normalize_time_in_channel(src_channel)
+        try:
+            for src_group in (raw_data.get("groups") or []):
+                if not isinstance(src_group, dict):
+                    stats["skipped"] += 1
+                    continue
+                src_cate_name = normalize_cate_name(src_group.get("name"))
+                if src_cate_name not in group_map:
+                    continue
+                target_group = group_map[src_cate_name]
 
-                meta = src_channel.get("org_metadata", {})
-                time_val = meta.get("time", "")
-                date_val = meta.get("date", "")
-                team_a = meta.get("team_a", "")
-                team_b = meta.get("team_b", "")
-                blv_val = meta.get("blv", "")
-                thumb_url = src_channel.get("image", {}).get("url", "")
+                for src_channel in (src_group.get("channels") or []):
+                    src_channel, n_fix = sanitize_source_channel(src_channel)
+                    if src_channel is None:
+                        stats["skipped"] += 1
+                        continue
+                    if n_fix:
+                        stats["sanitized"] += n_fix
 
-                if not team_a: continue
+                    src_channel = normalize_time_in_channel(src_channel)
 
-                ch_idx = find_channel_index(time_val, team_a, team_b, target_group["channels"], date_val)
+                    meta = src_channel["org_metadata"]
+                    time_val = meta.get("time", "")
+                    date_val = meta.get("date", "")
+                    team_a = meta.get("team_a", "")
+                    team_b = meta.get("team_b", "")
+                    blv_val = meta.get("blv", "")
+                    thumb_url = src_channel["image"].get("url") or ""
 
-                if ch_idx == -1:
-                    new_channel = copy.deepcopy(src_channel)
-                    target_group["channels"].append(new_channel)
-                else:
-                    existing_channel = target_group["channels"][ch_idx]
+                    if not team_a:
+                        stats["skipped"] += 1
+                        continue
 
-                    if thumb_url and not existing_channel["image"].get("url"):
-                        existing_channel["image"]["url"] = thumb_url
+                    ch_idx = find_channel_index(time_val, team_a, team_b, target_group["channels"], date_val)
 
-                    if meta.get("is_live"):
-                        existing_channel["org_metadata"]["is_live"] = True
-                        for label in existing_channel.get("labels", []):
-                            if label.get("text") == "🕐 Sắp":
-                                label["text"] = "● LIVE"
-                                label["text_color"] = "#ff4444"
+                    if ch_idx == -1:
+                        new_channel = copy.deepcopy(src_channel)
+                        target_group["channels"].append(new_channel)
+                        stats["added"] += 1
+                    else:
+                        existing_channel = target_group["channels"][ch_idx]
+                        stats["merged"] += 1
 
-                    if time_val and not existing_channel["org_metadata"].get("time", ""):
-                        existing_channel["org_metadata"]["time"] = time_val
+                        if thumb_url and not existing_channel["image"].get("url"):
+                            existing_channel["image"]["url"] = thumb_url
 
-                    existing_urls = set()
-                    for ex_src in existing_channel.get("sources", []):
-                        for ex_ct in ex_src.get("contents", []):
-                            for ex_st in ex_ct.get("streams", []):
-                                for link in ex_st.get("stream_links", []):
-                                    if "url" in link:
-                                        existing_urls.add(link["url"])
+                        if meta.get("is_live"):
+                            existing_channel["org_metadata"]["is_live"] = True
+                            for label in existing_channel.get("labels", []):
+                                if label.get("text") == "🕐 Sắp":
+                                    label["text"] = "● LIVE"
+                                    label["text_color"] = "#ff4444"
 
-                    for inc_src in src_channel.get("sources", []):
-                        has_new_link = False
-                        temp_src = copy.deepcopy(inc_src)
+                        if time_val and not existing_channel["org_metadata"].get("time", ""):
+                            existing_channel["org_metadata"]["time"] = time_val
 
-                        for inc_ct in temp_src.get("contents", []):
-                            for inc_st in inc_ct.get("streams", []):
-                                new_valid_links = []
-                                for link in inc_st.get("stream_links", []):
-                                    link_url = link.get("url", "")
-                                    if link_url and link_url not in existing_urls:
-                                        new_valid_links.append(link)
-                                        existing_urls.add(link_url)
-                                        has_new_link = True
+                        existing_urls = set()
+                        for ex_src in existing_channel.get("sources", []):
+                            for ex_ct in ex_src.get("contents", []):
+                                for ex_st in ex_ct.get("streams", []):
+                                    for link in ex_st.get("stream_links", []):
+                                        if "url" in link:
+                                            existing_urls.add(link["url"])
 
-                                if new_valid_links:
-                                    inc_st["stream_links"] = new_valid_links
-                                    inc_st["name"] = f"{source_name} - {blv_val}".strip(" -")
-                                else:
-                                    inc_st["stream_links"] = []
+                        for inc_src in src_channel.get("sources", []):
+                            has_new_link = False
+                            temp_src = copy.deepcopy(inc_src)
 
-                        if has_new_link:
-                            existing_channel["sources"].append(temp_src)
+                            for inc_ct in temp_src.get("contents", []):
+                                for inc_st in inc_ct.get("streams", []):
+                                    new_valid_links = []
+                                    for link in inc_st.get("stream_links", []):
+                                        link_url = link.get("url", "")
+                                        if link_url and link_url not in existing_urls:
+                                            new_valid_links.append(link)
+                                            existing_urls.add(link_url)
+                                            has_new_link = True
+
+                                    if new_valid_links:
+                                        inc_st["stream_links"] = new_valid_links
+                                        inc_st["name"] = f"{source_name} - {blv_val}".strip(" -")
+                                    else:
+                                        inc_st["stream_links"] = []
+
+                            if has_new_link:
+                                existing_channel["sources"].append(temp_src)
+
+            line = f"  ✅ [Nguồn {source_name}] +{stats['added']} mới, {stats['merged']} gộp, bỏ qua {stats['skipped']}"
+            if stats["sanitized"]:
+                line += f", sửa {stats['sanitized']} field lỗi kiểu dữ liệu"
+            print(line)
+
+        except Exception as e:
+            stats["error"] = f"{type(e).__name__}: {e}"
+            print(f"  ❌ [Nguồn {source_name}] LỖI XỬ LÝ — {stats['error']} (nguồn này bị bỏ qua)")
 
     # ==========================================
     # BƯỚC 2: GỘP KÊNH TRUYỀN HÌNH (1 nhóm duy nhất, hardcode)
     # ==========================================
+    print("\nKENH TRUYEN HINH:")
     try:
         if os.path.exists(HOIQUAN_M3U_FILE):
-            tv_list = parse_m3u_tv(HOIQUAN_M3U_FILE)
-            if tv_list:
-                tv_group = build_tv_groups(tv_list)[0]
+            tv_entries, tv_skipped = parse_m3u_tv(HOIQUAN_M3U_FILE)
+            if tv_skipped:
+                preview = ", ".join(tv_skipped[:5])
+                more = "..." if len(tv_skipped) > 5 else ""
+                print(f"  ⚠️ [TV] Bỏ qua {len(tv_skipped)} entry thiếu URL/tên: {preview}{more}")
+            if tv_entries:
+                tv_group = build_tv_groups(tv_entries)[0]
                 final_data["groups"].insert(0, tv_group)
-                print(f"Da doc {len(tv_list)} link -> {len(tv_group['channels'])} kenh TV ({HOIQUAN_M3U_FILE}).")
+                print(f"  ✅ [TV] {len(tv_entries)} link -> {len(tv_group['channels'])} kênh ({HOIQUAN_M3U_FILE})")
+            else:
+                print(f"  ⚠️ [TV] File {HOIQUAN_M3U_FILE} không có entry hợp lệ")
         else:
-            print(f"Canh bao: Khong tim thay file {HOIQUAN_M3U_FILE}.")
+            print(f"  ⚠️ [TV] Không tìm thấy file {HOIQUAN_M3U_FILE}")
     except Exception as e:
-        print(f"Canh bao: Loi xu ly {HOIQUAN_M3U_FILE} -> {e}")
+        print(f"  ❌ [TV] Lỗi xử lý {HOIQUAN_M3U_FILE}: {type(e).__name__}: {e}")
 
     # ==========================================
     # BƯỚC 3: LỌC BÓNG ĐÁ — CHỈ GIỮ TRẬN TRONG 20H TỚI
@@ -812,7 +931,7 @@ def main():
             removed = before_count - len(filtered)
             g["channels"] = filtered
             if removed > 0:
-                print(f"  ⚽ Bóng Đá: Bo {removed} tran ngoai {FOOTBALL_TIME_LIMIT_HOURS}h toi")
+                print(f"\n  ⚽ Bóng Đá: bỏ {removed} trận ngoài {FOOTBALL_TIME_LIMIT_HOURS}h tới")
             break
 
     # ==========================================
@@ -823,8 +942,7 @@ def main():
         valid_channels = []
         ghosts = 0
         for ch in g["channels"]:
-            has_link = bool(collect_links(ch))
-            if has_link:
+            if collect_links(ch):
                 valid_channels.append(ch)
             else:
                 ghosts += 1
@@ -832,11 +950,40 @@ def main():
         g["channels"] = valid_channels
         total_ghosts += ghosts
         if ghosts > 0:
-            g_name = normalize_cate_name(g["name"])
-            print(f"  🧹 {g_name}: Xoa {ghosts} 'kenh rong' (khong co link phat)")
+            print(f"  🧹 {normalize_cate_name(g['name'])}: xóa {ghosts} kênh rỗng (không có link phát)")
 
     if total_ghosts > 0:
-        print(f"  -> Tong cong da don dep {total_ghosts} kenh rong.")
+        print(f"  -> Tổng cộng dọn {total_ghosts} kênh rỗng.")
+
+    # ==========================================
+    # BƯỚC 3.6: DỌN TRẬN CŨ / "LIVE MA" (mọi bộ môn)
+    # Trận có giờ bắt đầu rõ ràng nhưng đã quá STALE_LIVE_HOURS
+    # -> xóa bất kể nguồn còn flag live hay không.
+    # (Nhóm ⚽ đã lọc chặt hơn ở BƯỚC 3 nên bước này với nó là vô thao tác)
+    # ==========================================
+    now_vn = datetime.now(VIETNAM_TZ)
+    stale_cutoff = now_vn - timedelta(hours=STALE_LIVE_HOURS)
+
+    total_stale = 0
+    for g in final_data["groups"]:
+        if str(g.get("id", "")).startswith("grp-tv"):
+            continue  # kênh TV không có giờ bắt đầu, bỏ qua
+        kept = []
+        removed_stale = 0
+        for ch in g["channels"]:
+            time_val = (ch.get("org_metadata", {}).get("time") or "").strip()
+            match_dt = parse_match_datetime(time_val) if time_val else None
+            if match_dt is not None and match_dt < stale_cutoff:
+                removed_stale += 1
+                continue
+            kept.append(ch)
+        g["channels"] = kept
+        total_stale += removed_stale
+        if removed_stale:
+            print(f"  ⏰ {normalize_cate_name(g['name'])}: xóa {removed_stale} trận đã kết thúc (quá {STALE_LIVE_HOURS}h)")
+
+    if total_stale:
+        print(f"  -> Tổng cộng xóa {total_stale} trận quá hạn.")
 
     # ==========================================
     # BƯỚC 4: SẮP XẾP & ĐẾM LIVE
@@ -867,7 +1014,7 @@ def main():
     # ==========================================
     if os.path.exists("output.json"):
         os.remove("output.json")
-        print("  🗑️ Da xoa output.json (khong con su dung)")
+        print("\n  🗑️ Đã xóa output.json (không còn sử dụng)")
 
     # ==========================================
     # BƯỚC 6: XUẤT FILE M3U CHO TIVIMATE
@@ -878,19 +1025,33 @@ def main():
     with open(staging, "w", encoding="utf-8", newline="\n") as f:
         f.write(m3u_content)
 
+    changed = True
     if os.path.exists(M3U_OUTPUT_FILE):
         with open(M3U_OUTPUT_FILE, "r", encoding="utf-8") as f:
             old_content = f.read()
         if old_content == m3u_content:
             os.remove(staging)
-            print(f"\nXong! -> Khong co thay doi, giu nguyen {M3U_OUTPUT_FILE}")
-            return
-        os.replace(staging, M3U_OUTPUT_FILE)
-    else:
-        os.replace(staging, M3U_OUTPUT_FILE)
+            changed = False
 
-    total_entries = m3u_content.count("#EXTINF")
-    print(f"\nXong! {total_entries} kenh -> {M3U_OUTPUT_FILE} (DA CAP NHAT)")
+    if changed:
+        os.replace(staging, M3U_OUTPUT_FILE)
+        total_entries = m3u_content.count("#EXTINF")
+        print(f"\n✅ {total_entries} entry -> {M3U_OUTPUT_FILE} (ĐÃ CẬP NHẬT)")
+    else:
+        print(f"\n✅ Không có thay đổi, giữ nguyên {M3U_OUTPUT_FILE}")
+
+    # ==========================================
+    # BƯỚC 7: TỔNG KẾT NGUỒN (in cuối log để dễ soát)
+    # ==========================================
+    failed = [(n, st["error"]) for n, st in source_stats.items() if st["error"]]
+    print("\n" + "=" * 60)
+    if failed:
+        print(f"⚠️ CÓ {len(failed)}/{len(SOURCES)} NGUỒN LỖI (output có thể thiếu dữ liệu):")
+        for n, err in failed:
+            print(f"   ❌ {n} -> {err}")
+    else:
+        print(f"✅ Cả {len(SOURCES)} nguồn tải và xử lý thành công.")
+    print("=" * 60)
 
 if __name__ == "__main__":
     main()
