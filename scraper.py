@@ -27,10 +27,10 @@ CATEGORIES = {
 
 SOURCES = [
     {"name": "Giovang", "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/output.json"},
-    {"name": "PhaoHoa", "url": "https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/output.json"},
-    {"name": "ChuoiChien", "url": "https://raw.githubusercontent.com/jasminliu98/tee1/refs/heads/main/output.json"},
+    {"name": "PhaoHoa", "url": "https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/output.json"},
+    {"name": "ChuoiChien", "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/output.json"},
     {"name": "ChoangTV", "url": "https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/output.json"},
-    {"name": "Phalang", "url": "https://raw.githubusercontent.com/jasminliu98/teee/refs/heads/main/output.json"},    
+    {"name": "Phalang", "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/output.json"},    
 ]
 
 HOIQUAN_M3U_FILE = "hoiquan.m3u"      # file kênh TV đầu vào (định dạng M3U)
