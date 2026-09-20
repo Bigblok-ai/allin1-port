@@ -52,62 +52,57 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="02:00 21/09 🔴 Valencia vs Real Sociedad" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88adb24d46db87049606f_e762ee2a_20260921.png?v=e762ee2a" group-title="⚽ Bóng Đá (2 LIVE)",02:00 21/09 🔴 Valencia vs Real Sociedad
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1789889929_hd/1789889929_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:30 21/09 🔴 FC Porto vs SL Benfica" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88adb24d46db8704960ba_3f91604a_20260921.png?v=3f91604a" group-title="⚽ Bóng Đá (2 LIVE)",02:30 21/09 🔴 FC Porto vs SL Benfica
+#EXTINF:-1 tvg-id="" tvg-name="02:30 21/09 🔴 FC Porto vs SL Benfica" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88adb24d46db8704960ba_3f91604a_20260921.png?v=3f91604a" group-title="⚽ Bóng Đá (1 LIVE)",02:30 21/09 🔴 FC Porto vs SL Benfica
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789890289_hd/1789890289_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="04:30 21/09 Flamengo vs Bragantino SP" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88adc24d46db8704961ee_6a1a55cf_20260921.png?v=6a1a55cf" group-title="⚽ Bóng Đá (2 LIVE)",04:30 21/09 Flamengo vs Bragantino SP
+#EXTINF:-1 tvg-id="" tvg-name="04:30 21/09 Flamengo vs Bragantino SP" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88adc24d46db8704961ee_6a1a55cf_20260921.png?v=6a1a55cf" group-title="⚽ Bóng Đá (1 LIVE)",04:30 21/09 Flamengo vs Bragantino SP
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789890841_hd/1789890841_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 21/09 ASIAD 2026 vs ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260921.png?v=62dd1b2b" group-title="⚽ Bóng Đá (2 LIVE)",07:00 21/09 ASIAD 2026 vs ASIAD 2026
+#EXTINF:-1 tvg-id="" tvg-name="07:00 21/09 ASIAD 2026 vs ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260921.png?v=62dd1b2b" group-title="⚽ Bóng Đá (1 LIVE)",07:00 21/09 ASIAD 2026 vs ASIAD 2026
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789838904_hd/1789838904_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 21/09 Bangladesh Nữ vs Myanmar Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041928_269f2d1e_20260921.png?v=269f2d1e" group-title="⚽ Bóng Đá (2 LIVE)",14:00 21/09 Bangladesh Nữ vs Myanmar Nữ
+#EXTINF:-1 tvg-id="" tvg-name="14:00 21/09 Bangladesh Nữ vs Myanmar Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041928_269f2d1e_20260921.png?v=269f2d1e" group-title="⚽ Bóng Đá (1 LIVE)",14:00 21/09 Bangladesh Nữ vs Myanmar Nữ
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789928081_hd/1789928081_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 21/09 Nữ Trung Quốc vs Nữ Philippines" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab8404192c_bfcf49f6_20260921.png?v=bfcf49f6" group-title="⚽ Bóng Đá (2 LIVE)",14:00 21/09 Nữ Trung Quốc vs Nữ Philippines
+#EXTINF:-1 tvg-id="" tvg-name="14:00 21/09 Nữ Trung Quốc vs Nữ Philippines" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab8404192c_bfcf49f6_20260921.png?v=bfcf49f6" group-title="⚽ Bóng Đá (1 LIVE)",14:00 21/09 Nữ Trung Quốc vs Nữ Philippines
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789928126_hd/1789928126_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 21/09 Nữ Hàn Quốc vs Triều Tiên Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041929_1547912e_20260921.png?v=1547912e" group-title="⚽ Bóng Đá (2 LIVE)",14:00 21/09 Nữ Hàn Quốc vs Triều Tiên Nữ
+#EXTINF:-1 tvg-id="" tvg-name="14:00 21/09 Nữ Hàn Quốc vs Triều Tiên Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041929_1547912e_20260921.png?v=1547912e" group-title="⚽ Bóng Đá (1 LIVE)",14:00 21/09 Nữ Hàn Quốc vs Triều Tiên Nữ
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789928181_hd/1789928181_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 21/09 Uzbekistan Nữ vs Hồng Kông Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab8404192d_60589074_20260921.png?v=60589074" group-title="⚽ Bóng Đá (2 LIVE)",14:00 21/09 Uzbekistan Nữ vs Hồng Kông Nữ
+#EXTINF:-1 tvg-id="" tvg-name="14:00 21/09 Uzbekistan Nữ vs Hồng Kông Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab8404192d_60589074_20260921.png?v=60589074" group-title="⚽ Bóng Đá (1 LIVE)",14:00 21/09 Uzbekistan Nữ vs Hồng Kông Nữ
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789928212_hd/1789928212_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 21/09 Nữ Nhật Bản vs Đài Loan TQ Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041924_bb5864db_20260921.png?v=bb5864db" group-title="⚽ Bóng Đá (2 LIVE)",17:30 21/09 Nữ Nhật Bản vs Đài Loan TQ Nữ
+#EXTINF:-1 tvg-id="" tvg-name="17:30 21/09 Nữ Nhật Bản vs Đài Loan TQ Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041924_bb5864db_20260921.png?v=bb5864db" group-title="⚽ Bóng Đá (1 LIVE)",17:30 21/09 Nữ Nhật Bản vs Đài Loan TQ Nữ
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789931326_hd/1789931326_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 21/09 Nữ Việt Nam vs Thái Lan Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041925_08cb9077_20260921.png?v=08cb9077" group-title="⚽ Bóng Đá (2 LIVE)",17:30 21/09 Nữ Việt Nam vs Thái Lan Nữ
+#EXTINF:-1 tvg-id="" tvg-name="17:30 21/09 Nữ Việt Nam vs Thái Lan Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041925_08cb9077_20260921.png?v=08cb9077" group-title="⚽ Bóng Đá (1 LIVE)",17:30 21/09 Nữ Việt Nam vs Thái Lan Nữ
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789931369_hd/1789931369_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:00 21/09 Umm-Salal vs Al-Kharitiyath" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9d98xjf9ithy_e0b6cdc8_20260921.png?v=e0b6cdc8" group-title="⚽ Bóng Đá (2 LIVE)",22:00 21/09 Umm-Salal vs Al-Kharitiyath
+#EXTINF:-1 tvg-id="" tvg-name="22:00 21/09 Umm-Salal vs Al-Kharitiyath" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9d98xjf9ithy_e0b6cdc8_20260921.png?v=e0b6cdc8" group-title="⚽ Bóng Đá (1 LIVE)",22:00 21/09 Umm-Salal vs Al-Kharitiyath
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789932815_hd/1789932815_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:15 21/09 Xorazm Urganch vs Qizilqum Zarafshon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88ade24d46db87049641d_6e32318d_20260921.png?v=6e32318d" group-title="⚽ Bóng Đá (2 LIVE)",22:15 21/09 Xorazm Urganch vs Qizilqum Zarafshon
+#EXTINF:-1 tvg-id="" tvg-name="22:15 21/09 Xorazm Urganch vs Qizilqum Zarafshon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88ade24d46db87049641d_6e32318d_20260921.png?v=6e32318d" group-title="⚽ Bóng Đá (1 LIVE)",22:15 21/09 Xorazm Urganch vs Qizilqum Zarafshon
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
