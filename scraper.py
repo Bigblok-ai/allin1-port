@@ -26,7 +26,7 @@ CATEGORIES = {
 }
 
 SOURCES = [
-    {"name": "Giovang", "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/output.json"},
+    {"name": "Giovang", "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/output.json"},
     {"name": "PhaoHoa", "url": "https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/output.json"},
     {"name": "ChuoiChien", "url": "https://raw.githubusercontent.com/jasminliu98/tee1/refs/heads/main/output.json"},
     {"name": "ChoangTV", "url": "https://raw.githubusercontent.com/jasminliu98/choang-stream/refs/heads/main/output.json"},
