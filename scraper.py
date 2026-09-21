@@ -33,7 +33,7 @@ SOURCES = [
     {"name": "Phalang", "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/output.json"},    
 ]
 
-HOIQUAN_M3U_FILE = "hoiquan.m3u"      # file kênh TV đầu vào (định dạng M3U)
+HOIQUAN_M3U_FILE = "hq.m3u"      # file kênh TV đầu vào (định dạng M3U)
 DEFAULT_TV_GROUP = "📺 Kênh Truyền Hình"
 FOOTBALL_TIME_LIMIT_HOURS = 20
 STALE_LIVE_HOURS = 5                  # trận có giờ bắt đầu đã quá X giờ -> xóa (chống LIVE ma)
