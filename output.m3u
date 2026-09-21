@@ -52,42 +52,37 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="00:15 22/09 🔴 Al-Duhail vs Al Arabi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r3sywqesax2o_b04f3773_20260922.png?v=b04f3773" group-title="⚽ Bóng Đá (2 LIVE)",00:15 22/09 🔴 Al-Duhail vs Al Arabi | Giovang
+#EXTINF:-1 tvg-id="" tvg-name="23:00 21/09 🔴 Eswatini U20 vs Lesotho U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640455_d17a5c9c_20260922.png?v=d17a5c9c" group-title="⚽ Bóng Đá (2 LIVE)",23:00 21/09 🔴 Eswatini U20 vs Lesotho U20 | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 21/09 🔴 Eswatini U20 vs Lesotho U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640455_d17a5c9c_20260922.png?v=d17a5c9c" group-title="⚽ Bóng Đá (2 LIVE)",23:00 21/09 🔴 Eswatini U20 vs Lesotho U20 | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 22/09 🔴 Petrolul Ploiesti vs Csikszereda" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565260_4a775c1c_20260922.png?v=4a775c1c" group-title="⚽ Bóng Đá (2 LIVE)",01:00 22/09 🔴 Petrolul Ploiesti vs Csikszereda | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 22/09 🔴 Petrolul Ploiesti vs Csikszereda" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565260_4a775c1c_20260922.png?v=4a775c1c" group-title="⚽ Bóng Đá (2 LIVE)",01:00 22/09 🔴 Petrolul Ploiesti vs Csikszereda | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:15 22/09 Al-Duhail vs Al Arabi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r3sywqesax2o_b04f3773_20260922.png?v=b04f3773" group-title="⚽ Bóng Đá (2 LIVE)",00:15 22/09 Al-Duhail vs Al Arabi | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789912564_hd/1789912564_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:15 22/09 🔴 Al-Duhail vs Al Arabi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r3sywqesax2o_b04f3773_20260922.png?v=b04f3773" group-title="⚽ Bóng Đá (2 LIVE)",00:15 22/09 🔴 Al-Duhail vs Al Arabi | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.tv/
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159
-#EXTINF:-1 tvg-id="" tvg-name="23:00 21/09 🔴 Eswatini U20 vs Lesotho U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640455_d17a5c9c_20260922.png?v=d17a5c9c" group-title="⚽ Bóng Đá (2 LIVE)",23:00 21/09 🔴 Eswatini U20 vs Lesotho U20 | ChuoiChien 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 21/09 🔴 Eswatini U20 vs Lesotho U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640455_d17a5c9c_20260922.png?v=d17a5c9c" group-title="⚽ Bóng Đá (2 LIVE)",23:00 21/09 🔴 Eswatini U20 vs Lesotho U20 | ChuoiChien 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 22/09 Petrolul Ploiesti vs Csikszereda" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565260_4a775c1c_20260922.png?v=4a775c1c" group-title="⚽ Bóng Đá (2 LIVE)",01:00 22/09 Petrolul Ploiesti vs Csikszereda | ChuoiChien 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 22/09 Petrolul Ploiesti vs Csikszereda" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1565260_4a775c1c_20260922.png?v=4a775c1c" group-title="⚽ Bóng Đá (2 LIVE)",01:00 22/09 Petrolul Ploiesti vs Csikszereda | ChuoiChien 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:06 22/09 Santos Laguna W vs Cruz Azul W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603371_2dc4f845_20260922.png?v=2dc4f845" group-title="⚽ Bóng Đá (2 LIVE)",08:06 22/09 Santos Laguna W vs Cruz Azul W | ChuoiChien 1
+#EXTINF:-1 tvg-id="" tvg-name="08:06 22/09 Santos Laguna W vs Cruz Azul W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603371_2dc4f845_20260922.png?v=2dc4f845" group-title="⚽ Bóng Đá (2 LIVE)",08:06 22/09 Santos Laguna W vs Cruz Azul W | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:06 22/09 Santos Laguna W vs Cruz Azul W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603371_2dc4f845_20260922.png?v=2dc4f845" group-title="⚽ Bóng Đá (2 LIVE)",08:06 22/09 Santos Laguna W vs Cruz Azul W | ChuoiChien 2
+#EXTINF:-1 tvg-id="" tvg-name="08:06 22/09 Santos Laguna W vs Cruz Azul W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1603371_2dc4f845_20260922.png?v=2dc4f845" group-title="⚽ Bóng Đá (2 LIVE)",08:06 22/09 Santos Laguna W vs Cruz Azul W | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
@@ -107,17 +102,17 @@ https://pull.digitalcdn.net/live/80310772ac124f22899ffc02e7b7829e/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/1e158a7c50da40beb1f7a656bdee3a98/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:00 21/09 🔴 KYLE AMOROTO vs YOW (4/7/9/10)" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-ce33c49dd7_18dff168_20260922.png?v=18dff168" group-title="🎱 Billiards (2 LIVE)",00:00 21/09 🔴 KYLE AMOROTO vs YOW (4/7/9/10) | ChoangTV
+#EXTINF:-1 tvg-id="" tvg-name="00:00 21/09 🔴 KYLE AMOROTO vs YOW (4/7/9/10)" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-ce33c49dd7_18dff168_20260922.png?v=18dff168" group-title="🎱 Billiards (2 LIVE)",00:00 21/09 🔴 KYLE AMOROTO vs YOW (4/7/9/10) | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8138/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:00 21/09 🔴 James Aranas vs EMONG 810" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-cce4808610_16fe704d_20260922.png?v=16fe704d" group-title="🎱 Billiards (2 LIVE)",00:00 21/09 🔴 James Aranas vs EMONG 810 | ChoangTV
+#EXTINF:-1 tvg-id="" tvg-name="00:00 21/09 🔴 James Aranas vs EMONG 810" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-cce4808610_16fe704d_20260922.png?v=16fe704d" group-title="🎱 Billiards (2 LIVE)",00:00 21/09 🔴 James Aranas vs EMONG 810 | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8136/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 22/09 Slovenia vs Serbia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tpjt48zgys5p_b7fcb373_20260922.png?v=b7fcb373" group-title="🏐 Bóng Chuyền",02:00 22/09 Slovenia vs Serbia | Giovang
+#EXTINF:-1 tvg-id="" tvg-name="02:00 22/09 Slovenia vs Serbia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tpjt48zgys5p_b7fcb373_20260922.png?v=b7fcb373" group-title="🏐 Bóng Chuyền",02:00 22/09 Slovenia vs Serbia | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
@@ -157,22 +152,22 @@ https://pull.digitalcdn.net/live/7ee4ed6813fc4e57b3304e667377fb67/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/da518405090e49daa6738903e6d9310e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:00 23/09 Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a2zt8mldckd3_9f063d9a_20260922.png?v=9f063d9a" group-title="🥊 Võ Thuật",06:00 23/09 Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | Giovang
+#EXTINF:-1 tvg-id="" tvg-name="06:00 23/09 Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a2zt8mldckd3_9f063d9a_20260922.png?v=9f063d9a" group-title="🥊 Võ Thuật",06:00 23/09 Dana White's Contender Series: Season 10, Week 7 vs Dana White's Contender Series: Season 10, Week 7 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789368641_hd/1789368641_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:30 25/09 ONE Friday Fights 172 vs The Inner Circle 32" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t81vplztkyiu_dc760bd5_20260922.png?v=dc760bd5" group-title="🥊 Võ Thuật",18:30 25/09 ONE Friday Fights 172 vs The Inner Circle 32 | Giovang
+#EXTINF:-1 tvg-id="" tvg-name="18:30 25/09 ONE Friday Fights 172 vs The Inner Circle 32" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t81vplztkyiu_dc760bd5_20260922.png?v=dc760bd5" group-title="🥊 Võ Thuật",18:30 25/09 ONE Friday Fights 172 vs The Inner Circle 32 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789368699_hd/1789368699_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 27/09 Rosas Jr. vs Barcelos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hbxb5hmfy6ng_db1b1409_20260922.png?v=db1b1409" group-title="🥊 Võ Thuật",02:00 27/09 Rosas Jr. vs Barcelos | Giovang
+#EXTINF:-1 tvg-id="" tvg-name="02:00 27/09 Rosas Jr. vs Barcelos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hbxb5hmfy6ng_db1b1409_20260922.png?v=db1b1409" group-title="🥊 Võ Thuật",02:00 27/09 Rosas Jr. vs Barcelos | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789368755_hd/1789368755_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:00 30/09 Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260922.png?v=a0d829ba" group-title="🥊 Võ Thuật",06:00 30/09 Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | Giovang
+#EXTINF:-1 tvg-id="" tvg-name="06:00 30/09 Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260922.png?v=a0d829ba" group-title="🥊 Võ Thuật",06:00 30/09 Dana White's Contender Series: Season 10, Week 8 vs Dana White's Contender Series: Season 10, Week 8 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
