@@ -30,17 +30,16 @@ SOURCES = [
     {"name": "PhaoHoa", "url": "https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/output.json"},
     {"name": "ChuoiChien", "url": "https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/output.json"},
     {"name": "ChoangTV", "url": "https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/output.json"},
-    {"name": "Phalang", "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/output.json"},    
+    {"name": "Phalang", "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/output.json"},
 ]
 
 HOIQUAN_M3U_FILE = "hq.m3u"      # file kênh TV đầu vào (định dạng M3U)
 DEFAULT_TV_GROUP = "📺 Kênh Truyền Hình"
 FOOTBALL_TIME_LIMIT_HOURS = 20
-STALE_LIVE_HOURS = 5                  # trận có giờ bắt đầu đã quá X giờ -> xóa (chống LIVE ma)
 
 M3U_OUTPUT_FILE = "output.m3u"
-M3U_INCLUDE_ALL_SOURCES = True        # True = link dự phòng xuất thành kênh riêng
-M3U_SUFFIX_SOURCES = True             # Thêm " | Nguồn 2" vào link dự phòng
+M3U_INCLUDE_ALL_SOURCES = True   # True = link dự phòng xuất thành kênh riêng
+M3U_SUFFIX_SOURCES = True        # Gắn " | Giovang", " | ChuoiChien"... theo nguồn gốc link
 
 try:
     from zoneinfo import ZoneInfo
@@ -401,7 +400,7 @@ def extract_sort_key(channel):
     return (2, 99, 99, 99, 99)
 
 # ==========================================
-# ★ M3U READER — đọc file kênh TV (hoiquan.m3u)
+# ★ M3U READER — đọc file kênh TV (hq.m3u)
 # ==========================================
 def parse_extinf(line):
     """Trả về (tên hiển thị, dict attrs) từ 1 dòng #EXTINF"""
@@ -507,11 +506,14 @@ def build_tv_channel_obj(i, name, variants):
 
     sources = []
     for j, var in enumerate(variants):
+        # Lấy domain làm origin (hiện trong tên khi xuất M3U)
         try:
             domain = var["url"].split("//")[1].split("/")[0]
             domain_parts = domain.split(".")
-            src_name = f"Source {j+1} - {domain_parts[-2] if len(domain_parts) > 1 else domain}"
+            origin = domain_parts[-2] if len(domain_parts) > 1 else domain
+            src_name = f"Source {j+1} - {origin}"
         except Exception:
+            origin = ""
             src_name = f"Source {j+1}"
 
         url = var.get("url", "")
@@ -558,7 +560,8 @@ def build_tv_channel_obj(i, name, variants):
                         "url": url,
                         "request_headers": headers,
                         "drm_type": drm_type,
-                        "drm_key": drm_key_raw
+                        "drm_key": drm_key_raw,
+                        "origin": origin
                     }]
                 }]
             }]
@@ -642,6 +645,39 @@ def collect_links(channel):
                         links.append(lnk)
     return links
 
+def tag_links_with_origin(channel, origin):
+    """Gắn tên nguồn (Giovang/PhaoHoa...) vào mọi link của channel vừa tải về"""
+    for s_ in channel.get("sources", []) or []:
+        for c_ in s_.get("contents", []) or []:
+            for st_ in c_.get("streams", []) or []:
+                for lk_ in st_.get("stream_links", []) or []:
+                    lk_["origin"] = origin
+
+def build_link_suffixes(links):
+    """
+    Sinh suffix hiển thị cho từng link theo nguồn gốc:
+      - 1 link                       -> "" (tên sạch)
+      - nhiều nguồn khác nhau        -> "Giovang", "ChuoiChien", ...
+      - cùng nguồn nhiều link        -> "Giovang 1", "Giovang 2", ...
+      - link không rõ nguồn (hiếm)   -> "Nguồn N" (fallback theo số thứ tự)
+    """
+    counts = {}
+    for lnk in links:
+        o = (lnk.get("origin") or "").strip()
+        if o:
+            counts[o] = counts.get(o, 0) + 1
+
+    seen = {}
+    suffixes = []
+    for idx, lnk in enumerate(links, 1):
+        o = (lnk.get("origin") or "").strip()
+        if not o:
+            suffixes.append(f"Nguồn {idx}" if len(links) > 1 else "")
+            continue
+        seen[o] = seen.get(o, 0) + 1
+        suffixes.append(f"{o} {seen[o]}" if counts[o] > 1 else o)
+    return suffixes
+
 def build_display_name(ch, is_tv_group):
     meta = ch.get("org_metadata", {})
     team_a = (meta.get("team_a") or "").strip()
@@ -671,14 +707,12 @@ def build_display_name(ch, is_tv_group):
         return f"{time_part}{base}"
     return base
 
-def m3u_entry(group_title, display_name, logo, link, source_index):
+def m3u_entry(group_title, display_name, logo, link, suffix=""):
     url = (link.get("url") or "").strip()
     if not url:
         return []
 
-    shown = display_name
-    if M3U_SUFFIX_SOURCES and source_index > 0:
-        shown = f"{display_name} | Nguồn {source_index + 1}"
+    shown = f"{display_name} | {suffix}" if suffix else display_name
 
     lines = [
         f'#EXTINF:-1 tvg-id="" tvg-name="{m3u_escape(display_name)}" '
@@ -733,13 +767,10 @@ def build_m3u(final_data):
                 continue
             display = build_display_name(ch, is_tv_group)
             logo = ch.get("image", {}).get("url", "")
+            suffixes = build_link_suffixes(links) if M3U_SUFFIX_SOURCES else [""] * len(links)
             max_links = len(links) if M3U_INCLUDE_ALL_SOURCES else 1
-            emitted = 0
-            for lnk in links:
-                if emitted >= max_links:
-                    break
-                lines.extend(m3u_entry(group_title, display, logo, lnk, emitted))
-                emitted += 1
+            for idx, lnk in enumerate(links[:max_links]):
+                lines.extend(m3u_entry(group_title, display, logo, lnk, suffixes[idx]))
     return "\n".join(lines) + "\n"
 
 # ==========================================
@@ -807,6 +838,7 @@ def main():
                         stats["sanitized"] += n_fix
 
                     src_channel = normalize_time_in_channel(src_channel)
+                    tag_links_with_origin(src_channel, source_name)
 
                     meta = src_channel["org_metadata"]
                     time_val = meta.get("time", "")
@@ -927,6 +959,8 @@ def main():
 
     # ==========================================
     # BƯỚC 3: LỌC BÓNG ĐÁ — CHỈ GIỮ TRẬN TRONG 20H TỚI
+    # (không cắt theo thời gian bắt đầu trong quá khứ —
+    #  tin 100% nguồn con: nguồn báo LIVE thì giữ, nguồn xóa thì tự mất)
     # ==========================================
     for g in final_data["groups"]:
         base_name = normalize_cate_name(g["name"])
@@ -940,9 +974,8 @@ def main():
             for ch in g["channels"]:
                 meta = ch.get("org_metadata", {})
                 time_val = meta.get("time", "").strip()
-                is_live = meta.get("is_live", False)
 
-                if is_live or not time_val:
+                if not time_val:
                     filtered.append(ch)
                     continue
 
@@ -951,7 +984,7 @@ def main():
                     filtered.append(ch)
                     continue
 
-                if now_vn - timedelta(hours=2) <= match_dt <= cutoff:
+                if match_dt <= cutoff:
                     filtered.append(ch)
 
             removed = before_count - len(filtered)
@@ -982,37 +1015,7 @@ def main():
         print(f"  -> Tổng cộng dọn {total_ghosts} kênh rỗng.")
 
     # ==========================================
-    # BƯỚC 3.6: DỌN TRẬN CŨ / "LIVE MA" (mọi bộ môn)
-    # Trận có giờ bắt đầu rõ ràng nhưng đã quá STALE_LIVE_HOURS
-    # -> xóa bất kể nguồn còn flag live hay không.
-    # (Nhóm ⚽ đã lọc chặt hơn ở BƯỚC 3 nên bước này với nó là vô thao tác)
-    # ==========================================
-    now_vn = datetime.now(VIETNAM_TZ)
-    stale_cutoff = now_vn - timedelta(hours=STALE_LIVE_HOURS)
-
-    total_stale = 0
-    for g in final_data["groups"]:
-        if str(g.get("id", "")).startswith("grp-tv"):
-            continue  # kênh TV không có giờ bắt đầu, bỏ qua
-        kept = []
-        removed_stale = 0
-        for ch in g["channels"]:
-            time_val = (ch.get("org_metadata", {}).get("time") or "").strip()
-            match_dt = parse_match_datetime(time_val) if time_val else None
-            if match_dt is not None and match_dt < stale_cutoff:
-                removed_stale += 1
-                continue
-            kept.append(ch)
-        g["channels"] = kept
-        total_stale += removed_stale
-        if removed_stale:
-            print(f"  ⏰ {normalize_cate_name(g['name'])}: xóa {removed_stale} trận đã kết thúc (quá {STALE_LIVE_HOURS}h)")
-
-    if total_stale:
-        print(f"  -> Tổng cộng xóa {total_stale} trận quá hạn.")
-
-    # ==========================================
-    # BƯỚC 4: SẮP XẾP & ĐẾM LIVE
+    # BƯỚC 4: SẮP XẾP & ĐẾM LIVE (tin flag is_live của nguồn con)
     # ==========================================
     for g in final_data["groups"]:
         g["channels"].sort(key=extract_sort_key)
