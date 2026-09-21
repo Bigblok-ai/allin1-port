@@ -33,7 +33,7 @@ SOURCES = [
     {"name": "Phalang", "url": "https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/output.json"},
 ]
 
-HOIQUAN_M3U_FILE = "hq.m3u"      # file kênh TV đầu vào (định dạng M3U)
+HQ_M3U_FILE = "hq.m3u"      # file kênh TV đầu vào (định dạng M3U)
 DEFAULT_TV_GROUP = "📺 Kênh Truyền Hình"
 FOOTBALL_TIME_LIMIT_HOURS = 20
 
@@ -608,7 +608,7 @@ def build_tv_groups(tv_list):
         channels.append(build_tv_channel_obj(i, name, variants))
 
     return [{
-        "id": "grp-tv-hoiquan",
+        "id": "grp-tv-HQ",
         "name": DEFAULT_TV_GROUP,
         "display": "vertical",
         "grid_number": 2,
@@ -940,8 +940,8 @@ def main():
     # ==========================================
     print("\nKENH TRUYEN HINH:")
     try:
-        if os.path.exists(HOIQUAN_M3U_FILE):
-            tv_entries, tv_skipped = parse_m3u_tv(HOIQUAN_M3U_FILE)
+        if os.path.exists(HQ_M3U_FILE):
+            tv_entries, tv_skipped = parse_m3u_tv(HQ_M3U_FILE)
             if tv_skipped:
                 preview = ", ".join(tv_skipped[:5])
                 more = "..." if len(tv_skipped) > 5 else ""
@@ -949,13 +949,13 @@ def main():
             if tv_entries:
                 tv_group = build_tv_groups(tv_entries)[0]
                 final_data["groups"].insert(0, tv_group)
-                print(f"  ✅ [TV] {len(tv_entries)} link -> {len(tv_group['channels'])} kênh ({HOIQUAN_M3U_FILE})")
+                print(f"  ✅ [TV] {len(tv_entries)} link -> {len(tv_group['channels'])} kênh ({HQ_M3U_FILE})")
             else:
-                print(f"  ⚠️ [TV] File {HOIQUAN_M3U_FILE} không có entry hợp lệ")
+                print(f"  ⚠️ [TV] File {HQ_M3U_FILE} không có entry hợp lệ")
         else:
-            print(f"  ⚠️ [TV] Không tìm thấy file {HOIQUAN_M3U_FILE}")
+            print(f"  ⚠️ [TV] Không tìm thấy file {HQ_M3U_FILE}")
     except Exception as e:
-        print(f"  ❌ [TV] Lỗi xử lý {HOIQUAN_M3U_FILE}: {type(e).__name__}: {e}")
+        print(f"  ❌ [TV] Lỗi xử lý {HQ_M3U_FILE}: {type(e).__name__}: {e}")
 
     # ==========================================
     # BƯỚC 3: LỌC BÓNG ĐÁ — CHỈ GIỮ TRẬN TRONG 20H TỚI
