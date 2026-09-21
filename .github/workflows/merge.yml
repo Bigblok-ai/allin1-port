@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Run Scraper Logic
-        run: python scraper.py
+        run: python port.py
 
       - name: Commit nếu có thay đổi
         run: |
