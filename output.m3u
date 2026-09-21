@@ -52,11 +52,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="17:00 21/09 🔴 ASIAD 2026 vs ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260921.png?v=62dd1b2b" group-title="⚽ Bóng Đá (6 LIVE)",17:00 21/09 🔴 ASIAD 2026 vs ASIAD 2026
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1789838904_hd/1789838904_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:30 21/09 🔴 Nữ Nhật Bản vs Đài Loan TQ Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041924_bb5864db_20260921.png?v=bb5864db" group-title="⚽ Bóng Đá (6 LIVE)",17:30 21/09 🔴 Nữ Nhật Bản vs Đài Loan TQ Nữ
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -67,6 +62,11 @@ https://eqr2hdarxfliv.vcdn.cloud/1789931326_hd/1789931326_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1789931369_hd/1789931369_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:30 21/09 🔴 ASIAD 2026 vs ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260921.png?v=62dd1b2b" group-title="⚽ Bóng Đá (6 LIVE)",18:30 21/09 🔴 ASIAD 2026 vs ASIAD 2026
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://eqr2hdarxfliv.vcdn.cloud/1789838904_hd/1789838904_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:30 🔴 Vietnam W vs Thailand W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/86242e74-dfa5-41f8-9087-cf8d541a584c_b1016040_20260921.png?v=b1016040" group-title="⚽ Bóng Đá (6 LIVE)",17:30 🔴 Vietnam W vs Thailand W
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -202,66 +202,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/9c848b2161ad4e09b606c662983297dd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 21/09 🔴 Tkon vs Jakub Koniar" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-9e59d69b0f_d0b4f736_20260921.png?v=d0b4f736" group-title="🎱 Billiards (4 LIVE)",17:30 21/09 🔴 Tkon vs Jakub Koniar
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8116/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 21/09 🔴 Tyler Styer vs Daniel Macioł" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-ed3041e6cd_86c079d2_20260921.png?v=86c079d2" group-title="🎱 Billiards (4 LIVE)",17:30 21/09 🔴 Tyler Styer vs Daniel Macioł
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8131/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 21/09 🔴 Thiện Lương vs Sean Mark Malayan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-7d5710c4eb_d32abe8d_20260921.png?v=d32abe8d" group-title="🎱 Billiards (4 LIVE)",17:30 21/09 🔴 Thiện Lương vs Sean Mark Malayan
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8113/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 21/09 🔴 Shane Van Boening vs Mauricio Garcia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-bc0534225a_40534efa_20260921.png?v=40534efa" group-title="🎱 Billiards (4 LIVE)",17:30 21/09 🔴 Shane Van Boening vs Mauricio Garcia
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8112/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 21/09 Olivér Szolnoki vs Alvaro Canóniga" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-60d33e50ed_2cc9e627_20260921.png?v=2cc9e627" group-title="🎱 Billiards (4 LIVE)",19:30 21/09 Olivér Szolnoki vs Alvaro Canóniga
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8124/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 21/09 Thorsten Hohmann vs Felix Vogel" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-50c7f688d3_2b42bc05_20260921.png?v=2b42bc05" group-title="🎱 Billiards (4 LIVE)",19:30 21/09 Thorsten Hohmann vs Felix Vogel
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8121/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 21/09 Sanjin Pehlivanovic vs Max Lechner" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-58ad341517_e8bdd9ae_20260921.png?v=e8bdd9ae" group-title="🎱 Billiards (4 LIVE)",19:30 21/09 Sanjin Pehlivanovic vs Max Lechner
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8118/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 21/09 David Alcaide vs Ruslan Chinakhov" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-6d91b4f5f6_1f9cf774_20260921.png?v=1f9cf774" group-title="🎱 Billiards (4 LIVE)",19:30 21/09 David Alcaide vs Ruslan Chinakhov
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8119/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 21/09 Hoàng Phú Thọ vs Alex Pagulayan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-09158321cc_6a49305d_20260921.png?v=6a49305d" group-title="🎱 Billiards (4 LIVE)",19:30 21/09 Hoàng Phú Thọ vs Alex Pagulayan
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8120/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:31 21/09 Aloysius Yapp vs Cedric Gonzales" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1e40fa3a13_319cb126_20260921.png?v=319cb126" group-title="🎱 Billiards (4 LIVE)",19:31 21/09 Aloysius Yapp vs Cedric Gonzales
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8123/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:31 21/09 Pijus Labutis vs Ali Al Obaidli" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-48c6a4be0e_07aa01b0_20260921.png?v=07aa01b0" group-title="🎱 Billiards (4 LIVE)",19:31 21/09 Pijus Labutis vs Ali Al Obaidli
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8122/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 21/09 Chắc chắn vào Last 16 vs E là đau khổ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a9bca5e4f2_2410757e_20260921.png?v=2410757e" group-title="🎱 Billiards (4 LIVE)",23:00 21/09 Chắc chắn vào Last 16 vs E là đau khổ
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live7469/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:20 21/09 🔴 Nhật Bản vs Hàn Quốc" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pcrj5dno0g2u_c91a4b93_20260921.png?v=c91a4b93" group-title="🏐 Bóng Chuyền (1 LIVE)",17:20 21/09 🔴 Nhật Bản vs Hàn Quốc
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
