@@ -137,6 +137,11 @@ https://pull.digitalcdn.net/live/9c848b2161ad4e09b606c662983297dd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/80310772ac124f22899ffc02e7b7829e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 22/09 Santa Clara U23 vs Portimonense U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6klyyq86_356b9222_20260921.png?v=356b9222" group-title="⚽ Bóng Đá (1 LIVE)",18:00 22/09 Santa Clara U23 vs Portimonense U23
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/1e158a7c50da40beb1f7a656bdee3a98/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="22:00 Rustavi vs FC Iberia 1999" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/d40f1e58-4cac-4c24-b5cb-22721064ef4b_a776a598_20260921.png?v=a776a598" group-title="⚽ Bóng Đá (1 LIVE)",22:00 Rustavi vs FC Iberia 1999
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
