@@ -227,6 +227,11 @@ https://pull.digitalcdn.net/live/0e1fd88daccb4c9eb5d6a58a61872ce8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/421f82e2cccf4a7083e81b3a3d992b06/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Japan U23 vs Thailand U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgpekpr51_c86d4301_20260922.png?v=c86d4301" group-title="⚽ Bóng Đá (6 LIVE)",17:30 23/09 Japan U23 vs Thailand U23 | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/4b07abad91f34199a7ce4b24f6e63ef5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="19:30 22/09 Saigon heat vs Hanoi buffalo" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35697377_44ac6b20_20260922.png?v=44ac6b20" group-title="🏀 Bóng Rổ",19:30 22/09 Saigon heat vs Hanoi buffalo | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
