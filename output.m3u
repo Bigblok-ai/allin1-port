@@ -227,7 +227,7 @@ https://pull.digitalcdn.net/live/0e1fd88daccb4c9eb5d6a58a61872ce8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/421f82e2cccf4a7083e81b3a3d992b06/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 22/09 Saigon heat vs Hanoi buffalo" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35697377_44ac6b20_20260922.png?v=44ac6b20" group-title="🏀 Bóng Rổ",19:30 22/09 Saigon heat vs Hanoi buffalo | GV
+#EXTINF:-1 tvg-id="" tvg-name="19:30 22/09 🔴 Saigon heat vs Hanoi buffalo" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35697377_44ac6b20_20260922.png?v=44ac6b20" group-title="🏀 Bóng Rổ (1 LIVE)",19:30 22/09 🔴 Saigon heat vs Hanoi buffalo | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
@@ -247,11 +247,6 @@ https://cdn.sports-cas889abxfileposo.site/live/live8174/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8160/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 22/09 🔴 Lu / Yapp vs Chua J / Shi T" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d1fe857d27_5a95625f_20260922.png?v=5a95625f" group-title="🎱 Billiards (7 LIVE)",19:30 22/09 🔴 Lu / Yapp vs Chua J / Shi T | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8167/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="19:30 22/09 🔴 Seo / Capito vs Oi N / Chien WT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-8825cfc147_e88081eb_20260922.png?v=e88081eb" group-title="🎱 Billiards (7 LIVE)",19:30 22/09 🔴 Seo / Capito vs Oi N / Chien WT | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -267,6 +262,11 @@ https://cdn.sports-cas889abxfileposo.site/live/live8170/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8169/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:30 22/09 🔴 Lu / Yapp vs Chua J / Shi T" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d1fe857d27_5a95625f_20260922.png?v=5a95625f" group-title="🎱 Billiards (7 LIVE)",19:30 22/09 🔴 Lu / Yapp vs Chua J / Shi T | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8167/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 22/09 Văn Sinh vs Tiến Minh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-c326f540a6_9c503ec6_20260922.png?v=9c503ec6" group-title="🎱 Billiards (7 LIVE)",20:00 22/09 Văn Sinh vs Tiến Minh | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
