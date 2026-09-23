@@ -52,317 +52,307 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="07:00 23/09 🔴 ASIAD 2026 vs ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260923.png?v=62dd1b2b" group-title="⚽ Bóng Đá (1 LIVE)",07:00 23/09 🔴 ASIAD 2026 vs ASIAD 2026 | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1789838904_hd/1789838904_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 U23 Iran vs U23 Triều Tiên" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zcqd6mggoore_10721be4_20260923.png?v=10721be4" group-title="⚽ Bóng Đá (1 LIVE)",12:30 23/09 U23 Iran vs U23 Triều Tiên | GV
+#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 U23 Iran vs U23 Triều Tiên" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zcqd6mggoore_10721be4_20260923.png?v=10721be4" group-title="⚽ Bóng Đá",12:30 23/09 U23 Iran vs U23 Triều Tiên | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790081010_hd/1790081010_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 U23 Trung Quốc vs U23 UAE" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nikl30by99k3_1bfc97db_20260923.png?v=1bfc97db" group-title="⚽ Bóng Đá (1 LIVE)",12:30 23/09 U23 Trung Quốc vs U23 UAE | GV
+#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 U23 Trung Quốc vs U23 UAE" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nikl30by99k3_1bfc97db_20260923.png?v=1bfc97db" group-title="⚽ Bóng Đá",12:30 23/09 U23 Trung Quốc vs U23 UAE | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790081074_hd/1790081074_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 China PR U23 vs UAE U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639462_559976a2_20260923.png?v=559976a2" group-title="⚽ Bóng Đá (1 LIVE)",12:30 23/09 China PR U23 vs UAE U23 | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 China PR U23 vs UAE U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639462_559976a2_20260923.png?v=559976a2" group-title="⚽ Bóng Đá",12:30 23/09 China PR U23 vs UAE U23 | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 China PR U23 vs UAE U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639462_559976a2_20260923.png?v=559976a2" group-title="⚽ Bóng Đá (1 LIVE)",12:30 23/09 China PR U23 vs UAE U23 | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 China PR U23 vs UAE U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639462_559976a2_20260923.png?v=559976a2" group-title="⚽ Bóng Đá",12:30 23/09 China PR U23 vs UAE U23 | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 U23 Iran vs Korea DPR U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639469_50a63d1a_20260923.png?v=50a63d1a" group-title="⚽ Bóng Đá (1 LIVE)",12:30 23/09 U23 Iran vs Korea DPR U23 | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 U23 Iran vs Korea DPR U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639469_50a63d1a_20260923.png?v=50a63d1a" group-title="⚽ Bóng Đá",12:30 23/09 U23 Iran vs Korea DPR U23 | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 U23 Iran vs Korea DPR U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639469_50a63d1a_20260923.png?v=50a63d1a" group-title="⚽ Bóng Đá (1 LIVE)",12:30 23/09 U23 Iran vs Korea DPR U23 | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 U23 Iran vs Korea DPR U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639469_50a63d1a_20260923.png?v=50a63d1a" group-title="⚽ Bóng Đá",12:30 23/09 U23 Iran vs Korea DPR U23 | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 Iran U23 vs North Korea U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh65g1gqg8_bacb8062_20260923.png?v=bacb8062" group-title="⚽ Bóng Đá (1 LIVE)",12:30 23/09 Iran U23 vs North Korea U23 | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 Iran U23 vs North Korea U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh65g1gqg8_bacb8062_20260923.png?v=bacb8062" group-title="⚽ Bóng Đá",12:30 23/09 Iran U23 vs North Korea U23 | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/e59cd9fbc6994d658e077323e5be067f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 China U23 vs United Arab Emirates U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn8l21qdy_c6cc42ba_20260923.png?v=c6cc42ba" group-title="⚽ Bóng Đá (1 LIVE)",12:30 23/09 China U23 vs United Arab Emirates U23 | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="12:30 23/09 China U23 vs United Arab Emirates U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hn8l21qdy_c6cc42ba_20260923.png?v=c6cc42ba" group-title="⚽ Bóng Đá",12:30 23/09 China U23 vs United Arab Emirates U23 | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/0e1fd88daccb4c9eb5d6a58a61872ce8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Machida vs Tochigi City" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/x2qvjtbnhoma_f95dc93e_20260923.png?v=f95dc93e" group-title="⚽ Bóng Đá (1 LIVE)",15:00 23/09 Machida vs Tochigi City | GV
+#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Machida vs Tochigi City" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/x2qvjtbnhoma_f95dc93e_20260923.png?v=f95dc93e" group-title="⚽ Bóng Đá",15:00 23/09 Machida vs Tochigi City | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790098934_hd/1790098934_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Gamba Osaka vs Tokushima" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d56w1qfkj6rl_3b197fdf_20260923.png?v=3b197fdf" group-title="⚽ Bóng Đá (1 LIVE)",15:00 23/09 Gamba Osaka vs Tokushima | GV
+#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Gamba Osaka vs Tokushima" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d56w1qfkj6rl_3b197fdf_20260923.png?v=3b197fdf" group-title="⚽ Bóng Đá",15:00 23/09 Gamba Osaka vs Tokushima | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790099578_hd/1790099578_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Gamba Osaka vs Tokushima" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d56w1qfkj6rl_3b197fdf_20260923.png?v=3b197fdf" group-title="⚽ Bóng Đá (1 LIVE)",15:00 23/09 Gamba Osaka vs Tokushima | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Gamba Osaka vs Tokushima" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d56w1qfkj6rl_3b197fdf_20260923.png?v=3b197fdf" group-title="⚽ Bóng Đá",15:00 23/09 Gamba Osaka vs Tokushima | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Gamba Osaka vs Tokushima" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d56w1qfkj6rl_3b197fdf_20260923.png?v=3b197fdf" group-title="⚽ Bóng Đá (1 LIVE)",15:00 23/09 Gamba Osaka vs Tokushima | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Gamba Osaka vs Tokushima" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d56w1qfkj6rl_3b197fdf_20260923.png?v=3b197fdf" group-title="⚽ Bóng Đá",15:00 23/09 Gamba Osaka vs Tokushima | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Kashima Antlers vs Kofu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ncxm6kkpnia_fa5bed82_20260923.png?v=fa5bed82" group-title="⚽ Bóng Đá (1 LIVE)",15:00 23/09 Kashima Antlers vs Kofu | GV
+#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Kashima Antlers vs Kofu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ncxm6kkpnia_fa5bed82_20260923.png?v=fa5bed82" group-title="⚽ Bóng Đá",15:00 23/09 Kashima Antlers vs Kofu | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790099672_hd/1790099672_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Vissel Kobe vs Sagan Tosu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zchpn5mtou88_b0ce52c8_20260923.png?v=b0ce52c8" group-title="⚽ Bóng Đá (1 LIVE)",15:00 23/09 Vissel Kobe vs Sagan Tosu | GV
+#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Vissel Kobe vs Sagan Tosu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zchpn5mtou88_b0ce52c8_20260923.png?v=b0ce52c8" group-title="⚽ Bóng Đá",15:00 23/09 Vissel Kobe vs Sagan Tosu | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790100002_hd/1790100002_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Vissel Kobe vs Sagan Tosu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zchpn5mtou88_b0ce52c8_20260923.png?v=b0ce52c8" group-title="⚽ Bóng Đá (1 LIVE)",15:00 23/09 Vissel Kobe vs Sagan Tosu | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="15:00 23/09 Vissel Kobe vs Sagan Tosu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zchpn5mtou88_b0ce52c8_20260923.png?v=b0ce52c8" group-title="⚽ Bóng Đá",15:00 23/09 Vissel Kobe vs Sagan Tosu | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/421f82e2cccf4a7083e81b3a3d992b06/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 23/09 Minsk vs Fenerbahçe Istanbul" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r36yvmgiucup_0f7232d8_20260923.png?v=0f7232d8" group-title="⚽ Bóng Đá (1 LIVE)",17:00 23/09 Minsk vs Fenerbahçe Istanbul | GV
+#EXTINF:-1 tvg-id="" tvg-name="17:00 23/09 Minsk vs Fenerbahçe Istanbul" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r36yvmgiucup_0f7232d8_20260923.png?v=0f7232d8" group-title="⚽ Bóng Đá",17:00 23/09 Minsk vs Fenerbahçe Istanbul | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790100389_hd/1790100389_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 U23 Kyrgyzstan vs U23 Hồng Kông" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rpxn595b20aw_1555a8b9_20260923.png?v=1555a8b9" group-title="⚽ Bóng Đá (1 LIVE)",17:30 23/09 U23 Kyrgyzstan vs U23 Hồng Kông | GV
+#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 U23 Kyrgyzstan vs U23 Hồng Kông" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rpxn595b20aw_1555a8b9_20260923.png?v=1555a8b9" group-title="⚽ Bóng Đá",17:30 23/09 U23 Kyrgyzstan vs U23 Hồng Kông | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790100829_hd/1790100829_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 U23 Nhật Bản vs U23 Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o1bs56uv19kl_8147aac8_20260923.png?v=8147aac8" group-title="⚽ Bóng Đá (1 LIVE)",17:30 23/09 U23 Nhật Bản vs U23 Thái Lan | GV
+#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 U23 Nhật Bản vs U23 Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o1bs56uv19kl_8147aac8_20260923.png?v=8147aac8" group-title="⚽ Bóng Đá",17:30 23/09 U23 Nhật Bản vs U23 Thái Lan | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790101152_hd/1790101152_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Japan U23 vs U23 Thailand" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639463_36eb78bb_20260923.png?v=36eb78bb" group-title="⚽ Bóng Đá (1 LIVE)",17:30 23/09 Japan U23 vs U23 Thailand | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Japan U23 vs U23 Thailand" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639463_36eb78bb_20260923.png?v=36eb78bb" group-title="⚽ Bóng Đá",17:30 23/09 Japan U23 vs U23 Thailand | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Japan U23 vs U23 Thailand" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639463_36eb78bb_20260923.png?v=36eb78bb" group-title="⚽ Bóng Đá (1 LIVE)",17:30 23/09 Japan U23 vs U23 Thailand | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Japan U23 vs U23 Thailand" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639463_36eb78bb_20260923.png?v=36eb78bb" group-title="⚽ Bóng Đá",17:30 23/09 Japan U23 vs U23 Thailand | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Kyrgyz Republic U23 vs U23 Hong Kong" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639464_78021b51_20260923.png?v=78021b51" group-title="⚽ Bóng Đá (1 LIVE)",17:30 23/09 Kyrgyz Republic U23 vs U23 Hong Kong | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Kyrgyz Republic U23 vs U23 Hong Kong" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639464_78021b51_20260923.png?v=78021b51" group-title="⚽ Bóng Đá",17:30 23/09 Kyrgyz Republic U23 vs U23 Hong Kong | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Kyrgyz Republic U23 vs U23 Hong Kong" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639464_78021b51_20260923.png?v=78021b51" group-title="⚽ Bóng Đá (1 LIVE)",17:30 23/09 Kyrgyz Republic U23 vs U23 Hong Kong | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Kyrgyz Republic U23 vs U23 Hong Kong" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1639464_78021b51_20260923.png?v=78021b51" group-title="⚽ Bóng Đá",17:30 23/09 Kyrgyz Republic U23 vs U23 Hong Kong | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Japan U23 vs Thailand U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgpekpr51_1f1f010a_20260923.png?v=1f1f010a" group-title="⚽ Bóng Đá (1 LIVE)",17:30 23/09 Japan U23 vs Thailand U23 | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="17:30 23/09 Japan U23 vs Thailand U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/l7oqdehgpekpr51_1f1f010a_20260923.png?v=1f1f010a" group-title="⚽ Bóng Đá",17:30 23/09 Japan U23 vs Thailand U23 | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/4b07abad91f34199a7ce4b24f6e63ef5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 23/09 Thimphu City vs Transport United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6xglvmoj_df3c3e84_20260923.png?v=df3c3e84" group-title="⚽ Bóng Đá (1 LIVE)",19:00 23/09 Thimphu City vs Transport United FC | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="19:00 23/09 Thimphu City vs Transport United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h6xglvmoj_df3c3e84_20260923.png?v=df3c3e84" group-title="⚽ Bóng Đá",19:00 23/09 Thimphu City vs Transport United FC | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/803636f2cdf8499b93aec3529922cffe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 23/09 Malawi U20 vs Comoros U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640460_4436ba7b_20260923.png?v=4436ba7b" group-title="⚽ Bóng Đá (1 LIVE)",20:00 23/09 Malawi U20 vs Comoros U20 | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="20:00 23/09 Malawi U20 vs Comoros U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640460_4436ba7b_20260923.png?v=4436ba7b" group-title="⚽ Bóng Đá",20:00 23/09 Malawi U20 vs Comoros U20 | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 23/09 Malawi U20 vs Comoros U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640460_4436ba7b_20260923.png?v=4436ba7b" group-title="⚽ Bóng Đá (1 LIVE)",20:00 23/09 Malawi U20 vs Comoros U20 | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="20:00 23/09 Malawi U20 vs Comoros U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640460_4436ba7b_20260923.png?v=4436ba7b" group-title="⚽ Bóng Đá",20:00 23/09 Malawi U20 vs Comoros U20 | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 23/09 Italy U20 W vs Spain U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640769_cdfa1a1f_20260923.png?v=cdfa1a1f" group-title="⚽ Bóng Đá (1 LIVE)",20:00 23/09 Italy U20 W vs Spain U20 | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="20:00 23/09 Italy U20 W vs Spain U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640769_cdfa1a1f_20260923.png?v=cdfa1a1f" group-title="⚽ Bóng Đá",20:00 23/09 Italy U20 W vs Spain U20 | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 23/09 Italy U20 W vs Spain U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640769_cdfa1a1f_20260923.png?v=cdfa1a1f" group-title="⚽ Bóng Đá (1 LIVE)",20:00 23/09 Italy U20 W vs Spain U20 | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="20:00 23/09 Italy U20 W vs Spain U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640769_cdfa1a1f_20260923.png?v=cdfa1a1f" group-title="⚽ Bóng Đá",20:00 23/09 Italy U20 W vs Spain U20 | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 23/09 PAOK vs Spartak Myjava" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xgpbe5galp31_d3e1ff7c_20260923.png?v=d3e1ff7c" group-title="⚽ Bóng Đá (1 LIVE)",21:00 23/09 PAOK vs Spartak Myjava | GV
+#EXTINF:-1 tvg-id="" tvg-name="21:00 23/09 PAOK vs Spartak Myjava" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xgpbe5galp31_d3e1ff7c_20260923.png?v=d3e1ff7c" group-title="⚽ Bóng Đá",21:00 23/09 PAOK vs Spartak Myjava | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790102300_hd/1790102300_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 23/09 Kladno vs Baník Ostrava" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636726_6cd62e2a_20260923.png?v=6cd62e2a" group-title="⚽ Bóng Đá (1 LIVE)",21:00 23/09 Kladno vs Baník Ostrava | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="21:00 23/09 Kladno vs Baník Ostrava" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636726_6cd62e2a_20260923.png?v=6cd62e2a" group-title="⚽ Bóng Đá",21:00 23/09 Kladno vs Baník Ostrava | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 23/09 Kladno vs Baník Ostrava" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636726_6cd62e2a_20260923.png?v=6cd62e2a" group-title="⚽ Bóng Đá (1 LIVE)",21:00 23/09 Kladno vs Baník Ostrava | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="21:00 23/09 Kladno vs Baník Ostrava" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636726_6cd62e2a_20260923.png?v=6cd62e2a" group-title="⚽ Bóng Đá",21:00 23/09 Kladno vs Baník Ostrava | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:30 23/09 Iraq vs Oman" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fjiyiotmsplw_6ff74d71_20260923.png?v=6ff74d71" group-title="⚽ Bóng Đá (1 LIVE)",21:30 23/09 Iraq vs Oman | GV
+#EXTINF:-1 tvg-id="" tvg-name="21:30 23/09 Iraq vs Oman" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fjiyiotmsplw_6ff74d71_20260923.png?v=6ff74d71" group-title="⚽ Bóng Đá",21:30 23/09 Iraq vs Oman | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790102587_hd/1790102587_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:30 23/09 Iraq vs Oman" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fjiyiotmsplw_6ff74d71_20260923.png?v=6ff74d71" group-title="⚽ Bóng Đá (1 LIVE)",21:30 23/09 Iraq vs Oman | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="21:30 23/09 Iraq vs Oman" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fjiyiotmsplw_6ff74d71_20260923.png?v=6ff74d71" group-title="⚽ Bóng Đá",21:30 23/09 Iraq vs Oman | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/1cdd80ed23a249bdbae869d693ee8085/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:40 23/09 Gulf United vs Al Fujairah" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/59srht7hpes1_92f42354_20260923.png?v=92f42354" group-title="⚽ Bóng Đá (1 LIVE)",21:40 23/09 Gulf United vs Al Fujairah | GV
+#EXTINF:-1 tvg-id="" tvg-name="21:40 23/09 Gulf United vs Al Fujairah" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/59srht7hpes1_92f42354_20260923.png?v=92f42354" group-title="⚽ Bóng Đá",21:40 23/09 Gulf United vs Al Fujairah | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790102713_hd/1790102713_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:00 23/09 Slovan Liberec vs Rosenborg" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8hiarfs72gg5_3423409f_20260923.png?v=3423409f" group-title="⚽ Bóng Đá (1 LIVE)",22:00 23/09 Slovan Liberec vs Rosenborg | GV
+#EXTINF:-1 tvg-id="" tvg-name="22:00 23/09 Slovan Liberec vs Rosenborg" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8hiarfs72gg5_3423409f_20260923.png?v=3423409f" group-title="⚽ Bóng Đá",22:00 23/09 Slovan Liberec vs Rosenborg | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790102845_hd/1790102845_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 23/09 Brondby IF vs Sporting" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9xpjejc182u6_5b27d1ac_20260923.png?v=5b27d1ac" group-title="⚽ Bóng Đá (1 LIVE)",23:00 23/09 Brondby IF vs Sporting | GV
+#EXTINF:-1 tvg-id="" tvg-name="23:00 23/09 Brondby IF vs Sporting" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9xpjejc182u6_5b27d1ac_20260923.png?v=5b27d1ac" group-title="⚽ Bóng Đá",23:00 23/09 Brondby IF vs Sporting | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790129301_hd/1790129301_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 23/09 Azerbaijan vs Tajikistan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghgo0xjm0v_ecaf20ad_20260923.png?v=ecaf20ad" group-title="⚽ Bóng Đá (1 LIVE)",23:00 23/09 Azerbaijan vs Tajikistan | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="23:00 23/09 Azerbaijan vs Tajikistan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghgo0xjm0v_ecaf20ad_20260923.png?v=ecaf20ad" group-title="⚽ Bóng Đá",23:00 23/09 Azerbaijan vs Tajikistan | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/f6d5265ae3b64e3db85b16df1f00f138/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 23/09 Korea DPR U20 vs Colombia U20 W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641075_1e55759d_20260923.png?v=1e55759d" group-title="⚽ Bóng Đá (1 LIVE)",23:30 23/09 Korea DPR U20 vs Colombia U20 W | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="23:30 23/09 Korea DPR U20 vs Colombia U20 W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641075_1e55759d_20260923.png?v=1e55759d" group-title="⚽ Bóng Đá",23:30 23/09 Korea DPR U20 vs Colombia U20 W | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 23/09 Korea DPR U20 vs Colombia U20 W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641075_1e55759d_20260923.png?v=1e55759d" group-title="⚽ Bóng Đá (1 LIVE)",23:30 23/09 Korea DPR U20 vs Colombia U20 W | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="23:30 23/09 Korea DPR U20 vs Colombia U20 W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641075_1e55759d_20260923.png?v=1e55759d" group-title="⚽ Bóng Đá",23:30 23/09 Korea DPR U20 vs Colombia U20 W | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 Servette (W) vs Nữ Lyonnais" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd0aa24d46db870f2461b_5afa1b29_20260923.png?v=5afa1b29" group-title="⚽ Bóng Đá (1 LIVE)",23:45 23/09 Servette (W) vs Nữ Lyonnais | GV
+#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 Servette (W) vs Nữ Lyonnais" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd0aa24d46db870f2461b_5afa1b29_20260923.png?v=5afa1b29" group-title="⚽ Bóng Đá",23:45 23/09 Servette (W) vs Nữ Lyonnais | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790129381_hd/1790129381_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 OH Leuven W vs Roma W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638317_b86741b5_20260923.png?v=b86741b5" group-title="⚽ Bóng Đá (1 LIVE)",23:45 23/09 OH Leuven W vs Roma W | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 OH Leuven W vs Roma W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638317_b86741b5_20260923.png?v=b86741b5" group-title="⚽ Bóng Đá",23:45 23/09 OH Leuven W vs Roma W | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 OH Leuven W vs Roma W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638317_b86741b5_20260923.png?v=b86741b5" group-title="⚽ Bóng Đá (1 LIVE)",23:45 23/09 OH Leuven W vs Roma W | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 OH Leuven W vs Roma W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638317_b86741b5_20260923.png?v=b86741b5" group-title="⚽ Bóng Đá",23:45 23/09 OH Leuven W vs Roma W | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 Servette Chênois W vs Lyon W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638334_f268f29e_20260923.png?v=f268f29e" group-title="⚽ Bóng Đá (1 LIVE)",23:45 23/09 Servette Chênois W vs Lyon W | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 Servette Chênois W vs Lyon W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638334_f268f29e_20260923.png?v=f268f29e" group-title="⚽ Bóng Đá",23:45 23/09 Servette Chênois W vs Lyon W | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 Servette Chênois W vs Lyon W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638334_f268f29e_20260923.png?v=f268f29e" group-title="⚽ Bóng Đá (1 LIVE)",23:45 23/09 Servette Chênois W vs Lyon W | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="23:45 23/09 Servette Chênois W vs Lyon W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638334_f268f29e_20260923.png?v=f268f29e" group-title="⚽ Bóng Đá",23:45 23/09 Servette Chênois W vs Lyon W | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:59 23/09 Feyenoord W vs Vålerenga W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vj98l99bcnuz_6c042a44_20260923.png?v=6c042a44" group-title="⚽ Bóng Đá (1 LIVE)",23:59 23/09 Feyenoord W vs Vålerenga W | GV
+#EXTINF:-1 tvg-id="" tvg-name="23:59 23/09 Feyenoord W vs Vålerenga W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vj98l99bcnuz_6c042a44_20260923.png?v=6c042a44" group-title="⚽ Bóng Đá",23:59 23/09 Feyenoord W vs Vålerenga W | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790129425_hd/1790129425_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:59 23/09 Hammarby W vs Rangers LFC W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q16bh2a4febv_07d4796e_20260923.png?v=07d4796e" group-title="⚽ Bóng Đá (1 LIVE)",23:59 23/09 Hammarby W vs Rangers LFC W | GV
+#EXTINF:-1 tvg-id="" tvg-name="23:59 23/09 Hammarby W vs Rangers LFC W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q16bh2a4febv_07d4796e_20260923.png?v=07d4796e" group-title="⚽ Bóng Đá",23:59 23/09 Hammarby W vs Rangers LFC W | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790129531_hd/1790129531_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:59 23/09 PSV W vs Fortuna W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yov3a1slfhxv_c559fd6d_20260923.png?v=c559fd6d" group-title="⚽ Bóng Đá (1 LIVE)",23:59 23/09 PSV W vs Fortuna W | GV
+#EXTINF:-1 tvg-id="" tvg-name="23:59 23/09 PSV W vs Fortuna W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yov3a1slfhxv_c559fd6d_20260923.png?v=c559fd6d" group-title="⚽ Bóng Đá",23:59 23/09 PSV W vs Fortuna W | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790129578_hd/1790129578_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Itabirito vs Cruzeiro" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q05jbjzmejir_c9072e6d_20260923.png?v=c9072e6d" group-title="⚽ Bóng Đá (1 LIVE)",01:00 24/09 Itabirito vs Cruzeiro | GV
+#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Itabirito vs Cruzeiro" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q05jbjzmejir_c9072e6d_20260923.png?v=c9072e6d" group-title="⚽ Bóng Đá",01:00 24/09 Itabirito vs Cruzeiro | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790129698_hd/1790129698_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Saudi Arabia vs Kuwait" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637929_d199c0e0_20260923.png?v=d199c0e0" group-title="⚽ Bóng Đá (1 LIVE)",01:00 24/09 Saudi Arabia vs Kuwait | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Saudi Arabia vs Kuwait" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637929_d199c0e0_20260923.png?v=d199c0e0" group-title="⚽ Bóng Đá",01:00 24/09 Saudi Arabia vs Kuwait | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Saudi Arabia vs Kuwait" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637929_d199c0e0_20260923.png?v=d199c0e0" group-title="⚽ Bóng Đá (1 LIVE)",01:00 24/09 Saudi Arabia vs Kuwait | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Saudi Arabia vs Kuwait" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637929_d199c0e0_20260923.png?v=d199c0e0" group-title="⚽ Bóng Đá",01:00 24/09 Saudi Arabia vs Kuwait | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Saudi Arabia vs Kuwait" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637929_d199c0e0_20260923.png?v=d199c0e0" group-title="⚽ Bóng Đá (1 LIVE)",01:00 24/09 Saudi Arabia vs Kuwait | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Saudi Arabia vs Kuwait" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637929_d199c0e0_20260923.png?v=d199c0e0" group-title="⚽ Bóng Đá",01:00 24/09 Saudi Arabia vs Kuwait | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/c662b35f02a64747a7dad6d6cde6231e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Manchester United Women(w) vs Sheffield United Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h62d2omoj_76df29fb_20260923.png?v=76df29fb" group-title="⚽ Bóng Đá (1 LIVE)",01:00 24/09 Manchester United Women(w) vs Sheffield United Women | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="01:00 24/09 Manchester United Women(w) vs Sheffield United Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1h62d2omoj_76df29fb_20260923.png?v=76df29fb" group-title="⚽ Bóng Đá",01:00 24/09 Manchester United Women(w) vs Sheffield United Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/82582970cecf4a368b6f84f51317b8c8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Nữ FC Barcelona vs Nữ Paris FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd18745163e9e3e085d3f_56102975_20260923.png?v=56102975" group-title="⚽ Bóng Đá (1 LIVE)",02:00 24/09 Nữ FC Barcelona vs Nữ Paris FC | GV
+#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Nữ FC Barcelona vs Nữ Paris FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd18745163e9e3e085d3f_56102975_20260923.png?v=56102975" group-title="⚽ Bóng Đá",02:00 24/09 Nữ FC Barcelona vs Nữ Paris FC | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790129803_hd/1790129803_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Nữ Chelsea FC vs Austria Wien (W)" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd18745163e9e3e085d40_f736ffb7_20260923.png?v=f736ffb7" group-title="⚽ Bóng Đá (1 LIVE)",02:00 24/09 Nữ Chelsea FC vs Austria Wien (W) | GV
+#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Nữ Chelsea FC vs Austria Wien (W)" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd18745163e9e3e085d40_f736ffb7_20260923.png?v=f736ffb7" group-title="⚽ Bóng Đá",02:00 24/09 Nữ Chelsea FC vs Austria Wien (W) | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790129832_hd/1790129832_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Barcelona W vs Paris FC W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638296_0a7919f5_20260923.png?v=0a7919f5" group-title="⚽ Bóng Đá (1 LIVE)",02:00 24/09 Barcelona W vs Paris FC W | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Barcelona W vs Paris FC W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638296_0a7919f5_20260923.png?v=0a7919f5" group-title="⚽ Bóng Đá",02:00 24/09 Barcelona W vs Paris FC W | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Barcelona W vs Paris FC W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638296_0a7919f5_20260923.png?v=0a7919f5" group-title="⚽ Bóng Đá (1 LIVE)",02:00 24/09 Barcelona W vs Paris FC W | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Barcelona W vs Paris FC W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638296_0a7919f5_20260923.png?v=0a7919f5" group-title="⚽ Bóng Đá",02:00 24/09 Barcelona W vs Paris FC W | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Chelsea W vs Austria Wien W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638303_7b9c08a0_20260923.png?v=7b9c08a0" group-title="⚽ Bóng Đá (1 LIVE)",02:00 24/09 Chelsea W vs Austria Wien W | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Chelsea W vs Austria Wien W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638303_7b9c08a0_20260923.png?v=7b9c08a0" group-title="⚽ Bóng Đá",02:00 24/09 Chelsea W vs Austria Wien W | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Chelsea W vs Austria Wien W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638303_7b9c08a0_20260923.png?v=7b9c08a0" group-title="⚽ Bóng Đá (1 LIVE)",02:00 24/09 Chelsea W vs Austria Wien W | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="02:00 24/09 Chelsea W vs Austria Wien W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638303_7b9c08a0_20260923.png?v=7b9c08a0" group-title="⚽ Bóng Đá",02:00 24/09 Chelsea W vs Austria Wien W | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 24/09 Bahamas vs Saint Martin" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vs7xm5dybc9h_8c43e50f_20260923.png?v=8c43e50f" group-title="⚽ Bóng Đá (1 LIVE)",03:00 24/09 Bahamas vs Saint Martin | GV
+#EXTINF:-1 tvg-id="" tvg-name="03:00 24/09 Bahamas vs Saint Martin" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vs7xm5dybc9h_8c43e50f_20260923.png?v=8c43e50f" group-title="⚽ Bóng Đá",03:00 24/09 Bahamas vs Saint Martin | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790129883_hd/1790129883_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:00 23/09 🔴 Las Vegas Aces vs Los Angeles Sparks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22525071_70e6fcba_20260923.png?v=70e6fcba" group-title="🏀 Bóng Rổ (2 LIVE)",09:00 23/09 🔴 Las Vegas Aces vs Los Angeles Sparks | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1790081239_hd/1790081239_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:00 23/09 🔴 Portland Fire vs Golden State Valkyries" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23525072_aba8d1a8_20260923.png?v=aba8d1a8" group-title="🏀 Bóng Rổ (2 LIVE)",09:00 23/09 🔴 Portland Fire vs Golden State Valkyries | GV
+#EXTINF:-1 tvg-id="" tvg-name="09:00 23/09 🔴 Portland Fire vs Golden State Valkyries" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23525072_aba8d1a8_20260923.png?v=aba8d1a8" group-title="🏀 Bóng Rổ (1 LIVE)",09:00 23/09 🔴 Portland Fire vs Golden State Valkyries | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790081289_hd/1790081289_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:30 23/09 Cairns Taipans vs Tasmania JackJumpers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28122272_a8c03cfe_20260923.png?v=a8c03cfe" group-title="🏀 Bóng Rổ (2 LIVE)",16:30 23/09 Cairns Taipans vs Tasmania JackJumpers | GV
+#EXTINF:-1 tvg-id="" tvg-name="16:30 23/09 Cairns Taipans vs Tasmania JackJumpers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28122272_a8c03cfe_20260923.png?v=a8c03cfe" group-title="🏀 Bóng Rổ (1 LIVE)",16:30 23/09 Cairns Taipans vs Tasmania JackJumpers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
@@ -392,6 +382,11 @@ https://cdn.sports-cas889abxfileposo.site/live/live8195/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8196/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 23/09 Shane Van Boening vs Casper Matikainen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-e60105e20e_45ab5db9_20260923.png?v=45ab5db9" group-title="🎱 Billiards (4 LIVE)",12:00 23/09 Shane Van Boening vs Casper Matikainen | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8197/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:00 23/09 Aloysius Yapp vs Konrad Juszczyszyn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-0aa2f3d866_3a107575_20260923.png?v=3a107575" group-title="🎱 Billiards (4 LIVE)",12:00 23/09 Aloysius Yapp vs Konrad Juszczyszyn | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -402,11 +397,11 @@ https://cdn.sports-cas889abxfileposo.site/live/live8199/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8198/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 23/09 Shane Van Boening vs Casper Matikainen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-e60105e20e_45ab5db9_20260923.png?v=45ab5db9" group-title="🎱 Billiards (4 LIVE)",12:00 23/09 Shane Van Boening vs Casper Matikainen | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:01 23/09 Moritz Neuhausen vs Mario He" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-f9eba4d46b_685b2409_20260923.png?v=685b2409" group-title="🎱 Billiards (4 LIVE)",12:01 23/09 Moritz Neuhausen vs Mario He | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8197/index.m3u8
+https://cdn.sports-cas889abxfileposo.site/live/live8202/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:01 23/09 Johann Chua vs Luca Menn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-79ffdadde8_2480884d_20260923.png?v=2480884d" group-title="🎱 Billiards (4 LIVE)",12:01 23/09 Johann Chua vs Luca Menn | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -417,11 +412,6 @@ https://cdn.sports-cas889abxfileposo.site/live/live8201/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8200/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:01 23/09 Moritz Neuhausen vs Mario He" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-f9eba4d46b_685b2409_20260923.png?v=685b2409" group-title="🎱 Billiards (4 LIVE)",12:01 23/09 Moritz Neuhausen vs Mario He | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8202/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="14:00 23/09 Chia Hua Chen vs Seo Seoa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-233b5d54ce_8232a0d7_20260923.png?v=8232a0d7" group-title="🎱 Billiards (4 LIVE)",14:00 23/09 Chia Hua Chen vs Seo Seoa | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -432,26 +422,26 @@ https://cdn.sports-cas889abxfileposo.site/live/live8207/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8205/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 23/09 Pia Filler vs Chihiro Kawahara" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-656399c283_972f8bc2_20260923.png?v=972f8bc2" group-title="🎱 Billiards (4 LIVE)",14:00 23/09 Pia Filler vs Chihiro Kawahara | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8206/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 23/09 Shi Tianqi vs Harin Lee" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a6d6a0d86c_e7b5474e_20260923.png?v=e7b5474e" group-title="🎱 Billiards (4 LIVE)",14:00 23/09 Shi Tianqi vs Harin Lee | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8208/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 23/09 Chezka Centeno vs Jasmin Ouschan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-e3594fe44c_0271f54b_20260923.png?v=0271f54b" group-title="🎱 Billiards (4 LIVE)",14:00 23/09 Chezka Centeno vs Jasmin Ouschan | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8203/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="14:00 23/09 Kristina Tkach vs Rubilen Amit" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-ef025e55e8_548c6b06_20260923.png?v=548c6b06" group-title="🎱 Billiards (4 LIVE)",14:00 23/09 Kristina Tkach vs Rubilen Amit | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8204/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 23/09 Chezka Centeno vs Jasmin Ouschan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-e3594fe44c_0271f54b_20260923.png?v=0271f54b" group-title="🎱 Billiards (4 LIVE)",14:00 23/09 Chezka Centeno vs Jasmin Ouschan | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8203/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 23/09 Shi Tianqi vs Harin Lee" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a6d6a0d86c_e7b5474e_20260923.png?v=e7b5474e" group-title="🎱 Billiards (4 LIVE)",14:00 23/09 Shi Tianqi vs Harin Lee | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8208/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 23/09 Pia Filler vs Chihiro Kawahara" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-656399c283_972f8bc2_20260923.png?v=972f8bc2" group-title="🎱 Billiards (4 LIVE)",14:00 23/09 Pia Filler vs Chihiro Kawahara | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8206/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="16:30 23/09 Lu / Yapp vs Seo / Capito" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-739546f701_6c9ff2b6_20260923.png?v=6c9ff2b6" group-title="🎱 Billiards (4 LIVE)",16:30 23/09 Lu / Yapp vs Seo / Capito | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
