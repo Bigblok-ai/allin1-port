@@ -292,6 +292,11 @@ https://pull.digitalcdn.net/live/5826a87fc21b4c1ca850ff2f7ad62db5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/098bfecd1059454c89a375f33bde0c68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 25/09 Australia vs Brazil" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6j4p8qg8_aceb1824_20260924.png?v=aceb1824" group-title="⚽ Bóng Đá (5 LIVE)",17:00 25/09 Australia vs Brazil | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/4192d2db050a4e4dacfed6c8a10fbfc7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:00 24/09 Dubai vs Real Madrid Teka" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28092278_2f42a337_20260924.png?v=2f42a337" group-title="🏀 Bóng Rổ",23:00 24/09 Dubai vs Real Madrid Teka | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
