@@ -132,17 +132,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/3f25851fe98e4931ae99fb72b5cd9d56/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 25/09 🔴 Qatar vs Bahrain" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637931_631fd1ca_20260925.png?v=631fd1ca" group-title="⚽ Bóng Đá (6 LIVE)",01:00 25/09 🔴 Qatar vs Bahrain | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="01:00 🔴 Qatar vs Bahrain" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/241df535-5f8d-4720-8bfb-b93715c745b4_f1be0478_20260925.png?v=f1be0478" group-title="⚽ Bóng Đá (6 LIVE)",01:00 🔴 Qatar vs Bahrain | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.tv/","Origin":"https://xoiche.tv"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.tv/
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:-1 tvg-id="" tvg-name="01:00 🔴 Qatar vs Bahrain" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/241df535-5f8d-4720-8bfb-b93715c745b4_f1be0478_20260925.png?v=f1be0478" group-title="⚽ Bóng Đá (6 LIVE)",01:00 🔴 Qatar vs Bahrain | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 25/09 🔴 Qatar vs Bahrain" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637931_631fd1ca_20260925.png?v=631fd1ca" group-title="⚽ Bóng Đá (6 LIVE)",01:00 25/09 🔴 Qatar vs Bahrain | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="01:00 🔴 Qatar vs Bahrain" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/241df535-5f8d-4720-8bfb-b93715c745b4_f1be0478_20260925.png?v=f1be0478" group-title="⚽ Bóng Đá (6 LIVE)",01:00 🔴 Qatar vs Bahrain | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 25/09 🔴 Qatar vs Bahrain" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1637931_631fd1ca_20260925.png?v=631fd1ca" group-title="⚽ Bóng Đá (6 LIVE)",01:00 25/09 🔴 Qatar vs Bahrain | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="01:00 🔴 Qatar vs Bahrain" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/241df535-5f8d-4720-8bfb-b93715c745b4_f1be0478_20260925.png?v=f1be0478" group-title="⚽ Bóng Đá (6 LIVE)",01:00 🔴 Qatar vs Bahrain | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
