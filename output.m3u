@@ -132,6 +132,11 @@ https://pull.digitalcdn.net/live/2c42de493eb54af0a08b09b0a316ff4b/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/d07570541bef4956bd38ed1cbfb23972/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 27/09 Oman vs Saudi Arabia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y0or5jh8vovlqwz_ba0218b6_20260926.png?v=ba0218b6" group-title="⚽ Bóng Đá",01:00 27/09 Oman vs Saudi Arabia | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/d740d5c3818a4885935f07a0c3572792/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:00 26/09 Seoul Knights vs Wonju DB" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/801iezbe0koj_c185429a_20260926.png?v=c185429a" group-title="🏀 Bóng Rổ",12:00 26/09 Seoul Knights vs Wonju DB | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
