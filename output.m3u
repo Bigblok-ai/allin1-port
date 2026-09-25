@@ -52,11 +52,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="20:00 25/09 🔴 Indonesia vs Singapore" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aac7f5624d46db87036c172_3c44a668_20260925.png?v=3c44a668" group-title="⚽ Bóng Đá (4 LIVE)",20:00 25/09 🔴 Indonesia vs Singapore | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1790323080_hd/1790323080_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21:00 25/09 🔴 Ấn Độ vs Panama" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf23424e725bdee905b840_fced8aef_20260925.png?v=fced8aef" group-title="⚽ Bóng Đá (4 LIVE)",21:00 25/09 🔴 Ấn Độ vs Panama | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -87,6 +82,11 @@ https://eqr2hdarxfliv.vcdn.cloud/1790319058_hd/1790319058_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790319132_hd/1790319132_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 25/09 🔴 Georgia vs Northern Ireland" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl9y77moe_eb431bf7_20260925.png?v=eb431bf7" group-title="⚽ Bóng Đá (4 LIVE)",23:00 25/09 🔴 Georgia vs Northern Ireland | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/6ec1ce26c2824953acd4479ecb776be0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:00 25/09 Armenia vs Latvia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f695d673ba0b335e0f2ed5_1747789f_20260925.png?v=1747789f" group-title="⚽ Bóng Đá (4 LIVE)",23:00 25/09 Armenia vs Latvia | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -112,11 +112,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1790263892_hd/1790263892_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790264008_hd/1790264008_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 25/09 Georgia vs Northern Ireland" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/dn1m1ghl9y77moe_eb431bf7_20260925.png?v=eb431bf7" group-title="⚽ Bóng Đá (4 LIVE)",23:00 25/09 Georgia vs Northern Ireland | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/6ec1ce26c2824953acd4479ecb776be0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="00:00 26/09 Hammarby TFF vs IFK Stocksund" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe56j6r6o_06cf1df6_20260925.png?v=06cf1df6" group-title="⚽ Bóng Đá (4 LIVE)",00:00 26/09 Hammarby TFF vs IFK Stocksund | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -272,17 +267,17 @@ https://pull.digitalcdn.net/live/cf058a3546894a839c70015d146d4e9c/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790263500_hd/1790263500_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 25/09 🔴 Pia Filler vs Shi Tianqi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-169d0980da_50407248_20260925.png?v=50407248" group-title="🎱 Billiards (1 LIVE)",20:00 25/09 🔴 Pia Filler vs Shi Tianqi | Choang 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8295/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 25/09 🔴 Pia Filler vs Shi Tianqi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-169d0980da_50407248_20260925.png?v=50407248" group-title="🎱 Billiards (1 LIVE)",20:00 25/09 🔴 Pia Filler vs Shi Tianqi | Choang 2
+#EXTINF:-1 tvg-id="" tvg-name="20:00 25/09 🔴 Pia Filler vs Shi Tianqi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-edf677fa07_90828a94_20260925.png?v=90828a94" group-title="🎱 Billiards (1 LIVE)",20:00 25/09 🔴 Pia Filler vs Shi Tianqi | Choang 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8293/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 25/09 🔴 Pia Filler vs Shi Tianqi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-169d0980da_50407248_20260925.png?v=50407248" group-title="🎱 Billiards (1 LIVE)",20:00 25/09 🔴 Pia Filler vs Shi Tianqi | Choang 3
+#EXTINF:-1 tvg-id="" tvg-name="20:00 25/09 🔴 Pia Filler vs Shi Tianqi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-edf677fa07_90828a94_20260925.png?v=90828a94" group-title="🎱 Billiards (1 LIVE)",20:00 25/09 🔴 Pia Filler vs Shi Tianqi | Choang 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8295/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 25/09 🔴 Pia Filler vs Shi Tianqi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-edf677fa07_90828a94_20260925.png?v=90828a94" group-title="🎱 Billiards (1 LIVE)",20:00 25/09 🔴 Pia Filler vs Shi Tianqi | Choang 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
