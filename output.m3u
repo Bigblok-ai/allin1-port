@@ -72,6 +72,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:00 25/09 Uzbekistan U23 vs Saudi Arabia U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641614_6e1f15fe_20260925.png?v=6e1f15fe" group-title="⚽ Bóng Đá (2 LIVE)",12:00 25/09 Uzbekistan U23 vs Saudi Arabia U23 | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/3da59b3d51d3456f875050b59ab14b65/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13:00 25/09 ĐT nữ Việt Nam vs ĐT nữ Trung Quốc" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a41t5fzzfbcn_8692418f_20260925.png?v=8692418f" group-title="⚽ Bóng Đá (2 LIVE)",13:00 25/09 ĐT nữ Việt Nam vs ĐT nữ Trung Quốc | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
