@@ -52,7 +52,7 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="10:00 26/09 🔴 ASIAD 2026 vs ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260926.png?v=62dd1b2b" group-title="⚽ Bóng Đá (5 LIVE)",10:00 26/09 🔴 ASIAD 2026 vs ASIAD 2026 | GV
+#EXTINF:-1 tvg-id="" tvg-name="13:00 26/09 🔴 ASIAD 2026 vs ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260926.png?v=62dd1b2b" group-title="⚽ Bóng Đá (5 LIVE)",13:00 26/09 🔴 ASIAD 2026 vs ASIAD 2026 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
@@ -317,16 +317,21 @@ https://eqr2hdarxfliv.vcdn.cloud/1790399250_hd/1790399250_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790399322_hd/1790399322_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:59 26/09 🔴 Eklent Kaçi vs Joshua Filler" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-03d375903f_9f97a7f8_20260926.png?v=9f97a7f8" group-title="🎱 Billiards (2 LIVE)",11:59 26/09 🔴 Eklent Kaçi vs Joshua Filler | Choang
+#EXTINF:-1 tvg-id="" tvg-name="11:59 26/09 🔴 Eklent Kaçi vs Joshua Filler" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-03d375903f_9f97a7f8_20260926.png?v=9f97a7f8" group-title="🎱 Billiards (3 LIVE)",11:59 26/09 🔴 Eklent Kaçi vs Joshua Filler | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8301/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 26/09 🔴 Wojciech Szewczyk vs Sanjin Pehlivanovic" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-387cd5791c_531f290b_20260926.png?v=531f290b" group-title="🎱 Billiards (2 LIVE)",12:00 26/09 🔴 Wojciech Szewczyk vs Sanjin Pehlivanovic | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 26/09 🔴 Wojciech Szewczyk vs Sanjin Pehlivanovic" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-387cd5791c_531f290b_20260926.png?v=531f290b" group-title="🎱 Billiards (3 LIVE)",12:00 26/09 🔴 Wojciech Szewczyk vs Sanjin Pehlivanovic | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8300/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:26 26/09 🔴 Efren reyes vs marvin benguet" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-8949dd66c4_bcba5a54_20260926.png?v=bcba5a54" group-title="🎱 Billiards (3 LIVE)",13:26 26/09 🔴 Efren reyes vs marvin benguet | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8314/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="22:00 26/09 Phần Lan vs Slovenia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5oq5adzpdag8_5013d0f8_20260926.png?v=5013d0f8" group-title="🏐 Bóng Chuyền",22:00 26/09 Phần Lan vs Slovenia | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
