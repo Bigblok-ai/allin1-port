@@ -177,6 +177,11 @@ https://pull.digitalcdn.net/live/6b33c725b3de4d33b21d7b11757da1a4/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/651e0831cff74706a8920b5f89247b83/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:15 27/09 RCD Mallorca vs Almeria" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkv9p5rz8_0776a8ac_20260927.png?v=0776a8ac" group-title="⚽ Bóng Đá (1 LIVE)",21:15 27/09 RCD Mallorca vs Almeria | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/8a054b6c4616495597d9e39846ae0b81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:00 26/09 🔴 Bilbao vs Manresa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5nunrxhcna4w_491f2638_20260927.png?v=491f2638" group-title="🏀 Bóng Rổ (1 LIVE)",23:00 26/09 🔴 Bilbao vs Manresa | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
