@@ -272,6 +272,11 @@ https://pull.digitalcdn.net/live/b4e4ce77ea0b4837a9d78713948e68fa/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/3b885ff222cc4af896ad384cf7ece61c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 27/09 Dong Thap vs Thai Nguyen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/1l4rjnh9voy2m7v_2e36235b_20260926.png?v=2e36235b" group-title="⚽ Bóng Đá (5 LIVE)",16:00 27/09 Dong Thap vs Thai Nguyen | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/f91fcb1c0c60425abe7bfa1dc4cdce53/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="18:30 26/09 🔴 Perth Wildcats vs New Zealand Breakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/12222277_579ca69a_20260926.png?v=579ca69a" group-title="🏀 Bóng Rổ (1 LIVE)",18:30 26/09 🔴 Perth Wildcats vs New Zealand Breakers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
