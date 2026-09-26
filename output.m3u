@@ -122,11 +122,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 26/09 Việt Nam vs Philippines" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aac7f5a24d46db87036cf41_0b599666_20260926.png?v=0b599666" group-title="⚽ Bóng Đá (4 LIVE)",19:30 26/09 Việt Nam vs Philippines | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/99aa673a94574957863b555f6eb16cfc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 26/09 Slovenia vs Scotland" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f695d673ba0b335e0f2ec9_018d4474_20260926.png?v=018d4474" group-title="⚽ Bóng Đá (4 LIVE)",20:00 26/09 Slovenia vs Scotland | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -332,16 +327,36 @@ https://cdn.sports-cas889abxfileposo.site/live/live8324/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8332/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:30 26/09 Vietnam vs Philippines" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c9897626a3ec455582656b8f55fafc67_bfd211de_20260926.png?v=bfd211de" group-title="🏐 Bóng Chuyền",19:30 26/09 Vietnam vs Philippines | Phalang 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/72e408299ff44dcc89cb50d9c1e5fb1f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:30 26/09 Vietnam vs Philippines" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c9897626a3ec455582656b8f55fafc67_bfd211de_20260926.png?v=bfd211de" group-title="🏐 Bóng Chuyền",19:30 26/09 Vietnam vs Philippines | Phalang 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/99aa673a94574957863b555f6eb16cfc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="22:00 26/09 Phần Lan vs Slovenia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5oq5adzpdag8_5013d0f8_20260926.png?v=5013d0f8" group-title="🏐 Bóng Chuyền",22:00 26/09 Phần Lan vs Slovenia | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790399647_hd/1790399647_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="22:00 26/09 Phần Lan vs Slovenia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5oq5adzpdag8_5013d0f8_20260926.png?v=5013d0f8" group-title="🏐 Bóng Chuyền",22:00 26/09 Phần Lan vs Slovenia | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/f89aa01792304bd4b9b5c7fda38a9a87/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:00 27/09 Pháp vs Ba Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hbapb4sijdis_6936e1e2_20260926.png?v=6936e1e2" group-title="🏐 Bóng Chuyền",02:00 27/09 Pháp vs Ba Lan | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790416813_hd/1790416813_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02:00 27/09 Pháp vs Ba Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hbapb4sijdis_6936e1e2_20260926.png?v=6936e1e2" group-title="🏐 Bóng Chuyền",02:00 27/09 Pháp vs Ba Lan | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/bf11164d0590473b97b03362fd3f2bb6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="11:00 27/09 Hàn Quốc vs Philippines" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/cccb533abef3463e9ae37678eab2652b_d69866b7_20260926.png?v=d69866b7" group-title="🏐 Bóng Chuyền",11:00 27/09 Hàn Quốc vs Philippines | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -362,7 +377,7 @@ https://pull.digitalcdn.net/live/7f5f713541a146c9a5520d1b6ab44b66/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/61e1d2421a37453eba8e4f4e52105dd4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 26/09 F1 vs F1" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j4qtfvuhbdjg_8b1c591a_20260926.png?v=8b1c591a" group-title="🏎️ Đua Xe",18:00 26/09 F1 vs F1 | GV
+#EXTINF:-1 tvg-id="" tvg-name="18:00 26/09 🔴 F1 vs F1" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j4qtfvuhbdjg_8b1c591a_20260926.png?v=8b1c591a" group-title="🏎️ Đua Xe (1 LIVE)",18:00 26/09 🔴 F1 vs F1 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
