@@ -137,6 +137,11 @@ https://pull.digitalcdn.net/live/23b82800c6a14cc183e2baf7c095714e/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790264767_hd/1790264767_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 28/09 Bahrain vs United Arab Emirates" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/zp5rzghgnwnpq82_343b8b91_20260927.png?v=343b8b91" group-title="⚽ Bóng Đá (1 LIVE)",01:00 28/09 Bahrain vs United Arab Emirates | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/0457a0d7522648259422d2e0e1ce51d3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:00 27/09 Suwon KT vs Goyang Sono" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8bgpf1zn201s_a814b8c3_20260927.png?v=a814b8c3" group-title="🏀 Bóng Rổ",12:00 27/09 Suwon KT vs Goyang Sono | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
