@@ -162,6 +162,11 @@ https://pull.digitalcdn.net/live/c3bb46cc5937422e9776dc06b918b17b/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/e37856b26ac245038ad166740cc70a8b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02:00 01/10 OL Lyonnes Women vs Chelsea FC Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/y39mp1hdv5l2moj_7240a989_20260930.png?v=7240a989" group-title="⚽ Bóng Đá (1 LIVE)",02:00 01/10 OL Lyonnes Women vs Chelsea FC Women | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/68dbe7ba86cc426db7a632800b2f0186/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="07:30 30/09 New York Liberty vs Minnesota Lynx" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36590471_3c12e3bf_20260930.png?v=3c12e3bf" group-title="🏀 Bóng Rổ",07:30 30/09 New York Liberty vs Minnesota Lynx | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
