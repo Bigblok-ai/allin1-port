@@ -157,6 +157,11 @@ https://pull.digitalcdn.net/live/0b3ef5deabef437fae4965d1c420c3f4/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/c3bb46cc5937422e9776dc06b918b17b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:30 01/10 United Arab Emirates vs Qatar" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6jlj6q86_e87b528c_20260930.png?v=e87b528c" group-title="⚽ Bóng Đá",00:30 01/10 United Arab Emirates vs Qatar | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/e37856b26ac245038ad166740cc70a8b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="05:30 30/09 Indiana Fever vs Las Vegas Aces" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27101470_27ba7ff9_20260930.png?v=27ba7ff9" group-title="🏀 Bóng Rổ",05:30 30/09 Indiana Fever vs Las Vegas Aces | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
