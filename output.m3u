@@ -52,11 +52,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="14:30 29/09 🔴 ASIAD 2026 vs ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260929.png?v=62dd1b2b" group-title="⚽ Bóng Đá (4 LIVE)",14:30 29/09 🔴 ASIAD 2026 vs ASIAD 2026 | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1789838904_hd/1789838904_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="16:00 29/09 🔴 Philippines vs Pakistan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd2_05b433b7_20260929.png?v=05b433b7" group-title="⚽ Bóng Đá (4 LIVE)",16:00 29/09 🔴 Philippines vs Pakistan | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -77,6 +72,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/3ddbbfee20f5403ca128017510e97013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 29/09 🔴 ASIAD 2026 vs ASIAD 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260929.png?v=62dd1b2b" group-title="⚽ Bóng Đá (4 LIVE)",17:00 29/09 🔴 ASIAD 2026 vs ASIAD 2026 | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://eqr2hdarxfliv.vcdn.cloud/1789838904_hd/1789838904_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 29/09 🔴 Úc vs Brazil" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab85d73802222c82d0bc754_668fc947_20260929.png?v=668fc947" group-title="⚽ Bóng Đá (4 LIVE)",17:00 29/09 🔴 Úc vs Brazil | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -177,6 +177,11 @@ https://eqr2hdarxfliv.vcdn.cloud/1790622051_hd/1790622051_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790622082_hd/1790622082_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 29/09 U19 Na Uy vs U19 Anh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab5ba6009ca9ecd47090988_9331a938_20260929.png?v=9331a938" group-title="⚽ Bóng Đá (4 LIVE)",21:00 29/09 U19 Na Uy vs U19 Anh | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://eqr2hdarxfliv.vcdn.cloud/1790675676_hd/1790675676_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21:00 29/09 U21 Slovenia vs U21 Israel" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/683e3b421f892a5e5c090305_63cb1046_20260929.png?v=63cb1046" group-title="⚽ Bóng Đá (4 LIVE)",21:00 29/09 U21 Slovenia vs U21 Israel | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
