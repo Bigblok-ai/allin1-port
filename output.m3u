@@ -87,7 +87,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/3abe5983fbfd46cea71cc74c31989df2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 01/10 Indonesia vs Bangladesh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey0jlr6o_b9665b0c_20261001.png?v=b9665b0c" group-title="⚽ Bóng Đá (1 LIVE)",19:30 01/10 Indonesia vs Bangladesh | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="19:30 01/10 Indonesia vs Bangladesh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd0_9986b8eb_20261001.png?v=9986b8eb" group-title="⚽ Bóng Đá (1 LIVE)",19:30 01/10 Indonesia vs Bangladesh | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1790810386_hd/1790810386_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:30 01/10 Indonesia vs Bangladesh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd0_9986b8eb_20261001.png?v=9986b8eb" group-title="⚽ Bóng Đá (1 LIVE)",19:30 01/10 Indonesia vs Bangladesh | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
