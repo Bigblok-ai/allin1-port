@@ -262,6 +262,11 @@ https://pull.digitalcdn.net/live/e7152d410fdc4f00a97ae576111010ab/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/0105b787c7d1407f95646ef6682145d0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 01/10 Uzbekistan vs Syria" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09h549l0rz8_a984842e_20261001.png?v=a984842e" group-title="⚽ Bóng Đá (10 LIVE)",21:00 01/10 Uzbekistan vs Syria | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/cb609dd27e1c4b039c10ab1365ef0c79/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="09:00 01/10 Beijing Open vs 2026" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wcw23uj5ldtg_1ad43bdf_20261001.png?v=1ad43bdf" group-title="🎾 Tennis",09:00 01/10 Beijing Open vs 2026 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
