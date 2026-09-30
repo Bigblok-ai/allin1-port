@@ -52,11 +52,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="07:00 30/09 Mỹ vs Chilê" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab5ba6009ca9ecd4709098e_90e0d744_20260930.png?v=90e0d744" group-title="⚽ Bóng Đá",07:00 30/09 Mỹ vs Chilê | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1790613004_hd/1790613004_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="08:00 30/09 Mexico vs Peru" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab5ba6009ca9ecd4709098f_3decdf40_20260930.png?v=3decdf40" group-title="⚽ Bóng Đá",08:00 30/09 Mexico vs Peru | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -322,111 +317,96 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/68dbe7ba86cc426db7a632800b2f0186/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 30/09 New York Liberty vs Minnesota Lynx" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36590471_3c12e3bf_20260930.png?v=3c12e3bf" group-title="🏀 Bóng Rổ",07:30 30/09 New York Liberty vs Minnesota Lynx | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1790646212_hd/1790646212_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="14:30 30/09 New Zealand Breakers vs Cairns Taipans" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25222270_54948d4c_20260930.png?v=54948d4c" group-title="🏀 Bóng Rổ",14:30 30/09 New Zealand Breakers vs Cairns Taipans | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1790701144_hd/1790701144_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 30/09 🔴 Cristopher Tevez Ocampo vs Alex Pagulayan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-fce3b18a26_85622af0_20260930.png?v=85622af0" group-title="🎱 Billiards (3 LIVE)",08:00 30/09 🔴 Cristopher Tevez Ocampo vs Alex Pagulayan | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8487/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 30/09 🔴 Gerson Martinez Boza vs Skyler Woodward" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-af0dc2184c_c45aa141_20260930.png?v=c45aa141" group-title="🎱 Billiards (3 LIVE)",08:00 30/09 🔴 Gerson Martinez Boza vs Skyler Woodward | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8488/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 30/09 🔴 John Morra vs Sanjin Pehlivanovic" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-6e4a771579_2ec34404_20260930.png?v=2ec34404" group-title="🎱 Billiards (3 LIVE)",08:00 30/09 🔴 John Morra vs Sanjin Pehlivanovic | Choang
+#EXTINF:-1 tvg-id="" tvg-name="08:00 30/09 🔴 John Morra vs Sanjin Pehlivanovic" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-6e4a771579_2ec34404_20260930.png?v=2ec34404" group-title="🎱 Billiards (2 LIVE)",08:00 30/09 🔴 John Morra vs Sanjin Pehlivanovic | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8490/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 30/09 Kyle Amoroto vs Dimitris Loukatos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-774dcdb326_46e50291_20260930.png?v=46e50291" group-title="🎱 Billiards (3 LIVE)",10:00 30/09 Kyle Amoroto vs Dimitris Loukatos | Choang
+#EXTINF:-1 tvg-id="" tvg-name="08:00 30/09 🔴 Gerson Martinez Boza vs Skyler Woodward" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-af0dc2184c_c45aa141_20260930.png?v=c45aa141" group-title="🎱 Billiards (2 LIVE)",08:00 30/09 🔴 Gerson Martinez Boza vs Skyler Woodward | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8488/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 30/09 Kyle Amoroto vs Dimitris Loukatos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-774dcdb326_46e50291_20260930.png?v=46e50291" group-title="🎱 Billiards (2 LIVE)",10:00 30/09 Kyle Amoroto vs Dimitris Loukatos | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8504/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 30/09 Shane Van Boening vs Nicholas Tan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-8b48c3166a_40cba9bf_20260930.png?v=40cba9bf" group-title="🎱 Billiards (3 LIVE)",10:00 30/09 Shane Van Boening vs Nicholas Tan | Choang
+#EXTINF:-1 tvg-id="" tvg-name="10:00 30/09 Shane Van Boening vs Nicholas Tan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-8b48c3166a_40cba9bf_20260930.png?v=40cba9bf" group-title="🎱 Billiards (2 LIVE)",10:00 30/09 Shane Van Boening vs Nicholas Tan | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8493/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 30/09 Moritz Neuhausen vs Roberto Gomez" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-58ff8978e2_39c7d810_20260930.png?v=39c7d810" group-title="🎱 Billiards (3 LIVE)",10:00 30/09 Moritz Neuhausen vs Roberto Gomez | Choang
+#EXTINF:-1 tvg-id="" tvg-name="10:00 30/09 Moritz Neuhausen vs Roberto Gomez" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-58ff8978e2_39c7d810_20260930.png?v=39c7d810" group-title="🎱 Billiards (2 LIVE)",10:00 30/09 Moritz Neuhausen vs Roberto Gomez | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8491/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 30/09 H Sihombing vs Dominik Jastrząb" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-7b859cbb7e_9026e329_20260930.png?v=9026e329" group-title="🎱 Billiards (3 LIVE)",10:00 30/09 H Sihombing vs Dominik Jastrząb | Choang
+#EXTINF:-1 tvg-id="" tvg-name="10:00 30/09 H Sihombing vs Dominik Jastrząb" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-7b859cbb7e_9026e329_20260930.png?v=9026e329" group-title="🎱 Billiards (2 LIVE)",10:00 30/09 H Sihombing vs Dominik Jastrząb | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8496/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 30/09 Silviana Lu vs Rhaki Roj Constantino" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d392e4c198_5c544777_20260930.png?v=5c544777" group-title="🎱 Billiards (3 LIVE)",13:00 30/09 Silviana Lu vs Rhaki Roj Constantino | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8498/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 30/09 Harin Lee vs Jasmin Ouschan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-26068f51ce_ded01d1a_20260930.png?v=ded01d1a" group-title="🎱 Billiards (3 LIVE)",13:00 30/09 Harin Lee vs Jasmin Ouschan | Choang
+#EXTINF:-1 tvg-id="" tvg-name="13:00 30/09 Harin Lee vs Jasmin Ouschan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-26068f51ce_ded01d1a_20260930.png?v=ded01d1a" group-title="🎱 Billiards (2 LIVE)",13:00 30/09 Harin Lee vs Jasmin Ouschan | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8499/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 30/09 Margarita Fefilova vs Han Yu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b1026f210c_86bf4a28_20260930.png?v=86bf4a28" group-title="🎱 Billiards (3 LIVE)",13:00 30/09 Margarita Fefilova vs Han Yu | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8497/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 30/09 Zhang Muyan vs Soledad Ayala" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a8fe888728_5445e5c1_20260930.png?v=5445e5c1" group-title="🎱 Billiards (3 LIVE)",13:00 30/09 Zhang Muyan vs Soledad Ayala | Choang
+#EXTINF:-1 tvg-id="" tvg-name="13:00 30/09 Zhang Muyan vs Soledad Ayala" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a8fe888728_5445e5c1_20260930.png?v=5445e5c1" group-title="🎱 Billiards (2 LIVE)",13:00 30/09 Zhang Muyan vs Soledad Ayala | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8500/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:59 30/09 Tạ Phương Nam vs Mario He" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-cfad8fe457_8ed1fbaa_20260930.png?v=8ed1fbaa" group-title="🎱 Billiards (3 LIVE)",14:59 30/09 Tạ Phương Nam vs Mario He | Choang
+#EXTINF:-1 tvg-id="" tvg-name="13:00 30/09 Margarita Fefilova vs Han Yu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b1026f210c_86bf4a28_20260930.png?v=86bf4a28" group-title="🎱 Billiards (2 LIVE)",13:00 30/09 Margarita Fefilova vs Han Yu | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8497/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 30/09 Silviana Lu vs Rhaki Roj Constantino" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d392e4c198_5c544777_20260930.png?v=5c544777" group-title="🎱 Billiards (2 LIVE)",13:00 30/09 Silviana Lu vs Rhaki Roj Constantino | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8498/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:59 30/09 Tạ Phương Nam vs Mario He" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-cfad8fe457_8ed1fbaa_20260930.png?v=8ed1fbaa" group-title="🎱 Billiards (2 LIVE)",14:59 30/09 Tạ Phương Nam vs Mario He | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8507/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Tạ Phương Nam vs Mario He" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-424b0e64cf_b6f064a2_20260930.png?v=b6f064a2" group-title="🎱 Billiards (3 LIVE)",15:00 30/09 Tạ Phương Nam vs Mario He | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8508/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Bader Alawadhi vs Jeffrey De Luna" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-cd48124c32_833a4734_20260930.png?v=833a4734" group-title="🎱 Billiards (3 LIVE)",15:00 30/09 Bader Alawadhi vs Jeffrey De Luna | Choang 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8505/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Bader Alawadhi vs Jeffrey De Luna" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-cd48124c32_833a4734_20260930.png?v=833a4734" group-title="🎱 Billiards (3 LIVE)",15:00 30/09 Bader Alawadhi vs Jeffrey De Luna | Choang 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8506/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Kledio Kaçi vs ĐiChây MaNắc" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-0ae3804671_52ccb650_20260930.png?v=52ccb650" group-title="🎱 Billiards (3 LIVE)",15:00 30/09 Kledio Kaçi vs ĐiChây MaNắc | Choang 1
+#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Kledio Kaçi vs ĐiChây MaNắc" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-0ae3804671_52ccb650_20260930.png?v=52ccb650" group-title="🎱 Billiards (2 LIVE)",15:00 30/09 Kledio Kaçi vs ĐiChây MaNắc | Choang 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8503/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Kledio Kaçi vs ĐiChây MaNắc" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-0ae3804671_52ccb650_20260930.png?v=52ccb650" group-title="🎱 Billiards (3 LIVE)",15:00 30/09 Kledio Kaçi vs ĐiChây MaNắc | Choang 2
+#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Kledio Kaçi vs ĐiChây MaNắc" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-0ae3804671_52ccb650_20260930.png?v=52ccb650" group-title="🎱 Billiards (2 LIVE)",15:00 30/09 Kledio Kaçi vs ĐiChây MaNắc | Choang 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8502/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Wojciech Szewczyk vs James Aranas" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-7b54316c7a_92b347e7_20260930.png?v=92b347e7" group-title="🎱 Billiards (3 LIVE)",15:00 30/09 Wojciech Szewczyk vs James Aranas | Choang
+#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Bader Alawadhi vs Jeffrey De Luna" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-cd48124c32_833a4734_20260930.png?v=833a4734" group-title="🎱 Billiards (2 LIVE)",15:00 30/09 Bader Alawadhi vs Jeffrey De Luna | Choang 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8505/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Bader Alawadhi vs Jeffrey De Luna" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-cd48124c32_833a4734_20260930.png?v=833a4734" group-title="🎱 Billiards (2 LIVE)",15:00 30/09 Bader Alawadhi vs Jeffrey De Luna | Choang 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8506/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Tạ Phương Nam vs Mario He" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-424b0e64cf_b6f064a2_20260930.png?v=b6f064a2" group-title="🎱 Billiards (2 LIVE)",15:00 30/09 Tạ Phương Nam vs Mario He | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8508/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:00 30/09 Wojciech Szewczyk vs James Aranas" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-7b54316c7a_92b347e7_20260930.png?v=92b347e7" group-title="🎱 Billiards (2 LIVE)",15:00 30/09 Wojciech Szewczyk vs James Aranas | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8501/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 30/09 New York Yankees vs Boston Red Sox" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r8rok8mj5jfe_c55108a2_20260930.png?v=c55108a2" group-title="⚾ Bóng Chày",07:00 30/09 New York Yankees vs Boston Red Sox | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1790701510_hd/1790701510_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="09:00 30/09 San Diego Padres vs Chicago Cubs" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pu1gp0cadesa_562f330f_20260930.png?v=562f330f" group-title="⚾ Bóng Chày",09:00 30/09 San Diego Padres vs Chicago Cubs | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
