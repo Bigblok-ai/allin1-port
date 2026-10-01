@@ -286,12 +286,12 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche1.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche1.live/
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+https://live.khoga.space/live/livehub4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Xứ Wales vs Na Uy" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/24326_7ceb73fe_20261001.png?v=7ceb73fe" group-title="⚽ Bóng Đá (1 LIVE)",01:45 Xứ Wales vs Na Uy | PhaoHoa 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche1.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche1.live/
-https://live.khoga.space/live/livehub4/index.m3u8
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 #EXTINF:-1 tvg-id="" tvg-name="02:00 Manchester City W vs Real Madrid W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/24328_9ce4e8c5_20261001.png?v=9ce4e8c5" group-title="⚽ Bóng Đá (1 LIVE)",02:00 Manchester City W vs Real Madrid W | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche1.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -492,6 +492,16 @@ https://pzhgifbkllliv.vcdn.cloud/1790778903_hd/1790778903_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1790780813_hd/1790780813_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:30 01/10 🔴 Skyler Woodward vs Ponco Manurung" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vqi4kttrpl34_1a0a21de_20261001.png?v=1a0a21de" group-title="🎱 Billiards (4 LIVE)",12:30 01/10 🔴 Skyler Woodward vs Ponco Manurung | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1790823294_hd/1790823294_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:30 01/10 🔴 Skyler Woodward vs Ponco Manurung" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vqi4kttrpl34_1a0a21de_20261001.png?v=1a0a21de" group-title="🎱 Billiards (4 LIVE)",12:30 01/10 🔴 Skyler Woodward vs Ponco Manurung | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv24.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8558/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:30 01/10 🔴 Ruslan Chinakhov vs Max Lechner" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-0cabbb3aa7_a460e98b_20261001.png?v=a460e98b" group-title="🎱 Billiards (4 LIVE)",12:30 01/10 🔴 Ruslan Chinakhov vs Max Lechner | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -502,21 +512,11 @@ https://cdn.sports-cas889abxfileposo.site/live/live8559/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8556/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 01/10 🔴 Skyler Woodward vs Ponco Manurung" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-af4b9585d6_15d9f4b9_20261001.png?v=15d9f4b9" group-title="🎱 Billiards (4 LIVE)",12:30 01/10 🔴 Skyler Woodward vs Ponco Manurung | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv24.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8558/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:30 01/10 🔴 Roland Garcia vs Felix Vogel" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-4c62b9b35b_3405d6db_20261001.png?v=3405d6db" group-title="🎱 Billiards (4 LIVE)",12:30 01/10 🔴 Roland Garcia vs Felix Vogel | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv24.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8553/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 01/10 VietNam Men vs Spain Man" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vqi4kttrpl34_f7d0dd97_20261001.png?v=f7d0dd97" group-title="🎱 Billiards (4 LIVE)",12:30 01/10 VietNam Men vs Spain Man | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1790823294_hd/1790823294_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="14:30 01/10 Mohammad Soufi vs Jonas Magpantay" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-4fbdd3d7b9_b9c088ee_20261001.png?v=b9c088ee" group-title="🎱 Billiards (4 LIVE)",14:30 01/10 Mohammad Soufi vs Jonas Magpantay | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv24.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
