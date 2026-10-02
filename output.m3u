@@ -367,6 +367,11 @@ https://live.khoga.space/live/livehub1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/09078b665457470580c09316bf0b033e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 03/10 Golden State Valkyries vs Dallas Wings" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39442470_fbfdffda_20261003.png?v=fbfdffda" group-title="🏀 Bóng Rổ",08:00 03/10 Golden State Valkyries vs Dallas Wings | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1790960636_hd/1790960636_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="14:30 03/10 Brisbane Bullets vs Tasmania JackJumpers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10322276_70203b42_20261003.png?v=70203b42" group-title="🏀 Bóng Rổ",14:30 03/10 Brisbane Bullets vs Tasmania JackJumpers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
