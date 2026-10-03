@@ -452,6 +452,11 @@ https://live.khoga.space/live/livehub3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche1.live/
 https://live.khoga.space/live/livehub8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 Kosovo vs Áo" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/27340_e536f0d0_20261003.png?v=e536f0d0" group-title="⚽ Bóng Đá (4 LIVE)",23:00 Kosovo vs Áo | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche1.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche1.live/
+https://live.khoga.space/live/livehub9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="10:00 03/10 🔴 ATP Beijing Open vs ATP Beijing Open" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bc7jciqa68sn_5d881213_20261003.png?v=5d881213" group-title="🎾 Tennis (2 LIVE)",10:00 03/10 🔴 ATP Beijing Open vs ATP Beijing Open | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
