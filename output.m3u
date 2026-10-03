@@ -62,6 +62,11 @@ https://live.khoga.space/live/livehub1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="04:30 04/10 Atletico Mineiro vs Bragantino SP" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a60081e24d46db870322581_2f5fd4c2_20261004.png?v=2f5fd4c2" group-title="⚽ Bóng Đá (2 LIVE)",04:30 04/10 Atletico Mineiro vs Bragantino SP | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1791041818_hd/1791041818_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="04:30 04/10 Atletico-MG vs RB Bragantino" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1492310_f3c32c62_20261004.png?v=f3c32c62" group-title="⚽ Bóng Đá (2 LIVE)",04:30 04/10 Atletico-MG vs RB Bragantino | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
