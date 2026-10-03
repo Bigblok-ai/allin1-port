@@ -52,21 +52,16 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="17:00 03/10 🔴 Kashiwa Reysol vs Gamba Osaka" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abda2c024d46db870d76b4c_518414a8_20261003.png?v=518414a8" group-title="⚽ Bóng Đá (4 LIVE)",17:00 03/10 🔴 Kashiwa Reysol vs Gamba Osaka | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1790966693_hd/1790966693_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 03/10 🔴 Kashiwa Reysol vs Gamba Osaka" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abda2c024d46db870d76b4c_518414a8_20261003.png?v=518414a8" group-title="⚽ Bóng Đá (4 LIVE)",17:00 03/10 🔴 Kashiwa Reysol vs Gamba Osaka | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche1.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche1.live/
-https://live.khoga.space/live/livehub3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 03/10 🔴 Phần Lan vs Albania" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f2a1a2bb398665fd0908e1_e833bcda_20261003.png?v=e833bcda" group-title="⚽ Bóng Đá (4 LIVE)",20:00 03/10 🔴 Phần Lan vs Albania | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791025759_hd/1791025759_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 🔴 Kashiwa Reysol vs Gamba Osaka" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/25207_d4e9efdf_20261003.png?v=d4e9efdf" group-title="⚽ Bóng Đá (4 LIVE)",17:00 🔴 Kashiwa Reysol vs Gamba Osaka | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche1.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche1.live/
+https://live.khoga.space/live/livehub3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 🔴 Finland vs Albania" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/25536_3f2774e7_20261003.png?v=3f2774e7" group-title="⚽ Bóng Đá (4 LIVE)",20:00 🔴 Finland vs Albania | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche1.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -487,26 +482,26 @@ https://pzhgifbkllliv.vcdn.cloud/1791017529_hd/1791017529_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8667/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 03/10 🔴 Chinese Taipei Men vs Spain Men" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-2ea54821f5_3eb6cbcd_20261003.png?v=3eb6cbcd" group-title="🎱 Billiards (5 LIVE)",17:30 03/10 🔴 Chinese Taipei Men vs Spain Men | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8658/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:30 03/10 🔴 WPA Poland Men vs WPA Finland Men" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-90d2c19949_c4c142f6_20261003.png?v=c4c142f6" group-title="🎱 Billiards (5 LIVE)",17:30 03/10 🔴 WPA Poland Men vs WPA Finland Men | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8659/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 03/10 🔴 WPA Syria Men vs WPA Philippines Men" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b7bedb7f75_1b5e8154_20261003.png?v=1b5e8154" group-title="🎱 Billiards (5 LIVE)",17:30 03/10 🔴 WPA Syria Men vs WPA Philippines Men | Choang
+#EXTINF:-1 tvg-id="" tvg-name="17:30 03/10 🔴 Chinese Taipei Men vs Spain Men" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-2ea54821f5_3eb6cbcd_20261003.png?v=3eb6cbcd" group-title="🎱 Billiards (5 LIVE)",17:30 03/10 🔴 Chinese Taipei Men vs Spain Men | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live8661/index.m3u8
+https://cdn.sports-cas889abxfileposo.site/live/live8658/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:30 03/10 🔴 WPA USA Men vs WPA Indonesia Men" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d200d22bbd_7c5fd8d2_20261003.png?v=7c5fd8d2" group-title="🎱 Billiards (5 LIVE)",17:30 03/10 🔴 WPA USA Men vs WPA Indonesia Men | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8660/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:30 03/10 🔴 WPA Syria Men vs WPA Philippines Men" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b7bedb7f75_1b5e8154_20261003.png?v=1b5e8154" group-title="🎱 Billiards (5 LIVE)",17:30 03/10 🔴 WPA Syria Men vs WPA Philippines Men | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8661/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 03/10 🔴 Nilufer Bld. vs Eczacibasi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/k9j81v0gyph6_290e854d_20261003.png?v=290e854d" group-title="🏐 Bóng Chuyền (2 LIVE)",20:00 03/10 🔴 Nilufer Bld. vs Eczacibasi | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
