@@ -57,21 +57,6 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=11494
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:00 🔴 Sao Paulo vs Santos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/25096_7267cfcf_20261003.png?v=7267cfcf" group-title="⚽ Bóng Đá (2 LIVE)",06:00 🔴 Sao Paulo vs Santos | CCport 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:00 🔴 Sao Paulo vs Santos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/25096_7267cfcf_20261003.png?v=7267cfcf" group-title="⚽ Bóng Đá (2 LIVE)",06:00 🔴 Sao Paulo vs Santos | CCport 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:00 🔴 Sao Paulo vs Santos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/25096_7267cfcf_20261003.png?v=7267cfcf" group-title="⚽ Bóng Đá (2 LIVE)",06:00 🔴 Sao Paulo vs Santos | CCport 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="07:00 03/10 🔴 Colombia vs Paraguay" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638597_ab84f50b_20261003.png?v=ab84f50b" group-title="⚽ Bóng Đá (2 LIVE)",07:00 03/10 🔴 Colombia vs Paraguay | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -492,27 +477,32 @@ https://ftlh5sc02iliv.vcdn.cloud/1790966969_hd/1790966969_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1790780813_hd/1790780813_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 03/10 🔴 Fabio RIZZI vs Joshua Filler" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-7eee25fb14_81a53fcb_20261003.png?v=81a53fcb" group-title="🎱 Billiards (3 LIVE)",08:00 03/10 🔴 Fabio RIZZI vs Joshua Filler | Choang
+#EXTINF:-1 tvg-id="" tvg-name="08:00 03/10 🔴 Daniel Macioł vs Jeffrey De Luna" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-c1e45d111a_7d8d0386_20261003.png?v=7d8d0386" group-title="🎱 Billiards (4 LIVE)",08:00 03/10 🔴 Daniel Macioł vs Jeffrey De Luna | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8641/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 03/10 🔴 Fabio RIZZI vs Joshua Filler" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-7eee25fb14_81a53fcb_20261003.png?v=81a53fcb" group-title="🎱 Billiards (4 LIVE)",08:00 03/10 🔴 Fabio RIZZI vs Joshua Filler | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 03/10 🔴 James Aranas vs Robbie Capito" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-35d182450b_c2a23bf9_20261003.png?v=c2a23bf9" group-title="🎱 Billiards (3 LIVE)",08:00 03/10 🔴 James Aranas vs Robbie Capito | Choang
+#EXTINF:-1 tvg-id="" tvg-name="08:00 03/10 🔴 James Aranas vs Robbie Capito" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-35d182450b_c2a23bf9_20261003.png?v=c2a23bf9" group-title="🎱 Billiards (4 LIVE)",08:00 03/10 🔴 James Aranas vs Robbie Capito | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8640/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 03/10 🔴 Alex Pagulayan vs Carlo Biado" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-f66fe28e3e_b0263ae7_20261003.png?v=b0263ae7" group-title="🎱 Billiards (3 LIVE)",08:00 03/10 🔴 Alex Pagulayan vs Carlo Biado | Choang
+#EXTINF:-1 tvg-id="" tvg-name="08:00 03/10 🔴 Alex Pagulayan vs Carlo Biado" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-f66fe28e3e_b0263ae7_20261003.png?v=b0263ae7" group-title="🎱 Billiards (4 LIVE)",08:00 03/10 🔴 Alex Pagulayan vs Carlo Biado | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8639/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 03/10 Seoa Seo vs Tzu-Chien Wei" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-17462d16f6_14c29a1e_20261003.png?v=14c29a1e" group-title="🎱 Billiards (3 LIVE)",13:00 03/10 Seoa Seo vs Tzu-Chien Wei | Choang
+#EXTINF:-1 tvg-id="" tvg-name="13:00 03/10 Seoa Seo vs Tzu-Chien Wei" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-17462d16f6_14c29a1e_20261003.png?v=14c29a1e" group-title="🎱 Billiards (4 LIVE)",13:00 03/10 Seoa Seo vs Tzu-Chien Wei | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8646/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 03/10 Chihiro Kawahara vs Chieh-Yu Chou" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-939903d31f_6a98974c_20261003.png?v=6a98974c" group-title="🎱 Billiards (3 LIVE)",13:00 03/10 Chihiro Kawahara vs Chieh-Yu Chou | Choang
+#EXTINF:-1 tvg-id="" tvg-name="13:00 03/10 Chihiro Kawahara vs Chieh-Yu Chou" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-939903d31f_6a98974c_20261003.png?v=6a98974c" group-title="🎱 Billiards (4 LIVE)",13:00 03/10 Chihiro Kawahara vs Chieh-Yu Chou | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
