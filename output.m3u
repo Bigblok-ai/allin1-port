@@ -401,7 +401,7 @@ https://pull.digitalcdn.net/live/019daa1149f4408690b049748e293331/index.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1791131863_hd/1791131863_hd@720p.m3u8
+https://pzhgifbkllliv.vcdn.cloud/1791132122_hd/1791132122_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="18:00 05/10 Vietnam U17 Women vs Palestine U17 Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4jwq2ghgon64m0v_07e9698b_20261004.png?v=07e9698b" group-title="⚽ Bóng Đá (5 LIVE)",18:00 05/10 Vietnam U17 Women vs Palestine U17 Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -472,7 +472,12 @@ https://ftlh5sc02iliv.vcdn.cloud/1791131525_hd/1791131525_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791131556_hd/1791131556_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:11 04/10 🔴 Edwin Gamas vs Makmak 7.10 Down" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-5edf26e4cd_011971b1_20261004.png?v=011971b1" group-title="🎱 Billiards (1 LIVE)",23:11 04/10 🔴 Edwin Gamas vs Makmak 7.10 Down | Choang
+#EXTINF:-1 tvg-id="" tvg-name="00:00 04/10 🔴 PLONG2X vs MEOT + 1 win" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-aec60392ba_a0e82a26_20261004.png?v=a0e82a26" group-title="🎱 Billiards (2 LIVE)",00:00 04/10 🔴 PLONG2X vs MEOT + 1 win | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8713/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:11 04/10 🔴 Edwin Gamas vs Makmak 7.10 Down" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-5edf26e4cd_011971b1_20261004.png?v=011971b1" group-title="🎱 Billiards (2 LIVE)",23:11 04/10 🔴 Edwin Gamas vs Makmak 7.10 Down | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
