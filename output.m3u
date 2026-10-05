@@ -362,6 +362,11 @@ https://live.khoga.space/live/livehub4/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/eb1651ffb10f4ce7b4f65ed9b94415c0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:30 06/10 Langfang Glory City vs Xi'an Ronghai" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9bwq0j63lrgb_2520ebd7_20261005.png?v=2520ebd7" group-title="⚽ Bóng Đá (4 LIVE)",18:30 06/10 Langfang Glory City vs Xi'an Ronghai | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1791132371_hd/1791132371_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Bosnia & Herzegovina vs Ba Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/31443_c66b8edf_20261005.png?v=c66b8edf" group-title="⚽ Bóng Đá (4 LIVE)",01:45 Bosnia & Herzegovina vs Ba Lan | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
