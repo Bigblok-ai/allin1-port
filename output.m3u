@@ -52,46 +52,6 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="20:00 05/10 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970824d46db87058bd90_8527ef26_20261005.png?v=8527ef26" group-title="⚽ Bóng Đá (6 LIVE)",20:00 05/10 🔴 Indonesia vs Thái Lan | GV 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1791131835_hd/1791131835_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 05/10 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970824d46db87058bd90_8527ef26_20261005.png?v=8527ef26" group-title="⚽ Bóng Đá (6 LIVE)",20:00 05/10 🔴 Indonesia vs Thái Lan | GV 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1791131840_hd/1791131840_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 05/10 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970824d46db87058bd90_8527ef26_20261005.png?v=8527ef26" group-title="⚽ Bóng Đá (6 LIVE)",20:00 05/10 🔴 Indonesia vs Thái Lan | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche2.live/
-https://live.khoga.space/live/livehub4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 05/10 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970824d46db87058bd90_8527ef26_20261005.png?v=8527ef26" group-title="⚽ Bóng Đá (6 LIVE)",20:00 05/10 🔴 Indonesia vs Thái Lan | CCport 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 05/10 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970824d46db87058bd90_8527ef26_20261005.png?v=8527ef26" group-title="⚽ Bóng Đá (6 LIVE)",20:00 05/10 🔴 Indonesia vs Thái Lan | CCport 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 05/10 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970824d46db87058bd90_8527ef26_20261005.png?v=8527ef26" group-title="⚽ Bóng Đá (6 LIVE)",20:00 05/10 🔴 Indonesia vs Thái Lan | CCport 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 05/10 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970824d46db87058bd90_8527ef26_20261005.png?v=8527ef26" group-title="⚽ Bóng Đá (6 LIVE)",20:00 05/10 🔴 Indonesia vs Thái Lan | Phalang 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/644407d51bd14058ace47d6fadbc9b2f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 05/10 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970824d46db87058bd90_8527ef26_20261005.png?v=8527ef26" group-title="⚽ Bóng Đá (6 LIVE)",20:00 05/10 🔴 Indonesia vs Thái Lan | Phalang 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/f192df60960b4e04bc76b483d4b5b6d8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21:30 05/10 🔴 U21 Montenegro vs U21 Armenia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/683b98524bc32556c602744b_1c158d17_20261005.png?v=1c158d17" group-title="⚽ Bóng Đá (6 LIVE)",21:30 05/10 🔴 U21 Montenegro vs U21 Armenia | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -102,6 +62,36 @@ https://ftlh5sc02iliv.vcdn.cloud/1791131991_hd/1791131991_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791130571_hd/1791130571_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/33193_287e0515_20261005.png?v=287e0515" group-title="⚽ Bóng Đá (6 LIVE)",20:00 🔴 Indonesia vs Thái Lan | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
+https://live.khoga.space/live/livehub4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/33193_287e0515_20261005.png?v=287e0515" group-title="⚽ Bóng Đá (6 LIVE)",20:00 🔴 Indonesia vs Thái Lan | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/33193_287e0515_20261005.png?v=287e0515" group-title="⚽ Bóng Đá (6 LIVE)",20:00 🔴 Indonesia vs Thái Lan | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/33193_287e0515_20261005.png?v=287e0515" group-title="⚽ Bóng Đá (6 LIVE)",20:00 🔴 Indonesia vs Thái Lan | CCport 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/33193_287e0515_20261005.png?v=287e0515" group-title="⚽ Bóng Đá (6 LIVE)",20:00 🔴 Indonesia vs Thái Lan | Phalang 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/644407d51bd14058ace47d6fadbc9b2f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 🔴 Indonesia vs Thái Lan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/33193_287e0515_20261005.png?v=287e0515" group-title="⚽ Bóng Đá (6 LIVE)",20:00 🔴 Indonesia vs Thái Lan | Phalang 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/f192df60960b4e04bc76b483d4b5b6d8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21:30 05/10 🔴 Montenegro U21 vs Armenia U21" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1350194_395d9f06_20261005.png?v=395d9f06" group-title="⚽ Bóng Đá (6 LIVE)",21:30 05/10 🔴 Montenegro U21 vs Armenia U21 | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -306,7 +296,7 @@ https://pull.digitalcdn.net/live/9c51707bf2ef4d0e8dbf5b693f5d0bd6/index.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1791215336_hd/1791215336_hd@720p.m3u8
+https://ftlh5sc02iliv.vcdn.cloud/1791215336_hd/1791215336_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15:30 06/10 Lâm Đồng FC vs Sông Lam Nghệ An" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93733afccd5ecc44060db4_b2454ef4_20261005.png?v=b2454ef4" group-title="⚽ Bóng Đá (6 LIVE)",15:30 06/10 Lâm Đồng FC vs Sông Lam Nghệ An | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -462,6 +452,16 @@ https://live.khoga.space/live/livehub3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 Russia vs Nigeria" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/31553_6614e4e3_20261005.png?v=6614e4e3" group-title="⚽ Bóng Đá (6 LIVE)",23:00 Russia vs Nigeria | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/d736411cec3a4127905f8e32fc351830/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 06/10 HUANG Youzheng vs LIN Yun-Ju" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/v1taifq9t1w3_4aec2238_20261005.png?v=4aec2238" group-title="🏸 Cầu Lông",10:00 06/10 HUANG Youzheng vs LIN Yun-Ju | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1791215888_hd/1791215888_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="06:00 06/10 Atlanta Hawks vs Memphis Grizzlies" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38912471_abd4863f_20261005.png?v=abd4863f" group-title="🏀 Bóng Rổ",06:00 06/10 Atlanta Hawks vs Memphis Grizzlies | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -481,12 +481,12 @@ https://ftlh5sc02iliv.vcdn.cloud/1791131378_hd/1791131378_hd@720p.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1791215602_hd/1791215602_hd@720p.m3u8
+https://ftlh5sc02iliv.vcdn.cloud/1791215830_hd/1791215830_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="09:00 06/10 Sacramento Kings vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26902276_aba5cbb6_20261005.png?v=aba5cbb6" group-title="🏀 Bóng Rổ",09:00 06/10 Sacramento Kings vs Los Angeles Lakers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1791215643_hd/1791215643_hd@720p.m3u8
+https://ftlh5sc02iliv.vcdn.cloud/1791215852_hd/1791215852_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 06/10 Suwon KT vs LG Sakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uemdq59k9xyx_5ef79a60_20261005.png?v=5ef79a60" group-title="🏀 Bóng Rổ",17:00 06/10 Suwon KT vs LG Sakers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
