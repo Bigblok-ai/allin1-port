@@ -52,16 +52,11 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="08:00 05/10 Guerrilla FC vs Raniza FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cbtzk8sfypjx_7b02ae86_20261005.png?v=7b02ae86" group-title="⚽ Bóng Đá",08:00 05/10 Guerrilla FC vs Raniza FC | GV 1
+#EXTINF:-1 tvg-id="" tvg-name="08:00 05/10 Guerrilla FC vs Raniza FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cbtzk8sfypjx_7b02ae86_20261005.png?v=7b02ae86" group-title="⚽ Bóng Đá",08:00 05/10 Guerrilla FC vs Raniza FC | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791155816_hd/1791155816_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 05/10 Guerrilla FC vs Raniza FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cbtzk8sfypjx_7b02ae86_20261005.png?v=7b02ae86" group-title="⚽ Bóng Đá",08:00 05/10 Guerrilla FC vs Raniza FC | GV 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1791050006_hd/1791050006_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:00 05/10 Ulaanbaatar vs Ulaangom City" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640422_b0f0829e_20261005.png?v=b0f0829e" group-title="⚽ Bóng Đá",12:00 05/10 Ulaanbaatar vs Ulaangom City | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -647,16 +642,11 @@ https://pzhgifbkllliv.vcdn.cloud/1791128060_hd/1791128060_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1791128130_hd/1791128130_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 05/10 🔴 Los Angeles Dodgers vs Atlanta Braves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9iouh4aorimh_b53f5977_20261005.png?v=b53f5977" group-title="⚾ Bóng Chày (1 LIVE)",07:00 05/10 🔴 Los Angeles Dodgers vs Atlanta Braves | GV 1
+#EXTINF:-1 tvg-id="" tvg-name="07:00 05/10 🔴 Los Angeles Dodgers vs Atlanta Braves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9iouh4aorimh_b53f5977_20261005.png?v=b53f5977" group-title="⚾ Bóng Chày (1 LIVE)",07:00 05/10 🔴 Los Angeles Dodgers vs Atlanta Braves | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791155299_hd/1791155299_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 05/10 🔴 Los Angeles Dodgers vs Atlanta Braves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9iouh4aorimh_b53f5977_20261005.png?v=b53f5977" group-title="⚾ Bóng Chày (1 LIVE)",07:00 05/10 🔴 Los Angeles Dodgers vs Atlanta Braves | GV 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1791051179_hd/1791051179_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="04:00 06/10 Cleverland Guardians vs Chicago White Sox" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/c67lqba49hlo_96e57238_20261005.png?v=96e57238" group-title="⚾ Bóng Chày (1 LIVE)",04:00 06/10 Cleverland Guardians vs Chicago White Sox | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
