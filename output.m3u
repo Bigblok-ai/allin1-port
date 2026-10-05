@@ -192,6 +192,11 @@ https://live.khoga.space/live/livehub4/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 FC Tokyo vs Shonan Bellmare" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/32162_1b4986b6_20261006.png?v=1b4986b6" group-title="⚽ Bóng Đá",17:00 FC Tokyo vs Shonan Bellmare | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://live.khoga.space/live/livehub5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21:00 Kazakhstan vs Faroe Islands" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/31532_94906eea_20261006.png?v=94906eea" group-title="⚽ Bóng Đá",21:00 Kazakhstan vs Faroe Islands | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
