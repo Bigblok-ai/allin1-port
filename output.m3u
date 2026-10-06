@@ -97,6 +97,21 @@ https://pull.digitalcdn.net/live/bf961f6b1d2a48bd81a9a540262ead25/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 🔴 India vs Uruguay" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/31533_91b47b63_20261006.png?v=91b47b63" group-title="⚽ Bóng Đá (6 LIVE)",21:00 🔴 India vs Uruguay | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 🔴 India vs Uruguay" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/31533_91b47b63_20261006.png?v=91b47b63" group-title="⚽ Bóng Đá (6 LIVE)",21:00 🔴 India vs Uruguay | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:00 🔴 India vs Uruguay" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/31533_91b47b63_20261006.png?v=91b47b63" group-title="⚽ Bóng Đá (6 LIVE)",21:00 🔴 India vs Uruguay | CCport 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:45 06/10 🔴 Azerbaijan U21 vs Gibraltar U21" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1350205_35579516_20261006.png?v=35579516" group-title="⚽ Bóng Đá (6 LIVE)",20:45 06/10 🔴 Azerbaijan U21 vs Gibraltar U21 | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -542,26 +557,31 @@ https://pzhgifbkllliv.vcdn.cloud/1791272212_hd/1791272212_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1791272241_hd/1791272241_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:31 06/10 🔴 MHAR SAGARINO vs JOMAR MALAIT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-42ee4b7bd3_ceec2b1f_20261006.png?v=ceec2b1f" group-title="🎱 Billiards (4 LIVE)",19:31 06/10 🔴 MHAR SAGARINO vs JOMAR MALAIT | Choang
+#EXTINF:-1 tvg-id="" tvg-name="19:31 06/10 🔴 MHAR SAGARINO vs JOMAR MALAIT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-42ee4b7bd3_ceec2b1f_20261006.png?v=ceec2b1f" group-title="🎱 Billiards (5 LIVE)",19:31 06/10 🔴 MHAR SAGARINO vs JOMAR MALAIT | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8772/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:19 06/10 🔴 JOHN VINCENT VICEDO vs JACK DE LUNA" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-295ec3907f_3dd2eb07_20261006.png?v=3dd2eb07" group-title="🎱 Billiards (4 LIVE)",20:19 06/10 🔴 JOHN VINCENT VICEDO vs JACK DE LUNA | Choang
+#EXTINF:-1 tvg-id="" tvg-name="20:19 06/10 🔴 JOHN VINCENT VICEDO vs JACK DE LUNA" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-295ec3907f_3dd2eb07_20261006.png?v=3dd2eb07" group-title="🎱 Billiards (5 LIVE)",20:19 06/10 🔴 JOHN VINCENT VICEDO vs JACK DE LUNA | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8780/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:51 06/10 🔴 Ado Laguna vs Edgie" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-ab19afb4c9_a0e82a26_20261006.png?v=a0e82a26" group-title="🎱 Billiards (4 LIVE)",20:51 06/10 🔴 Ado Laguna vs Edgie | Choang
+#EXTINF:-1 tvg-id="" tvg-name="20:51 06/10 🔴 Ado Laguna vs Edgie" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-ab19afb4c9_a0e82a26_20261006.png?v=a0e82a26" group-title="🎱 Billiards (5 LIVE)",20:51 06/10 🔴 Ado Laguna vs Edgie | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8778/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 06/10 🔴 JC Bakal vs Jan Jan CDO" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-0cf4dcce09_ceec2b1f_20261006.png?v=ceec2b1f" group-title="🎱 Billiards (4 LIVE)",21:00 06/10 🔴 JC Bakal vs Jan Jan CDO | Choang
+#EXTINF:-1 tvg-id="" tvg-name="21:00 06/10 🔴 JC Bakal vs Jan Jan CDO" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-0cf4dcce09_ceec2b1f_20261006.png?v=ceec2b1f" group-title="🎱 Billiards (5 LIVE)",21:00 06/10 🔴 JC Bakal vs Jan Jan CDO | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8779/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="22:06 06/10 🔴 AJ MANAS vs FELIX VOGEL" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-ca474f8896_305c26d7_20261006.png?v=305c26d7" group-title="🎱 Billiards (5 LIVE)",22:06 06/10 🔴 AJ MANAS vs FELIX VOGEL | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8784/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="22:00 06/10 🔴 Vakifbank vs Eczacibasi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o7qthijxghh7_200cf1af_20261006.png?v=200cf1af" group-title="🏐 Bóng Chuyền (2 LIVE)",22:00 06/10 🔴 Vakifbank vs Eczacibasi | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
