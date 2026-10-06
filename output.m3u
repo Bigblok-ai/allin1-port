@@ -112,11 +112,21 @@ https://live.khoga.space/live/livehub4/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/eb1651ffb10f4ce7b4f65ed9b94415c0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:30 06/10 🔴 Lam Dong vs Song Lam Nghe An" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghey475r6o_74bce04e_20261006.png?v=74bce04e" group-title="⚽ Bóng Đá (6 LIVE)",15:30 06/10 🔴 Lam Dong vs Song Lam Nghe An | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="18:35 06/10 🔴 Trung Quốc vs Tajikistan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa9dd26b5dda8c9400d6678_239ba3f3_20261006.png?v=239ba3f3" group-title="⚽ Bóng Đá (6 LIVE)",18:35 06/10 🔴 Trung Quốc vs Tajikistan | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1791132383_hd/1791132383_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 06/10 🔴 Trung Quốc vs Tajikistan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa9dd26b5dda8c9400d6678_239ba3f3_20261006.png?v=239ba3f3" group-title="⚽ Bóng Đá (6 LIVE)",18:35 06/10 🔴 Trung Quốc vs Tajikistan | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://live.khoga.space/live/livehub8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 06/10 🔴 Trung Quốc vs Tajikistan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa9dd26b5dda8c9400d6678_239ba3f3_20261006.png?v=239ba3f3" group-title="⚽ Bóng Đá (6 LIVE)",18:35 06/10 🔴 Trung Quốc vs Tajikistan | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/0843059c3a0842e28db6f8c5cddd2227/index.m3u8
+https://pull.digitalcdn.net/live/d52366f317734e1c86f5c4fb9b2a4121/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 06/10 🔴 Uniao Leiria U23 vs Santa Clara U23" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvjn3jmd7_c4216b22_20261006.png?v=c4216b22" group-title="⚽ Bóng Đá (6 LIVE)",17:00 06/10 🔴 Uniao Leiria U23 vs Santa Clara U23 | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -127,21 +137,6 @@ https://pull.digitalcdn.net/live/52143029eff9406585d80f3ddcde20b8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791132371_hd/1791132371_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 06/10 Trung Quốc vs Tajikistan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa9dd26b5dda8c9400d6678_239ba3f3_20261006.png?v=239ba3f3" group-title="⚽ Bóng Đá (6 LIVE)",18:35 06/10 Trung Quốc vs Tajikistan | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1791132383_hd/1791132383_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 06/10 Trung Quốc vs Tajikistan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa9dd26b5dda8c9400d6678_239ba3f3_20261006.png?v=239ba3f3" group-title="⚽ Bóng Đá (6 LIVE)",18:35 06/10 Trung Quốc vs Tajikistan | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 06/10 Portugal U19 vs Netherlands U19" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkhyv9oeqg8_1876cb73_20261006.png?v=1876cb73" group-title="⚽ Bóng Đá (6 LIVE)",19:00 06/10 Portugal U19 vs Netherlands U19 | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/e63dcd761546466ab3830e6a8f613ef9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 06/10 Algeria U20 vs Egypt U20" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1641761_55ba3020_20261006.png?v=55ba3020" group-title="⚽ Bóng Đá (6 LIVE)",20:00 06/10 Algeria U20 vs Egypt U20 | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
