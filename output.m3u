@@ -277,6 +277,11 @@ https://live.khoga.space/live/livehub5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/a43eba61462844509002a59adc9cb99f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 07/10 LIANG Jingkun vs KUO Guan Hong" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hmjx2p54hrq7_2a6fc7de_20261007.png?v=2a6fc7de" group-title="🏸 Cầu Lông",10:00 07/10 LIANG Jingkun vs KUO Guan Hong | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1791330838_hd/1791330838_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="06:00 07/10 🔴 Charlotte Hornets vs Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27802478_75551c69_20261007.png?v=75551c69" group-title="🏀 Bóng Rổ (3 LIVE)",06:00 07/10 🔴 Charlotte Hornets vs Brooklyn Nets | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
