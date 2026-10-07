@@ -52,22 +52,17 @@ https://vmttv.dpdns.org/tv360/?id=tv360-12
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png" group-title="📺 Kênh Truyền Hình (18 LIVE)",Sky Sport F1 | watchtivo-8k
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 tvg-id="" tvg-name="09:30 🔴 Mexico vs Chile" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/32146_7fcad874_20261007.png?v=7fcad874" group-title="⚽ Bóng Đá (1 LIVE)",09:30 🔴 Mexico vs Chile | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:30 🔴 Mexico vs Chile" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/32146_7fcad874_20261007.png?v=7fcad874" group-title="⚽ Bóng Đá (1 LIVE)",09:30 🔴 Mexico vs Chile | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="09:30 07/10 🔴 Mexico vs Chile" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1629006_2a04ad49_20261007.png?v=2a04ad49" group-title="⚽ Bóng Đá (1 LIVE)",09:30 07/10 🔴 Mexico vs Chile | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:30 🔴 Mexico vs Chile" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/32146_7fcad874_20261007.png?v=7fcad874" group-title="⚽ Bóng Đá (1 LIVE)",09:30 🔴 Mexico vs Chile | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="09:30 07/10 🔴 Mexico vs Chile" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1629006_2a04ad49_20261007.png?v=2a04ad49" group-title="⚽ Bóng Đá (1 LIVE)",09:30 07/10 🔴 Mexico vs Chile | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:30 🔴 Mexico vs Chile" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/32146_7fcad874_20261007.png?v=7fcad874" group-title="⚽ Bóng Đá (1 LIVE)",09:30 🔴 Mexico vs Chile | CCport 3
+#EXTINF:-1 tvg-id="" tvg-name="09:30 07/10 🔴 Mexico vs Chile" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1629006_2a04ad49_20261007.png?v=2a04ad49" group-title="⚽ Bóng Đá (1 LIVE)",09:30 07/10 🔴 Mexico vs Chile | CCport 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
@@ -257,6 +252,11 @@ https://pull.digitalcdn.net/live/d76e64e57ae84e8a916cc5932f133cee/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791348021_hd/1791348021_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="22:00 07/10 Jordan Nữ vs Armenia Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac2e88d24d46db87056e019_d8062165_20261007.png?v=d8062165" group-title="⚽ Bóng Đá (1 LIVE)",22:00 07/10 Jordan Nữ vs Armenia Nữ | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1791348045_hd/1791348045_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="00:00 08/10 Ceramica Cleopatra vs AL Masry" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1640290_b7e42901_20261007.png?v=b7e42901" group-title="⚽ Bóng Đá (1 LIVE)",00:00 08/10 Ceramica Cleopatra vs AL Masry | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -492,6 +492,16 @@ https://ftlh5sc02iliv.vcdn.cloud/1791330950_hd/1791330950_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791331064_hd/1791331064_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 07/10 Alina Charaeva vs Qinwen Zheng" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/f7uyz3zdm3vm_c36bdda4_20261007.png?v=c36bdda4" group-title="🎾 Tennis (1 LIVE)",20:00 07/10 Alina Charaeva vs Qinwen Zheng | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1791348154_hd/1791348154_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:30 07/10 Ann Li vs Elina Svitolina" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0equ7mov02us_93f37df7_20261007.png?v=93f37df7" group-title="🎾 Tennis (1 LIVE)",21:30 07/10 Ann Li vs Elina Svitolina | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1791348222_hd/1791348222_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15:30 07/10 Adelaide 36ers vs Melbourne United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24322270_93cb7127_20261007.png?v=93cb7127" group-title="🏀 Bóng Rổ",15:30 07/10 Adelaide 36ers vs Melbourne United | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
