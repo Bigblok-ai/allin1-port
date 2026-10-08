@@ -439,6 +439,11 @@ https://live.khoga.space/live/livehub9/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub9.flv
+#EXTINF:-1 tvg-id="" tvg-name="21:55 Al Fateh vs Al Ahli SC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/34493_62c5d830_20261008.png?v=62c5d830" group-title="⚽ Bóng Đá (6 LIVE)",21:55 Al Fateh vs Al Ahli SC | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/97067ce9d06c44aebade16273dda11d6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="22:00 SJK vs Lahti" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/34502_41f40e05_20261008.png?v=41f40e05" group-title="⚽ Bóng Đá (6 LIVE)",22:00 SJK vs Lahti | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -534,21 +539,26 @@ https://ftlh5sc02iliv.vcdn.cloud/1791340957_hd/1791340957_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791340977_hd/1791340977_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:05 08/10 🔴 team bab koi vs team furry stable" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-266fda8677_ceec2b1f_20261008.png?v=ceec2b1f" group-title="🎱 Billiards (3 LIVE)",20:05 08/10 🔴 team bab koi vs team furry stable | Choang
+#EXTINF:-1 tvg-id="" tvg-name="20:05 08/10 🔴 team bab koi vs team furry stable" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-266fda8677_ceec2b1f_20261008.png?v=ceec2b1f" group-title="🎱 Billiards (4 LIVE)",20:05 08/10 🔴 team bab koi vs team furry stable | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8893/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:21 08/10 🔴 jan jan cdo vs JK bakal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1ac0e96cca_ceec2b1f_20261008.png?v=ceec2b1f" group-title="🎱 Billiards (3 LIVE)",20:21 08/10 🔴 jan jan cdo vs JK bakal | Choang
+#EXTINF:-1 tvg-id="" tvg-name="20:21 08/10 🔴 jan jan cdo vs JK bakal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1ac0e96cca_ceec2b1f_20261008.png?v=ceec2b1f" group-title="🎱 Billiards (4 LIVE)",20:21 08/10 🔴 jan jan cdo vs JK bakal | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8894/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:45 08/10 🔴 hà kon vs tùng híp" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-c1c73fddee_d4e8244d_20261008.png?v=d4e8244d" group-title="🎱 Billiards (3 LIVE)",20:45 08/10 🔴 hà kon vs tùng híp | Choang
+#EXTINF:-1 tvg-id="" tvg-name="20:45 08/10 🔴 hà kon vs tùng híp" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-c1c73fddee_d4e8244d_20261008.png?v=d4e8244d" group-title="🎱 Billiards (4 LIVE)",20:45 08/10 🔴 hà kon vs tùng híp | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8897/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:48 08/10 🔴 jeffrey ignacio vs irsal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-e604e512d4_710fa51c_20261008.png?v=710fa51c" group-title="🎱 Billiards (4 LIVE)",21:48 08/10 🔴 jeffrey ignacio vs irsal | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8901/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="16:00 10/10 Hisamitsu Springs Nữ vs Body Queenseis Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/944d0095a406427c83478f40d2acd3a5_a59c60d2_20261008.png?v=a59c60d2" group-title="🏐 Bóng Chuyền",16:00 10/10 Hisamitsu Springs Nữ vs Body Queenseis Nữ | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
