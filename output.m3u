@@ -274,6 +274,11 @@ https://live.khoga.space/live/livehub9.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/97067ce9d06c44aebade16273dda11d6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="22:00 09/10 SJK Seinajoki vs Lahti" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abda2c124d46db870d76c88_8015a5c9_20261009.png?v=8015a5c9" group-title="⚽ Bóng Đá (3 LIVE)",22:00 09/10 SJK Seinajoki vs Lahti | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1791479120_hd/1791479120_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:00 Al Nassr vs Al Diriyah" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/34939_00b64147_20261009.png?v=00b64147" group-title="⚽ Bóng Đá (3 LIVE)",01:00 Al Nassr vs Al Diriyah | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
