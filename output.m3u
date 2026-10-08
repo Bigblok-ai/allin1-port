@@ -299,6 +299,16 @@ https://live.khoga.space/live/livehub9/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub9.flv
+#EXTINF:-1 tvg-id="" tvg-name="02:00 Malaga vs Espanyol" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/35003_169ff139_20261008.png?v=169ff139" group-title="⚽ Bóng Đá (7 LIVE)",02:00 Malaga vs Espanyol | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://live.khoga.space/live/livehub10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02:00 Malaga vs Espanyol" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/35003_169ff139_20261008.png?v=169ff139" group-title="⚽ Bóng Đá (7 LIVE)",02:00 Malaga vs Espanyol | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://live.khoga.space/live/livehub10.flv
 #EXTINF:-1 tvg-id="" tvg-name="06:05 Atl. Nacional vs Deportes Tolima" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/33102_c85d3d7b_20261008.png?v=c85d3d7b" group-title="⚽ Bóng Đá (7 LIVE)",06:05 Atl. Nacional vs Deportes Tolima | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -449,6 +459,11 @@ https://live.khoga.space/live/livehub8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub8.flv
+#EXTINF:-1 tvg-id="" tvg-name="23:30 Braunschweig vs Holstein Kiel" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/34550_dabc5eb9_20261008.png?v=dabc5eb9" group-title="⚽ Bóng Đá (7 LIVE)",23:30 Braunschweig vs Holstein Kiel | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/36319b38ac8b41eab0adf6d12d77dd27/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:30 Heidenheim vs Kaiserslautern" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/34551_d0a8cd7a_20261008.png?v=d0a8cd7a" group-title="⚽ Bóng Đá (7 LIVE)",23:30 Heidenheim vs Kaiserslautern | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
