@@ -64,11 +64,6 @@ https://live.khoga.space/live/livehub11/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub11.flv
-#EXTINF:-1 tvg-id="" tvg-name="10:30 09/10 Finland W vs Serbia W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1h5sz0rbvr8u_b076fb2b_20261009.png?v=b076fb2b" group-title="⚽ Bóng Đá (1 LIVE)",10:30 09/10 Finland W vs Serbia W | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1791479148_hd/1791479148_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:00 09/10 Daejeon Citizen vs Jeonbuk Hyundai Motors" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abda2c024d46db870d76aec_c8d4b531_20261009.png?v=c8d4b531" group-title="⚽ Bóng Đá (1 LIVE)",12:00 09/10 Daejeon Citizen vs Jeonbuk Hyundai Motors | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -779,11 +774,21 @@ https://ftlh5sc02iliv.vcdn.cloud/1791340957_hd/1791340957_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791340977_hd/1791340977_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 09/10 🔴 Duy Đinh vs Hà Thành" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-c12846d4a9_15d8af45_20261009.png?v=15d8af45" group-title="🎱 Billiards (1 LIVE)",10:00 09/10 🔴 Duy Đinh vs Hà Thành | Choang
+#EXTINF:-1 tvg-id="" tvg-name="10:00 09/10 🔴 Duy Đinh vs Hà Thành" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-c12846d4a9_15d8af45_20261009.png?v=15d8af45" group-title="🎱 Billiards (3 LIVE)",10:00 09/10 🔴 Duy Đinh vs Hà Thành | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live8928/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 09/10 🔴 Hoàng PT vs Trang Xù" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-c8c01b5e82_e80c0e85_20261009.png?v=e80c0e85" group-title="🎱 Billiards (3 LIVE)",10:00 09/10 🔴 Hoàng PT vs Trang Xù | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8930/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10:00 09/10 🔴 AJ MANAS vs JAMES ARANAS" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-435e16e58e_929ff9b8_20261009.png?v=929ff9b8" group-title="🎱 Billiards (3 LIVE)",10:00 09/10 🔴 AJ MANAS vs JAMES ARANAS | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live8931/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="16:00 10/10 Hisamitsu Springs Nữ vs Body Queenseis Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/944d0095a406427c83478f40d2acd3a5_a59c60d2_20261009.png?v=a59c60d2" group-title="🏐 Bóng Chuyền",16:00 10/10 Hisamitsu Springs Nữ vs Body Queenseis Nữ | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
