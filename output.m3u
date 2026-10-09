@@ -514,6 +514,11 @@ https://pull.digitalcdn.net/live/bdf8aa61bac24422b1ef9319e7e314ba/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/ff831873c9e14649b729ce51bbab442c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 11/10 Al Hilal vs Al Ittihad Jeddah" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88a9724d46db870489005_cc3c5db9_20261010.png?v=cc3c5db9" group-title="⚽ Bóng Đá",01:00 11/10 Al Hilal vs Al Ittihad Jeddah | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1791340698_hd/1791340698_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="08:00 Puebla vs Club Leon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/35037_7392c267_20261010.png?v=7392c267" group-title="⚽ Bóng Đá",08:00 Puebla vs Club Leon | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
