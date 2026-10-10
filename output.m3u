@@ -229,6 +229,16 @@ https://live.khoga.space/live/livehub3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://xoiche.live/live/backup/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 11/10 Lazio vs Monza" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045c824d46db8705b6553_1a8bc5f7_20261011.png?v=1a8bc5f7" group-title="⚽ Bóng Đá (3 LIVE)",20:00 11/10 Lazio vs Monza | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1791655309_hd/1791655309_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="20:00 11/10 Lazio vs Monza" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045c824d46db8705b6553_1a8bc5f7_20261011.png?v=1a8bc5f7" group-title="⚽ Bóng Đá (3 LIVE)",20:00 11/10 Lazio vs Monza | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/2941bc18a73c470f8c2455bc57b92c61/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 11/10 Hull City vs Everton" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06e7_88590e7f_20261011.png?v=88590e7f" group-title="⚽ Bóng Đá (3 LIVE)",20:00 11/10 Hull City vs Everton | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -269,16 +279,6 @@ https://xoiche.live/live/backup/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/8b462c6fc93d4f009afcb417f6e1a3ca/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 11/10 Lazio vs Monza" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045c824d46db8705b6553_1a8bc5f7_20261011.png?v=1a8bc5f7" group-title="⚽ Bóng Đá (3 LIVE)",20:00 11/10 Lazio vs Monza | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1791655309_hd/1791655309_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 11/10 Lazio vs Monza" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045c824d46db8705b6553_1a8bc5f7_20261011.png?v=1a8bc5f7" group-title="⚽ Bóng Đá (3 LIVE)",20:00 11/10 Lazio vs Monza | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/2941bc18a73c470f8c2455bc57b92c61/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21:15 11/10 Real Sociedad vs Deportivo La Coruna" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f074c_e6aa4f79_20261011.png?v=e6aa4f79" group-title="⚽ Bóng Đá (3 LIVE)",21:15 11/10 Real Sociedad vs Deportivo La Coruna | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
