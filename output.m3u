@@ -764,6 +764,11 @@ https://live.khoga.space/live/livehub8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://xoiche.live/live/backup/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 Song Lam Nghe An vs Ho Chi Minh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/36766_f0835efb_20261010.png?v=f0835efb" group-title="⚽ Bóng Đá (5 LIVE)",18:00 Song Lam Nghe An vs Ho Chi Minh | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/76a6fb1a1faa46148be8938e4ce63204/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="19:00 Rayo Vallecano vs Ath Bilbao" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/35395_3e6261e1_20261010.png?v=3e6261e1" group-title="⚽ Bóng Đá (5 LIVE)",19:00 Rayo Vallecano vs Ath Bilbao | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
