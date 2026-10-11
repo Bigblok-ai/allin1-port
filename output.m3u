@@ -709,6 +709,11 @@ https://live.khoga.space/live/livehub2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://xoiche2.live/live/backup/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="04:00 12/10 Brendan Allen vs Christian Leroy Duncan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/laii04ykl3h1_861f079b_20261011.png?v=861f079b" group-title="🥊 Võ Thuật",04:00 12/10 Brendan Allen vs Christian Leroy Duncan | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1791103892_hd/1791103892_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:00 12/10 2026 PFL Africa: Morocco vs 2026 PFL Africa: Morocco" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n6qtkv5zrkcg_75786c57_20261011.png?v=75786c57" group-title="🥊 Võ Thuật",12:00 12/10 2026 PFL Africa: Morocco vs 2026 PFL Africa: Morocco | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
