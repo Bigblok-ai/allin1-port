@@ -27,8 +27,8 @@ https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VTV10" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV10 | fptplay
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HTV Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",HTV Thể Thao | fptplay53
-https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HTV Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",HTV Thể Thao | fptplay
+https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VTVPrime 6" tvg-logo="https://vtvprime.vn/sideLogoBig.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTVPrime 6 | vtvprime
 #EXTHTTP:{"User-Agent":"Dalvik/2.1.0"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
