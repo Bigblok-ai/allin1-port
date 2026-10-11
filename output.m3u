@@ -69,11 +69,21 @@ https://live.khoga.space/live/livehub5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://xoiche2.live/live/backup/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 11/10 🔴 US Sassuolo Calcio vs AC Milan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045cf24d46db8705b6f2f_7fec9a94_20261012.png?v=7fec9a94" group-title="⚽ Bóng Đá (4 LIVE)",23:00 11/10 🔴 US Sassuolo Calcio vs AC Milan | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="23:00 11/10 🔴 US Sassuolo Calcio vs AC Milan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045cf24d46db8705b6f2f_7fec9a94_20261012.png?v=7fec9a94" group-title="⚽ Bóng Đá (4 LIVE)",23:00 11/10 🔴 US Sassuolo Calcio vs AC Milan | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/357ab40fa3d7424491e654630baa8372/index.m3u8
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 11/10 🔴 US Sassuolo Calcio vs AC Milan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045cf24d46db8705b6f2f_7fec9a94_20261012.png?v=7fec9a94" group-title="⚽ Bóng Đá (4 LIVE)",23:00 11/10 🔴 US Sassuolo Calcio vs AC Milan | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 11/10 🔴 US Sassuolo Calcio vs AC Milan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045cf24d46db8705b6f2f_7fec9a94_20261012.png?v=7fec9a94" group-title="⚽ Bóng Đá (4 LIVE)",23:00 11/10 🔴 US Sassuolo Calcio vs AC Milan | CCport 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:30 11/10 🔴 Real Betis vs Osasuna" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f074d_9a6435c4_20261012.png?v=9a6435c4" group-title="⚽ Bóng Đá (4 LIVE)",23:30 11/10 🔴 Real Betis vs Osasuna | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
