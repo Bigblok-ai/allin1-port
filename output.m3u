@@ -504,12 +504,17 @@ https://xoiche.live/live/backup/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub12.flv
-#EXTINF:-1 tvg-id="" tvg-name="06:00 12/10 🔴 Charlotte Hornets vs Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25912478_3dbe98d7_20261012.png?v=3dbe98d7" group-title="🏀 Bóng Rổ (2 LIVE)",06:00 12/10 🔴 Charlotte Hornets vs Milwaukee Bucks | GV
+#EXTINF:-1 tvg-id="" tvg-name="05:30 12/10 🔴 Cleveland Cavaliers vs Orlando Magic" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24912477_65210b24_20261012.png?v=65210b24" group-title="🏀 Bóng Rổ (3 LIVE)",05:30 12/10 🔴 Cleveland Cavaliers vs Orlando Magic | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1791734162_hd/1791734162_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="06:00 12/10 🔴 Charlotte Hornets vs Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25912478_3dbe98d7_20261012.png?v=3dbe98d7" group-title="🏀 Bóng Rổ (3 LIVE)",06:00 12/10 🔴 Charlotte Hornets vs Milwaukee Bucks | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791734267_hd/1791734267_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 12/10 🔴 Denver Nuggets vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27612275_7235cfd1_20261012.png?v=7235cfd1" group-title="🏀 Bóng Rổ (2 LIVE)",08:00 12/10 🔴 Denver Nuggets vs Chicago Bulls | GV
+#EXTINF:-1 tvg-id="" tvg-name="08:00 12/10 🔴 Denver Nuggets vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27612275_7235cfd1_20261012.png?v=7235cfd1" group-title="🏀 Bóng Rổ (3 LIVE)",08:00 12/10 🔴 Denver Nuggets vs Chicago Bulls | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
