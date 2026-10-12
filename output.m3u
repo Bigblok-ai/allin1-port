@@ -504,6 +504,11 @@ https://live.khoga.space/live/livehub8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://xoiche.live/live/backup/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:45 Newcastle Jets vs Gamba Osaka" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39138_1699f897_20261012.png?v=1699f897" group-title="⚽ Bóng Đá (1 LIVE)",14:45 Newcastle Jets vs Gamba Osaka | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/933d4088892147ff9894734b9111f2d2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 Pohang vs Johor DT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39143_25aa97b8_20261012.png?v=25aa97b8" group-title="⚽ Bóng Đá (1 LIVE)",17:00 Pohang vs Johor DT | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -789,36 +794,46 @@ https://ftlh5sc02iliv.vcdn.cloud/1791780067_hd/1791780067_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791780195_hd/1791780195_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Alex Montpellier vs Hà BG" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-613c85df7e_f4496189_20261012.png?v=f4496189" group-title="🎱 Billiards (6 LIVE)",14:00 12/10 🔴 Alex Montpellier vs Hà BG | Choang
+#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Alex Montpellier vs Hà BG" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-613c85df7e_f4496189_20261012.png?v=f4496189" group-title="🎱 Billiards (5 LIVE)",14:00 12/10 🔴 Alex Montpellier vs Hà BG | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9105/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Thành Nam vs Hoàng Minh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-74d3d0ffad_372eb859_20261012.png?v=372eb859" group-title="🎱 Billiards (6 LIVE)",14:00 12/10 🔴 Thành Nam vs Hoàng Minh | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live9092/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Quách Vĩ Nam vs Quốc Khánh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-14b1b95a68_92ecf6b8_20261012.png?v=92ecf6b8" group-title="🎱 Billiards (6 LIVE)",14:00 12/10 🔴 Quách Vĩ Nam vs Quốc Khánh | Choang
+#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Quách Vĩ Nam vs Quốc Khánh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-14b1b95a68_92ecf6b8_20261012.png?v=92ecf6b8" group-title="🎱 Billiards (5 LIVE)",14:00 12/10 🔴 Quách Vĩ Nam vs Quốc Khánh | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9093/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Thành Trung Sport vs Hiệp Bờm TH" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-944c926ee5_4a7618f3_20261012.png?v=4a7618f3" group-title="🎱 Billiards (6 LIVE)",14:00 12/10 🔴 Thành Trung Sport vs Hiệp Bờm TH | Choang
+#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Thành Nam vs Hoàng Minh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-74d3d0ffad_372eb859_20261012.png?v=372eb859" group-title="🎱 Billiards (5 LIVE)",14:00 12/10 🔴 Thành Nam vs Hoàng Minh | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live9092/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Thành Trung Sport vs Hiệp Bờm TH" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-944c926ee5_4a7618f3_20261012.png?v=4a7618f3" group-title="🎱 Billiards (5 LIVE)",14:00 12/10 🔴 Thành Trung Sport vs Hiệp Bờm TH | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9097/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Việt Anh vs Cường Tốc Độ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a4759c9c7c_629e3ddc_20261012.png?v=629e3ddc" group-title="🎱 Billiards (6 LIVE)",14:00 12/10 🔴 Việt Anh vs Cường Tốc Độ | Choang
+#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Việt Anh vs Cường Tốc Độ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a4759c9c7c_629e3ddc_20261012.png?v=629e3ddc" group-title="🎱 Billiards (5 LIVE)",14:00 12/10 🔴 Việt Anh vs Cường Tốc Độ | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 12/10 🔴 Mạnh Treo vs Phong Nam" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-0b6dcdc841_a5aab0d3_20261012.png?v=a5aab0d3" group-title="🎱 Billiards (6 LIVE)",14:00 12/10 🔴 Mạnh Treo vs Phong Nam | Choang
+#EXTINF:-1 tvg-id="" tvg-name="16:00 12/10 Janbert Manas vs Thắng Láng" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d6b846f420_8e2d140e_20261012.png?v=8e2d140e" group-title="🎱 Billiards (5 LIVE)",16:00 12/10 Janbert Manas vs Thắng Láng | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live9103/index.m3u8
+https://cdn.sports-cas889abxfileposo.site/live/live9108/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 12/10 Kiên Con vs Millares" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-f1b18e70d3_32f146b5_20261012.png?v=32f146b5" group-title="🎱 Billiards (5 LIVE)",16:00 12/10 Kiên Con vs Millares | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live9106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 12/10 Tkon vs Nguyên HT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-3ae8fb8ec8_7a61a52b_20261012.png?v=7a61a52b" group-title="🎱 Billiards (5 LIVE)",16:00 12/10 Tkon vs Nguyên HT | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live9107/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 12/10 GS Caltex Nữ vs Expressway Co Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9xm93gia4hjn_9cd9d8d9_20261012.png?v=9cd9d8d9" group-title="🏐 Bóng Chuyền",17:00 12/10 GS Caltex Nữ vs Expressway Co Nữ | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
