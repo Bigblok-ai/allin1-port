@@ -54,41 +54,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd82_266b9fe2_20261013.png?v=266b9fe2" group-title="⚽ Bóng Đá (7 LIVE)",01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1791655608_hd/1791655608_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd82_266b9fe2_20261013.png?v=266b9fe2" group-title="⚽ Bóng Đá (7 LIVE)",01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche2.live/
-https://live.khoga.space/live/livehub10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd82_266b9fe2_20261013.png?v=266b9fe2" group-title="⚽ Bóng Đá (7 LIVE)",01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche2.live/
-https://xoiche2.live/live/backup/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd82_266b9fe2_20261013.png?v=266b9fe2" group-title="⚽ Bóng Đá (7 LIVE)",01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona | PhaoHoa 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche2.live/
-https://live.khoga.space/live/livehub10.flv
-#EXTINF:-1 tvg-id="" tvg-name="01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd82_266b9fe2_20261013.png?v=266b9fe2" group-title="⚽ Bóng Đá (7 LIVE)",01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona | CCport 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd82_266b9fe2_20261013.png?v=266b9fe2" group-title="⚽ Bóng Đá (7 LIVE)",01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona | CCport 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd82_266b9fe2_20261013.png?v=266b9fe2" group-title="⚽ Bóng Đá (7 LIVE)",01:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona | CCport 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:00 13/10 🔴 Levante vs Sevilla" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f074f_0772ebdd_20261013.png?v=0772ebdd" group-title="⚽ Bóng Đá (7 LIVE)",02:00 13/10 🔴 Levante vs Sevilla | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -174,6 +139,11 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/abc70c5d5fae4844ad953bd01cf311e1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd82_266b9fe2_20261013.png?v=266b9fe2" group-title="⚽ Bóng Đá (7 LIVE)",02:15 13/10 🔴 Al-Nassr FC vs Neftchi Fargona | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1791655608_hd/1791655608_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:15 🔴 Al-Gharafa vs Esteghlal F.C." tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39091_2e48379f_20261013.png?v=2e48379f" group-title="⚽ Bóng Đá (7 LIVE)",01:15 🔴 Al-Gharafa vs Esteghlal F.C. | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -184,11 +154,36 @@ https://live.khoga.space/live/livehub5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://xoiche2.live/live/backup/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:15 🔴 Al Quwa Al Jawiya vs Al Ain" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39093_3445e27a_20261013.png?v=3445e27a" group-title="⚽ Bóng Đá (7 LIVE)",01:15 🔴 Al Quwa Al Jawiya vs Al Ain | PhaoHoa
+#EXTINF:-1 tvg-id="" tvg-name="01:15 🔴 Al Nassr vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39092_3886cf7e_20261013.png?v=3886cf7e" group-title="⚽ Bóng Đá (7 LIVE)",01:15 🔴 Al Nassr vs Neftchi Fargona | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
-https://live.khoga.space/live/livehub3/index.m3u8
+https://live.khoga.space/live/livehub10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:15 🔴 Al Nassr vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39092_3886cf7e_20261013.png?v=3886cf7e" group-title="⚽ Bóng Đá (7 LIVE)",01:15 🔴 Al Nassr vs Neftchi Fargona | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
+https://xoiche2.live/live/backup/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:15 🔴 Al Nassr vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39092_3886cf7e_20261013.png?v=3886cf7e" group-title="⚽ Bóng Đá (7 LIVE)",01:15 🔴 Al Nassr vs Neftchi Fargona | PhaoHoa 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
+https://live.khoga.space/live/livehub10.flv
+#EXTINF:-1 tvg-id="" tvg-name="01:15 🔴 Al Nassr vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39092_3886cf7e_20261013.png?v=3886cf7e" group-title="⚽ Bóng Đá (7 LIVE)",01:15 🔴 Al Nassr vs Neftchi Fargona | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:15 🔴 Al Nassr vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39092_3886cf7e_20261013.png?v=3886cf7e" group-title="⚽ Bóng Đá (7 LIVE)",01:15 🔴 Al Nassr vs Neftchi Fargona | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:15 🔴 Al Nassr vs Neftchi Fargona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39092_3886cf7e_20261013.png?v=3886cf7e" group-title="⚽ Bóng Đá (7 LIVE)",01:15 🔴 Al Nassr vs Neftchi Fargona | CCport 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 🔴 Torino vs Udinese" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39102_1454a0e3_20261013.png?v=1454a0e3" group-title="⚽ Bóng Đá (7 LIVE)",01:45 🔴 Torino vs Udinese | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -214,7 +209,7 @@ https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/84dbc06a56364aba95a0578ad750b8b8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:15 13/10 🔴 Al Nassr vs Neftchi Fergana" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwjdejryo_f7d21352_20261013.png?v=f7d21352" group-title="⚽ Bóng Đá (7 LIVE)",01:15 13/10 🔴 Al Nassr vs Neftchi Fergana | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="02:15 13/10 🔴 Al Nassr vs Neftchi Fergana" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/ednm9whwjdejryo_f7d21352_20261013.png?v=f7d21352" group-title="⚽ Bóng Đá (7 LIVE)",02:15 13/10 🔴 Al Nassr vs Neftchi Fergana | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
@@ -674,67 +669,62 @@ https://pzhgifbkllliv.vcdn.cloud/1791800754_hd/1791800754_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9138/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 12/10 🔴 Ziraat Bankasi vs Galatasaray" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/664e63a734374eefb04eb88f0a07e667_480299a8_20261013.png?v=480299a8" group-title="🏐 Bóng Chuyền (1 LIVE)",23:30 12/10 🔴 Ziraat Bankasi vs Galatasaray | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/97e5f9567d7941d5b3c6c987d74731fe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:30 13/10 Daejeon JKJ Nữ vs Pepper Savings Bank Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xf5zp6ap23ym_4239d38c_20261013.png?v=4239d38c" group-title="🏐 Bóng Chuyền (1 LIVE)",13:30 13/10 Daejeon JKJ Nữ vs Pepper Savings Bank Nữ | GV
+#EXTINF:-1 tvg-id="" tvg-name="13:30 13/10 Daejeon JKJ Nữ vs Pepper Savings Bank Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xf5zp6ap23ym_4239d38c_20261013.png?v=4239d38c" group-title="🏐 Bóng Chuyền",13:30 13/10 Daejeon JKJ Nữ vs Pepper Savings Bank Nữ | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791791946_hd/1791791946_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 13/10 Hungkuk Nữ vs IBK nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/u1778fz3g6tv_9372c01a_20261013.png?v=9372c01a" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 13/10 Hungkuk Nữ vs IBK nữ | GV
+#EXTINF:-1 tvg-id="" tvg-name="17:00 13/10 Hungkuk Nữ vs IBK nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/u1778fz3g6tv_9372c01a_20261013.png?v=9372c01a" group-title="🏐 Bóng Chuyền",17:00 13/10 Hungkuk Nữ vs IBK nữ | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791780555_hd/1791780555_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 14/10 Hà Nội Tasco Auto vs BC Thông Tin BĐ19" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5d3eb7a273bc4a59964540d940a144b3_599a7129_20261013.png?v=599a7129" group-title="🏐 Bóng Chuyền (1 LIVE)",12:00 14/10 Hà Nội Tasco Auto vs BC Thông Tin BĐ19 | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 14/10 Hà Nội Tasco Auto vs BC Thông Tin BĐ19" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5d3eb7a273bc4a59964540d940a144b3_599a7129_20261013.png?v=599a7129" group-title="🏐 Bóng Chuyền",12:00 14/10 Hà Nội Tasco Auto vs BC Thông Tin BĐ19 | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/8d1b2c25546f47c5aa1f8f6ee750b217/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:30 14/10 Geleximco Hưng Yên vs HCĐG Lào Cai" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4e8be905a71a4ae5a97cedc6e1f04bf9_2b14a5c1_20261013.png?v=2b14a5c1" group-title="🏐 Bóng Chuyền (1 LIVE)",14:30 14/10 Geleximco Hưng Yên vs HCĐG Lào Cai | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="14:30 14/10 Geleximco Hưng Yên vs HCĐG Lào Cai" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4e8be905a71a4ae5a97cedc6e1f04bf9_2b14a5c1_20261013.png?v=2b14a5c1" group-title="🏐 Bóng Chuyền",14:30 14/10 Geleximco Hưng Yên vs HCĐG Lào Cai | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/877d8ca1d8044b19afc1187be9979b57/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 14/10 VTV BĐ Long An vs Vietinbank" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45577673ff51403e8f697eb82a999fc6_f7f451ec_20261013.png?v=f7f451ec" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 14/10 VTV BĐ Long An vs Vietinbank | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="17:00 14/10 VTV BĐ Long An vs Vietinbank" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/45577673ff51403e8f697eb82a999fc6_f7f451ec_20261013.png?v=f7f451ec" group-title="🏐 Bóng Chuyền",17:00 14/10 VTV BĐ Long An vs Vietinbank | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/a9e5805ae00243fc8a6efd9934e412f6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 14/10 XMLS Thanh Hoá vs LB Bank Ninh Bình" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/683d97d25d634280b245f6600d1214b9_26fae5b2_20261013.png?v=26fae5b2" group-title="🏐 Bóng Chuyền (1 LIVE)",20:00 14/10 XMLS Thanh Hoá vs LB Bank Ninh Bình | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="20:00 14/10 XMLS Thanh Hoá vs LB Bank Ninh Bình" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/683d97d25d634280b245f6600d1214b9_26fae5b2_20261013.png?v=26fae5b2" group-title="🏐 Bóng Chuyền",20:00 14/10 XMLS Thanh Hoá vs LB Bank Ninh Bình | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/c4bef67c466d423faab00207858959dd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 14/10 Vakifbank Nữ vs Zeren Spor Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/14f6bb02e9af4e98a0a1ba5903152123_75460d64_20261013.png?v=75460d64" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 14/10 Vakifbank Nữ vs Zeren Spor Women | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="23:00 14/10 Vakifbank Nữ vs Zeren Spor Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/14f6bb02e9af4e98a0a1ba5903152123_75460d64_20261013.png?v=75460d64" group-title="🏐 Bóng Chuyền",23:00 14/10 Vakifbank Nữ vs Zeren Spor Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/e62df0792c9741c19d7d69d700a3bd0a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 14/10 Fenerbahce Nữ vs Goztepe Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6d7234725c4c4060a5be4348a2baf3fa_da39df13_20261013.png?v=da39df13" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 14/10 Fenerbahce Nữ vs Goztepe Nữ | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="23:00 14/10 Fenerbahce Nữ vs Goztepe Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6d7234725c4c4060a5be4348a2baf3fa_da39df13_20261013.png?v=da39df13" group-title="🏐 Bóng Chuyền",23:00 14/10 Fenerbahce Nữ vs Goztepe Nữ | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/aa9ddd35f2cb4746a1c35e62a0ea6bfb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_a42e5b93_20261013.png?v=a42e5b93" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 1
+#EXTINF:-1 tvg-id="" tvg-name="17:00 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_a42e5b93_20261013.png?v=a42e5b93" group-title="🏐 Bóng Chuyền",17:00 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_a42e5b93_20261013.png?v=a42e5b93" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 2
+#EXTINF:-1 tvg-id="" tvg-name="17:00 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_a42e5b93_20261013.png?v=a42e5b93" group-title="🏐 Bóng Chuyền",17:00 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_a42e5b93_20261013.png?v=a42e5b93" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 3
+#EXTINF:-1 tvg-id="" tvg-name="17:00 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_a42e5b93_20261013.png?v=a42e5b93" group-title="🏐 Bóng Chuyền",17:00 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10.flv
-#EXTINF:-1 tvg-id="" tvg-name="17:00 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_a42e5b93_20261013.png?v=a42e5b93" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 4
+#EXTINF:-1 tvg-id="" tvg-name="17:00 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_a42e5b93_20261013.png?v=a42e5b93" group-title="🏐 Bóng Chuyền",17:00 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 4
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
