@@ -684,6 +684,11 @@ https://pull.digitalcdn.net/live/731e06daf3214324bef38187de7b49e5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 Vissel Kobe vs Jeonbuk" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39597_55522848_20261013.png?v=55522848" group-title="⚽ Bóng Đá (7 LIVE)",17:00 Vissel Kobe vs Jeonbuk | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/dbd0a55bf2434a33b0245eed3d7d784c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:45 Nasaf Qarshi vs Al Wahda" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/39658_317a37c2_20261013.png?v=317a37c2" group-title="⚽ Bóng Đá (7 LIVE)",20:45 Nasaf Qarshi vs Al Wahda | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -793,17 +798,17 @@ https://ftlh5sc02iliv.vcdn.cloud/1791780555_hd/1791780555_hd@720p.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub2/index.m3u8
+https://live.khoga.space/live/livehub10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 🔴 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_fc945e63_20261013.png?v=fc945e63" group-title="🏐 Bóng Chuyền (2 LIVE)",17:00 🔴 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub10/index.m3u8
+https://live.khoga.space/live/livehub10.flv
 #EXTINF:-1 tvg-id="" tvg-name="17:00 🔴 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_fc945e63_20261013.png?v=fc945e63" group-title="🏐 Bóng Chuyền (2 LIVE)",17:00 🔴 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub10.flv
+https://live.khoga.space/live/livehub2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 🔴 Heungkuk Life Pink Spiders vs IBK Altos" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38660_fc945e63_20261013.png?v=fc945e63" group-title="🏐 Bóng Chuyền (2 LIVE)",17:00 🔴 Heungkuk Life Pink Spiders vs IBK Altos | PhaoHoa 4
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
