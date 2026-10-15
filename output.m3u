@@ -169,6 +169,11 @@ https://pull.digitalcdn.net/live/9d63e7b7329e4a83998a17d5e4d7429b/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791950132_hd/1791950132_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02:00 17/10 RC Deportivo vs Levante" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/vjxm8ghe6xj8r6o_8c0d4078_20261016.png?v=8c0d4078" group-title="⚽ Bóng Đá",02:00 17/10 RC Deportivo vs Levante | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/96e6703ec0a74a90a7773f8299355182/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Frosinone vs Sassuolo" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41102_447f465b_20261016.png?v=447f465b" group-title="⚽ Bóng Đá",01:45 Frosinone vs Sassuolo | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
