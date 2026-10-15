@@ -499,6 +499,11 @@ https://live.khoga.space/live/livehub13/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub13.flv
+#EXTINF:-1 tvg-id="" tvg-name="13:30 15/10 Arthur Gea vs Alejandro Davidovich Fokina" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/b7am2olm1em3_1bf6cab3_20261015.png?v=1bf6cab3" group-title="🎾 Tennis",13:30 15/10 Arthur Gea vs Alejandro Davidovich Fokina | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1792027900_hd/1792027900_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="06:30 15/10 🔴 Miami Heat vs Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37732470_ed44c84f_20261015.png?v=ed44c84f" group-title="🏀 Bóng Rổ (6 LIVE)",06:30 15/10 🔴 Miami Heat vs Brooklyn Nets | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
