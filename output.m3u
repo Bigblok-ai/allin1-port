@@ -54,21 +54,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:45 17/10 🔴 Le Mans vs Toulouse" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07b6_5ae71589_20261017.png?v=5ae71589" group-title="⚽ Bóng Đá (6 LIVE)",01:45 17/10 🔴 Le Mans vs Toulouse | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1792166848_hd/1792166848_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:45 17/10 🔴 Le Mans vs Toulouse" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07b6_5ae71589_20261017.png?v=5ae71589" group-title="⚽ Bóng Đá (6 LIVE)",01:45 17/10 🔴 Le Mans vs Toulouse | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:45 17/10 🔴 Le Mans vs Toulouse" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07b6_5ae71589_20261017.png?v=5ae71589" group-title="⚽ Bóng Đá (6 LIVE)",01:45 17/10 🔴 Le Mans vs Toulouse | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub6.flv
 #EXTINF:-1 tvg-id="" tvg-name="02:00 17/10 🔴 Deportivo La Coruna vs Levante" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f0750_4aa07a23_20261017.png?v=4aa07a23" group-title="⚽ Bóng Đá (6 LIVE)",02:00 17/10 🔴 Deportivo La Coruna vs Levante | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -99,6 +84,16 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:45 🔴 Le Mans vs Toulouse" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41103_1f5d39e9_20261017.png?v=1f5d39e9" group-title="⚽ Bóng Đá (6 LIVE)",01:45 🔴 Le Mans vs Toulouse | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://live.khoga.space/live/livehub6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:45 🔴 Le Mans vs Toulouse" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41103_1f5d39e9_20261017.png?v=1f5d39e9" group-title="⚽ Bóng Đá (6 LIVE)",01:45 🔴 Le Mans vs Toulouse | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://live.khoga.space/live/livehub6.flv
 #EXTINF:-1 tvg-id="" tvg-name="02:00 🔴 Dep. A Coruna vs Levante" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41112_b0aae22f_20261017.png?v=b0aae22f" group-title="⚽ Bóng Đá (6 LIVE)",02:00 🔴 Dep. A Coruna vs Levante | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -1059,32 +1054,27 @@ https://live.khoga.space/live/livehub10/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub10.flv
-#EXTINF:-1 tvg-id="" tvg-name="18:30 16/10 🔴 ONE Friday Fights 175 vs The Inner Circle 35" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38erfpoyp7r2_d4a4e557_20261017.png?v=d4a4e557" group-title="🥊 Võ Thuật (1 LIVE)",18:30 16/10 🔴 ONE Friday Fights 175 vs The Inner Circle 35 | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1791127661_hd/1791127661_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 17/10 ONE SAMURAI 4 vs ONE SAMURAI 4" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/eefzx5x5avaf_d9125078_20261017.png?v=d9125078" group-title="🥊 Võ Thuật (1 LIVE)",14:00 17/10 ONE SAMURAI 4 vs ONE SAMURAI 4 | GV
+#EXTINF:-1 tvg-id="" tvg-name="14:00 17/10 ONE SAMURAI 4 vs ONE SAMURAI 4" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/eefzx5x5avaf_d9125078_20261017.png?v=d9125078" group-title="🥊 Võ Thuật",14:00 17/10 ONE SAMURAI 4 vs ONE SAMURAI 4 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1791127745_hd/1791127745_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:00 17/10 Dubois vs Wardley" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xj9dgdv5uota_79ede6f2_20261017.png?v=79ede6f2" group-title="🥊 Võ Thuật (1 LIVE)",22:00 17/10 Dubois vs Wardley | GV
+#EXTINF:-1 tvg-id="" tvg-name="22:00 17/10 Dubois vs Wardley" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xj9dgdv5uota_79ede6f2_20261017.png?v=79ede6f2" group-title="🥊 Võ Thuật",22:00 17/10 Dubois vs Wardley | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792170062_hd/1792170062_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 17/10 Dubois vs vs Wardley 2" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qcqvu4tdq7tx_98766c8b_20261017.png?v=98766c8b" group-title="🥊 Võ Thuật (1 LIVE)",23:00 17/10 Dubois vs vs Wardley 2 | GV 1
+#EXTINF:-1 tvg-id="" tvg-name="23:00 17/10 Dubois vs vs Wardley 2" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qcqvu4tdq7tx_98766c8b_20261017.png?v=98766c8b" group-title="🥊 Võ Thuật",23:00 17/10 Dubois vs vs Wardley 2 | GV 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1791951122_hd/1791951122_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 17/10 Dubois vs vs Wardley 2" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qcqvu4tdq7tx_98766c8b_20261017.png?v=98766c8b" group-title="🥊 Võ Thuật (1 LIVE)",23:00 17/10 Dubois vs vs Wardley 2 | GV 2
+#EXTINF:-1 tvg-id="" tvg-name="23:00 17/10 Dubois vs vs Wardley 2" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qcqvu4tdq7tx_98766c8b_20261017.png?v=98766c8b" group-title="🥊 Võ Thuật",23:00 17/10 Dubois vs vs Wardley 2 | GV 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1791128060_hd/1791128060_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="04:00 18/10 Joaquin Buckley vs Mike Malott" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q9gvcw8bholw_41706bdf_20261017.png?v=41706bdf" group-title="🥊 Võ Thuật (1 LIVE)",04:00 18/10 Joaquin Buckley vs Mike Malott | GV
+#EXTINF:-1 tvg-id="" tvg-name="04:00 18/10 Joaquin Buckley vs Mike Malott" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q9gvcw8bholw_41706bdf_20261017.png?v=41706bdf" group-title="🥊 Võ Thuật",04:00 18/10 Joaquin Buckley vs Mike Malott | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
