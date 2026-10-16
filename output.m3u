@@ -55,9 +55,9 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=11494
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:30 🔴 Holstein Kiel vs Hertha Berlin" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/40678_97db2e43_20261016.png?v=97db2e43" group-title="⚽ Bóng Đá (2 LIVE)",23:30 🔴 Holstein Kiel vs Hertha Berlin | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:30 🔴 Holstein Kiel vs Hertha Berlin" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/40678_97db2e43_20261016.png?v=97db2e43" group-title="⚽ Bóng Đá (2 LIVE)",23:30 🔴 Holstein Kiel vs Hertha Berlin | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
@@ -85,9 +85,9 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1791950103_hd/1791950103_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:30 17/10 Eintracht Frankfurt vs Koln" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0775_229cdc90_20261016.png?v=229cdc90" group-title="⚽ Bóng Đá (2 LIVE)",01:30 17/10 Eintracht Frankfurt vs Koln | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:30 17/10 Eintracht Frankfurt vs Koln" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0775_229cdc90_20261016.png?v=229cdc90" group-title="⚽ Bóng Đá (2 LIVE)",01:30 17/10 Eintracht Frankfurt vs Koln | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
@@ -115,14 +115,14 @@ https://pull.digitalcdn.net/live/9d63e7b7329e4a83998a17d5e4d7429b/index.m3u8
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792166848_hd/1792166848_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 17/10 Le Mans vs Toulouse" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07b6_5ae71589_20261016.png?v=5ae71589" group-title="⚽ Bóng Đá (2 LIVE)",01:45 17/10 Le Mans vs Toulouse | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 17/10 Le Mans vs Toulouse" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07b6_5ae71589_20261016.png?v=5ae71589" group-title="⚽ Bóng Đá (2 LIVE)",01:45 17/10 Le Mans vs Toulouse | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6.flv
 #EXTINF:-1 tvg-id="" tvg-name="02:00 17/10 Burnley vs Wolves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1563205_c3745e2c_20261016.png?v=c3745e2c" group-title="⚽ Bóng Đá (2 LIVE)",02:00 17/10 Burnley vs Wolves | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
@@ -205,9 +205,9 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792136643_hd/1792136643_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="11:00 17/10 Auckland FC vs Melbourne City" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed324d46db87090d6a5_4b370d0a_20261016.png?v=4b370d0a" group-title="⚽ Bóng Đá (2 LIVE)",11:00 17/10 Auckland FC vs Melbourne City | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13:00 17/10 Kashima Antlers vs V-Varen Nagasaki" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed324d46db87090d74e_6e20d737_20261016.png?v=6e20d737" group-title="⚽ Bóng Đá (2 LIVE)",13:00 17/10 Kashima Antlers vs V-Varen Nagasaki | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
@@ -305,9 +305,9 @@ https://pull.digitalcdn.net/live/017e5f9ec0324aeabbec3256bf3d82f4/index.m3u8
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792136526_hd/1792136526_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="18:30 17/10 Everton vs Chelsea FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06ea_f8d0390f_20261016.png?v=f8d0390f" group-title="⚽ Bóng Đá (2 LIVE)",18:30 17/10 Everton vs Chelsea FC | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="18:30 17/10 Everton vs Chelsea FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06ea_f8d0390f_20261016.png?v=f8d0390f" group-title="⚽ Bóng Đá (2 LIVE)",18:30 17/10 Everton vs Chelsea FC | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
@@ -355,14 +355,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/13c077b847754979ac848747896bbb74/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Frosinone vs Sassuolo" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41102_447f465b_20261016.png?v=447f465b" group-title="⚽ Bóng Đá (2 LIVE)",01:45 Frosinone vs Sassuolo | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Frosinone vs Sassuolo" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41102_447f465b_20261016.png?v=447f465b" group-title="⚽ Bóng Đá (2 LIVE)",01:45 Frosinone vs Sassuolo | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub3.flv
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Frosinone vs Sassuolo" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41102_447f465b_20261016.png?v=447f465b" group-title="⚽ Bóng Đá (2 LIVE)",01:45 Frosinone vs Sassuolo | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
@@ -380,79 +380,79 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Lille vs Brest" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43317_62e9d680_20261016.png?v=62e9d680" group-title="⚽ Bóng Đá (2 LIVE)",01:45 Lille vs Brest | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Lille vs Brest" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43317_62e9d680_20261016.png?v=62e9d680" group-title="⚽ Bóng Đá (2 LIVE)",01:45 Lille vs Brest | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub9.flv
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Troyes vs Lens" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43318_fd8b2f78_20261016.png?v=fd8b2f78" group-title="⚽ Bóng Đá (2 LIVE)",01:45 Troyes vs Lens | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Troyes vs Lens" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43318_fd8b2f78_20261016.png?v=fd8b2f78" group-title="⚽ Bóng Đá (2 LIVE)",01:45 Troyes vs Lens | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub12.flv
 #EXTINF:-1 tvg-id="" tvg-name="02:00 Dep. A Coruna vs Levante" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41112_b0aae22f_20261016.png?v=b0aae22f" group-title="⚽ Bóng Đá (2 LIVE)",02:00 Dep. A Coruna vs Levante | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:00 Dep. A Coruna vs Levante" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41112_b0aae22f_20261016.png?v=b0aae22f" group-title="⚽ Bóng Đá (2 LIVE)",02:00 Dep. A Coruna vs Levante | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub11.flv
 #EXTINF:-1 tvg-id="" tvg-name="02:00 Valencia vs Ath Bilbao" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43325_3ff6957f_20261016.png?v=3ff6957f" group-title="⚽ Bóng Đá (2 LIVE)",02:00 Valencia vs Ath Bilbao | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:00 Valencia vs Ath Bilbao" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43325_3ff6957f_20261016.png?v=3ff6957f" group-title="⚽ Bóng Đá (2 LIVE)",02:00 Valencia vs Ath Bilbao | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10.flv
 #EXTINF:-1 tvg-id="" tvg-name="06:30 Atlanta Utd vs Inter Miami" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43409_e343777d_20261016.png?v=e343777d" group-title="⚽ Bóng Đá (2 LIVE)",06:30 Atlanta Utd vs Inter Miami | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="06:30 Atlanta Utd vs Inter Miami" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43409_e343777d_20261016.png?v=e343777d" group-title="⚽ Bóng Đá (2 LIVE)",06:30 Atlanta Utd vs Inter Miami | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub3.flv
 #EXTINF:-1 tvg-id="" tvg-name="09:00 Wellington Phoenix vs Melbourne Victory" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43449_871bbdcc_20261016.png?v=871bbdcc" group-title="⚽ Bóng Đá (2 LIVE)",09:00 Wellington Phoenix vs Melbourne Victory | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="09:00 Wellington Phoenix vs Melbourne Victory" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43449_871bbdcc_20261016.png?v=871bbdcc" group-title="⚽ Bóng Đá (2 LIVE)",09:00 Wellington Phoenix vs Melbourne Victory | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub11.flv
 #EXTINF:-1 tvg-id="" tvg-name="10:05 Club Tijuana vs Puebla" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41165_078e80a6_20261016.png?v=078e80a6" group-title="⚽ Bóng Đá (2 LIVE)",10:05 Club Tijuana vs Puebla | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13:00 Macarthur FC vs Perth Glory" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41192_b299fb4b_20261016.png?v=b299fb4b" group-title="⚽ Bóng Đá (2 LIVE)",13:00 Macarthur FC vs Perth Glory | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13:00 Macarthur FC vs Perth Glory" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41192_b299fb4b_20261016.png?v=b299fb4b" group-title="⚽ Bóng Đá (2 LIVE)",13:00 Macarthur FC vs Perth Glory | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub13.flv
 #EXTINF:-1 tvg-id="" tvg-name="13:00 Macarthur FC vs Perth Glory" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41192_b299fb4b_20261016.png?v=b299fb4b" group-title="⚽ Bóng Đá (2 LIVE)",13:00 Macarthur FC vs Perth Glory | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
@@ -470,24 +470,24 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="14:30 Ulsan HD vs Bucheon FC 1995" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41199_95cc86bd_20261016.png?v=95cc86bd" group-title="⚽ Bóng Đá (2 LIVE)",14:30 Ulsan HD vs Bucheon FC 1995 | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="14:30 Ulsan HD vs Bucheon FC 1995" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41199_95cc86bd_20261016.png?v=95cc86bd" group-title="⚽ Bóng Đá (2 LIVE)",14:30 Ulsan HD vs Bucheon FC 1995 | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub12.flv
 #EXTINF:-1 tvg-id="" tvg-name="15:40 Central Coast Mariners vs Newcastle Jets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41238_2eb34995_20261016.png?v=2eb34995" group-title="⚽ Bóng Đá (2 LIVE)",15:40 Central Coast Mariners vs Newcastle Jets | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15:40 Central Coast Mariners vs Newcastle Jets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41238_2eb34995_20261016.png?v=2eb34995" group-title="⚽ Bóng Đá (2 LIVE)",15:40 Central Coast Mariners vs Newcastle Jets | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub3.flv
 #EXTINF:-1 tvg-id="" tvg-name="15:40 Central Coast Mariners vs Newcastle Jets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41238_2eb34995_20261016.png?v=2eb34995" group-title="⚽ Bóng Đá (2 LIVE)",15:40 Central Coast Mariners vs Newcastle Jets | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
@@ -500,19 +500,19 @@ https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="19:00 Espanyol vs Atl. Madrid" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41583_9590561f_20261016.png?v=9590561f" group-title="⚽ Bóng Đá (2 LIVE)",19:00 Espanyol vs Atl. Madrid | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub11/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="19:00 Espanyol vs Atl. Madrid" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41583_9590561f_20261016.png?v=9590561f" group-title="⚽ Bóng Đá (2 LIVE)",19:00 Espanyol vs Atl. Madrid | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub11.flv
 #EXTINF:-1 tvg-id="" tvg-name="20:30 Union Berlin vs Dortmund" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/42002_3d610d3f_20261016.png?v=3d610d3f" group-title="⚽ Bóng Đá (2 LIVE)",20:30 Union Berlin vs Dortmund | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:30 Union Berlin vs Dortmund" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/42002_3d610d3f_20261016.png?v=3d610d3f" group-title="⚽ Bóng Đá (2 LIVE)",20:30 Union Berlin vs Dortmund | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
@@ -534,6 +534,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/adf592146e0b40b08dd12b2bce32768a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="15:30 17/10 Alexander Zverev vs Alejandro Davidovich Fokina" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2j74krgs62u7_3d0239a9_20261016.png?v=3d0239a9" group-title="🎾 Tennis",15:30 17/10 Alexander Zverev vs Alejandro Davidovich Fokina | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1792169628_hd/1792169628_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="06:00 17/10 Detroit Pistons vs Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10122274_20ddde24_20261016.png?v=20ddde24" group-title="🏀 Bóng Rổ",06:00 17/10 Detroit Pistons vs Toronto Raptors | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -639,15 +644,15 @@ https://cdn.sports-cas889abxfileposo.site/live/live9265/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792138322_hd/1792138322_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:30 🔴 GKS Katowice vs Aluron CMC Warta Zawiercie" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38675_4ee48e3a_20261016.png?v=4ee48e3a" group-title="🏐 Bóng Chuyền (1 LIVE)",22:30 🔴 GKS Katowice vs Aluron CMC Warta Zawiercie | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="22:30 🔴 GKS Katowice vs Aluron CMC Warta Zawiercie" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38675_1f547514_20261016.png?v=1f547514" group-title="🏐 Bóng Chuyền (1 LIVE)",22:30 🔴 GKS Katowice vs Aluron CMC Warta Zawiercie | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:30 🔴 GKS Katowice vs Aluron CMC Warta Zawiercie" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38675_4ee48e3a_20261016.png?v=4ee48e3a" group-title="🏐 Bóng Chuyền (1 LIVE)",22:30 🔴 GKS Katowice vs Aluron CMC Warta Zawiercie | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="22:30 🔴 GKS Katowice vs Aluron CMC Warta Zawiercie" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38675_1f547514_20261016.png?v=1f547514" group-title="🏐 Bóng Chuyền (1 LIVE)",22:30 🔴 GKS Katowice vs Aluron CMC Warta Zawiercie | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6.flv
 #EXTINF:-1 tvg-id="" tvg-name="12:00 17/10 Astemo Rivale Ibaraki Nữ vs Gunma Bank Green Wings Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4ad815fd89624ef4aa034a5199139c53_606b2b45_20261016.png?v=606b2b45" group-title="🏐 Bóng Chuyền (1 LIVE)",12:00 17/10 Astemo Rivale Ibaraki Nữ vs Gunma Bank Green Wings Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
@@ -724,85 +729,85 @@ https://pull.digitalcdn.net/live/5f40df7da7eb4e8d8c9860d34e5fb4d3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/ad9e24bf66874cc082e59eab4a73fe79/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38678_a02042ad_20261016.png?v=a02042ad" group-title="🏐 Bóng Chuyền (1 LIVE)",01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38678_f5253c36_20261016.png?v=f5253c36" group-title="🏐 Bóng Chuyền (1 LIVE)",01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38678_a02042ad_20261016.png?v=a02042ad" group-title="🏐 Bóng Chuyền (1 LIVE)",01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38678_f5253c36_20261016.png?v=f5253c36" group-title="🏐 Bóng Chuyền (1 LIVE)",01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub12.flv
-#EXTINF:-1 tvg-id="" tvg-name="01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38678_a02042ad_20261016.png?v=a02042ad" group-title="🏐 Bóng Chuyền (1 LIVE)",01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn | PhaoHoa 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38678_f5253c36_20261016.png?v=f5253c36" group-title="🏐 Bóng Chuyền (1 LIVE)",01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn | PhaoHoa 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38678_a02042ad_20261016.png?v=a02042ad" group-title="🏐 Bóng Chuyền (1 LIVE)",01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn | PhaoHoa 4
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38678_f5253c36_20261016.png?v=f5253c36" group-title="🏐 Bóng Chuyền (1 LIVE)",01:30 PGE Projekt Warszawa vs Energa Indykpol AZS Olsztyn | PhaoHoa 4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6.flv
-#EXTINF:-1 tvg-id="" tvg-name="11:05 Saitama Ageo Medics vs Denso Airybees" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38679_245fac63_20261016.png?v=245fac63" group-title="🏐 Bóng Chuyền (1 LIVE)",11:05 Saitama Ageo Medics vs Denso Airybees | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="11:05 Saitama Ageo Medics vs Denso Airybees" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38679_c44aa5ef_20261016.png?v=c44aa5ef" group-title="🏐 Bóng Chuyền (1 LIVE)",11:05 Saitama Ageo Medics vs Denso Airybees | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:05 Saitama Ageo Medics vs Denso Airybees" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38679_245fac63_20261016.png?v=245fac63" group-title="🏐 Bóng Chuyền (1 LIVE)",11:05 Saitama Ageo Medics vs Denso Airybees | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="11:05 Saitama Ageo Medics vs Denso Airybees" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38679_c44aa5ef_20261016.png?v=c44aa5ef" group-title="🏐 Bóng Chuyền (1 LIVE)",11:05 Saitama Ageo Medics vs Denso Airybees | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10.flv
-#EXTINF:-1 tvg-id="" tvg-name="11:05 Saitama Ageo Medics vs Denso Airybees" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38679_245fac63_20261016.png?v=245fac63" group-title="🏐 Bóng Chuyền (1 LIVE)",11:05 Saitama Ageo Medics vs Denso Airybees | PhaoHoa 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="11:05 Saitama Ageo Medics vs Denso Airybees" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38679_c44aa5ef_20261016.png?v=c44aa5ef" group-title="🏐 Bóng Chuyền (1 LIVE)",11:05 Saitama Ageo Medics vs Denso Airybees | PhaoHoa 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:05 Saitama Ageo Medics vs Denso Airybees" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38679_245fac63_20261016.png?v=245fac63" group-title="🏐 Bóng Chuyền (1 LIVE)",11:05 Saitama Ageo Medics vs Denso Airybees | PhaoHoa 4
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="11:05 Saitama Ageo Medics vs Denso Airybees" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38679_c44aa5ef_20261016.png?v=c44aa5ef" group-title="🏐 Bóng Chuyền (1 LIVE)",11:05 Saitama Ageo Medics vs Denso Airybees | PhaoHoa 4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub12.flv
-#EXTINF:-1 tvg-id="" tvg-name="12:05 Tokyo Great Bears vs Hokkaido Yellow Stars" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38684_fb76f9b1_20261016.png?v=fb76f9b1" group-title="🏐 Bóng Chuyền (1 LIVE)",12:05 Tokyo Great Bears vs Hokkaido Yellow Stars | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="12:05 Tokyo Great Bears vs Hokkaido Yellow Stars" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38684_d0c67bcd_20261016.png?v=d0c67bcd" group-title="🏐 Bóng Chuyền (1 LIVE)",12:05 Tokyo Great Bears vs Hokkaido Yellow Stars | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:05 Tokyo Great Bears vs Hokkaido Yellow Stars" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38684_fb76f9b1_20261016.png?v=fb76f9b1" group-title="🏐 Bóng Chuyền (1 LIVE)",12:05 Tokyo Great Bears vs Hokkaido Yellow Stars | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="12:05 Tokyo Great Bears vs Hokkaido Yellow Stars" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38684_d0c67bcd_20261016.png?v=d0c67bcd" group-title="🏐 Bóng Chuyền (1 LIVE)",12:05 Tokyo Great Bears vs Hokkaido Yellow Stars | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6.flv
-#EXTINF:-1 tvg-id="" tvg-name="16:35 NEC Red Rockets Kawasaki vs Victorina Himeji" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38685_23c75ac0_20261016.png?v=23c75ac0" group-title="🏐 Bóng Chuyền (1 LIVE)",16:35 NEC Red Rockets Kawasaki vs Victorina Himeji | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="16:35 NEC Red Rockets Kawasaki vs Victorina Himeji" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38685_ca850232_20261016.png?v=ca850232" group-title="🏐 Bóng Chuyền (1 LIVE)",16:35 NEC Red Rockets Kawasaki vs Victorina Himeji | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:35 NEC Red Rockets Kawasaki vs Victorina Himeji" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38685_23c75ac0_20261016.png?v=23c75ac0" group-title="🏐 Bóng Chuyền (1 LIVE)",16:35 NEC Red Rockets Kawasaki vs Victorina Himeji | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="16:35 NEC Red Rockets Kawasaki vs Victorina Himeji" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38685_ca850232_20261016.png?v=ca850232" group-title="🏐 Bóng Chuyền (1 LIVE)",16:35 NEC Red Rockets Kawasaki vs Victorina Himeji | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10.flv
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Halkbank vs Galatasaray" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38689_1980fcb9_20261016.png?v=1980fcb9" group-title="🏐 Bóng Chuyền (1 LIVE)",20:00 Halkbank vs Galatasaray | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="20:00 Halkbank vs Galatasaray" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38689_917e72e2_20261016.png?v=917e72e2" group-title="🏐 Bóng Chuyền (1 LIVE)",20:00 Halkbank vs Galatasaray | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 Halkbank vs Galatasaray" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38689_1980fcb9_20261016.png?v=1980fcb9" group-title="🏐 Bóng Chuyền (1 LIVE)",20:00 Halkbank vs Galatasaray | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="20:00 Halkbank vs Galatasaray" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38689_917e72e2_20261016.png?v=917e72e2" group-title="🏐 Bóng Chuyền (1 LIVE)",20:00 Halkbank vs Galatasaray | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub6.flv
-#EXTINF:-1 tvg-id="" tvg-name="23:00 Fenerbahçe Medicana vs Ziraat Bankkart" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38693_97a7649e_20261016.png?v=97a7649e" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 Fenerbahçe Medicana vs Ziraat Bankkart | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="23:00 Fenerbahçe Medicana vs Ziraat Bankkart" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38693_b478c7df_20261016.png?v=b478c7df" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 Fenerbahçe Medicana vs Ziraat Bankkart | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 Fenerbahçe Medicana vs Ziraat Bankkart" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38693_97a7649e_20261016.png?v=97a7649e" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 Fenerbahçe Medicana vs Ziraat Bankkart | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="23:00 Fenerbahçe Medicana vs Ziraat Bankkart" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38693_b478c7df_20261016.png?v=b478c7df" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 Fenerbahçe Medicana vs Ziraat Bankkart | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub10.flv
 #EXTINF:-1 tvg-id="" tvg-name="18:30 16/10 🔴 ONE Friday Fights 175 vs The Inner Circle 35" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38erfpoyp7r2_d4a4e557_20261016.png?v=d4a4e557" group-title="🥊 Võ Thuật (1 LIVE)",18:30 16/10 🔴 ONE Friday Fights 175 vs The Inner Circle 35 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
