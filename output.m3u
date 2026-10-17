@@ -604,6 +604,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche2.live/
 https://live.khoga.space/live/livehub8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="11:55 Okayama vs Vissel Kobe" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43463_6815e63b_20261017.png?v=6815e63b" group-title="⚽ Bóng Đá (1 LIVE)",11:55 Okayama vs Vissel Kobe | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche2.live/
+https://live.khoga.space/live/livehub9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13:00 Macarthur FC vs Perth Glory" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/41192_b299fb4b_20261017.png?v=b299fb4b" group-title="⚽ Bóng Đá (1 LIVE)",13:00 Macarthur FC vs Perth Glory | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche2.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -909,17 +914,22 @@ https://ftlh5sc02iliv.vcdn.cloud/1792173038_hd/1792173038_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792173112_hd/1792173112_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:59 17/10 Team Asia vs World Team" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-3906614c51_6cdc5293_20261017.png?v=6cdc5293" group-title="🎱 Billiards",17:59 17/10 Team Asia vs World Team | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:12 17/10 🔴 DŨNG MOI + ÁO ĐEN vs HÀ THÀNH + ÁO XÁM" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-8da642f622_86cefd23_20261017.png?v=86cefd23" group-title="🎱 Billiards (1 LIVE)",12:12 17/10 🔴 DŨNG MOI + ÁO ĐEN vs HÀ THÀNH + ÁO XÁM | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live9291/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:59 17/10 Team Asia vs World Team" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-3906614c51_6cdc5293_20261017.png?v=6cdc5293" group-title="🎱 Billiards (1 LIVE)",17:59 17/10 Team Asia vs World Team | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9277/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 17/10 Team Asia vs Team Rest of the World (ROW)" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7zcc37ilhphr_a48f1384_20261017.png?v=a48f1384" group-title="🎱 Billiards",18:00 17/10 Team Asia vs Team Rest of the World (ROW) | GV
+#EXTINF:-1 tvg-id="" tvg-name="18:00 17/10 Team Asia vs Team Rest of the World (ROW)" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7zcc37ilhphr_a48f1384_20261017.png?v=a48f1384" group-title="🎱 Billiards (1 LIVE)",18:00 17/10 Team Asia vs Team Rest of the World (ROW) | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792138322_hd/1792138322_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 17/10 Team Asia vs World Team" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-aca7260cf4_e6c236ea_20261017.png?v=e6c236ea" group-title="🎱 Billiards",18:00 17/10 Team Asia vs World Team | Choang
+#EXTINF:-1 tvg-id="" tvg-name="18:00 17/10 Team Asia vs World Team" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-aca7260cf4_e6c236ea_20261017.png?v=e6c236ea" group-title="🎱 Billiards (1 LIVE)",18:00 17/10 Team Asia vs World Team | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
