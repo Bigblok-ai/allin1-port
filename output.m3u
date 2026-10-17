@@ -649,6 +649,11 @@ https://live.khoga.space/live/livehub9/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub9.flv
+#EXTINF:-1 tvg-id="" tvg-name="19:15 Cong An Ha Noi vs Hanoi FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43907_2973b143_20261017.png?v=2973b143" group-title="⚽ Bóng Đá (5 LIVE)",19:15 Cong An Ha Noi vs Hanoi FC | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/b356df533c09468cb9e37ab9d32c9fe1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 Brighton vs Crystal Palace" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/44009_a6c3972c_20261017.png?v=a6c3972c" group-title="⚽ Bóng Đá (5 LIVE)",20:00 Brighton vs Crystal Palace | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -869,12 +874,7 @@ https://cdn.sports-cas889abxfileposo.site/live/live9270/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792220938_hd/1792220938_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:35 17/10 🔴 NEC Red Rockets Nữ vs Himeji Victorina Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/de39cd42ae134266a813ed0c3151be57_8fb978cb_20261017.png?v=8fb978cb" group-title="🏐 Bóng Chuyền (1 LIVE)",16:35 17/10 🔴 NEC Red Rockets Nữ vs Himeji Victorina Nữ | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/df888569d64f4accb4ee8c3693c67a41/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 17/10 Geleximco Hưng Yên vs VTV BĐ Long An" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/85b8f7c2145a4d519b1dfe4d64f00681_02868ba4_20261017.png?v=02868ba4" group-title="🏐 Bóng Chuyền (1 LIVE)",19:30 17/10 Geleximco Hưng Yên vs VTV BĐ Long An | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="19:30 17/10 🔴 Geleximco Hưng Yên vs VTV BĐ Long An" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/85b8f7c2145a4d519b1dfe4d64f00681_02868ba4_20261017.png?v=02868ba4" group-title="🏐 Bóng Chuyền (1 LIVE)",19:30 17/10 🔴 Geleximco Hưng Yên vs VTV BĐ Long An | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
