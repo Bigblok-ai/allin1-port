@@ -519,6 +519,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/101d3518ea9b4cae8a2f06c13077b6e2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 18/10 Leon vs Club America" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550998_40b3f03a_20261017.png?v=40b3f03a" group-title="⚽ Bóng Đá (3 LIVE)",08:00 18/10 Leon vs Club America | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="08:00 18/10 Leon vs Club America" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1550998_40b3f03a_20261017.png?v=40b3f03a" group-title="⚽ Bóng Đá (3 LIVE)",08:00 18/10 Leon vs Club America | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 AS Roma vs Genoa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/43316_aa50db80_20261017.png?v=aa50db80" group-title="⚽ Bóng Đá (3 LIVE)",01:45 AS Roma vs Genoa | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
