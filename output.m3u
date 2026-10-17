@@ -154,7 +154,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:30 17/10 Everton vs Chelsea FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06ea_f8d0390f_20261017.png?v=f8d0390f" group-title="⚽ Bóng Đá (4 LIVE)",18:30 17/10 Everton vs Chelsea FC | GV
+#EXTINF:-1 tvg-id="" tvg-name="18:30 17/10 Everton vs Chelsea FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06ea_f8d0390f_20261017.png?v=f8d0390f" group-title="⚽ Bóng Đá (4 LIVE)",18:30 17/10 Everton vs Chelsea FC | GV 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1792232177_hd/1792232177_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:30 17/10 Everton vs Chelsea FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06ea_f8d0390f_20261017.png?v=f8d0390f" group-title="⚽ Bóng Đá (4 LIVE)",18:30 17/10 Everton vs Chelsea FC | GV 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
