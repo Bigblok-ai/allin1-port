@@ -239,11 +239,6 @@ https://live.khoga.space/live/livehub13/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub13.flv
-#EXTINF:-1 tvg-id="" tvg-name="20:00 18/10 Brighton Hove Albion vs Crystal Palace" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac9805824d46db8704f9797_5ed43657_20261018.png?v=5ed43657" group-title="⚽ Bóng Đá (2 LIVE)",20:00 18/10 Brighton Hove Albion vs Crystal Palace | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/6fff3903e16d41aa89a120c90977d0ae/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21:15 18/10 Celta Vigo vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f0756_dec543b0_20261018.png?v=dec543b0" group-title="⚽ Bóng Đá (2 LIVE)",21:15 18/10 Celta Vigo vs Alaves | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -719,31 +714,31 @@ https://ftlh5sc02iliv.vcdn.cloud/1792173038_hd/1792173038_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792173112_hd/1792173112_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:31 18/10 🔴 Thắng Yên Lưu vs Đình Hữu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-82d5d40f2d_53bbaa08_20261018.png?v=53bbaa08" group-title="🎱 Billiards (3 LIVE)",10:31 18/10 🔴 Thắng Yên Lưu vs Đình Hữu | Choang
+#EXTINF:-1 tvg-id="" tvg-name="10:31 18/10 🔴 Thắng Yên Lưu vs Đình Hữu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-82d5d40f2d_53bbaa08_20261018.png?v=53bbaa08" group-title="🎱 Billiards (2 LIVE)",10:31 18/10 🔴 Thắng Yên Lưu vs Đình Hữu | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9306/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 18/10 🔴 Uyển Nhi vs Sang Thuyên" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-4022f08adf_85c5a165_20261018.png?v=85c5a165" group-title="🎱 Billiards (3 LIVE)",12:00 18/10 🔴 Uyển Nhi vs Sang Thuyên | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 18/10 🔴 Uyển Nhi vs Sang Thuyên" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-4022f08adf_85c5a165_20261018.png?v=85c5a165" group-title="🎱 Billiards (2 LIVE)",12:00 18/10 🔴 Uyển Nhi vs Sang Thuyên | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9304/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:12 18/10 🔴 áo đen vs áo trắng" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-5c8024389c_1607cc6b_20261018.png?v=1607cc6b" group-title="🎱 Billiards (3 LIVE)",12:12 18/10 🔴 áo đen vs áo trắng | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live9307/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 18/10 Team Asia vs Team Rest of the World (ROW)" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/y5p2gp7woj9p_a48f1384_20261018.png?v=a48f1384" group-title="🎱 Billiards (3 LIVE)",18:00 18/10 Team Asia vs Team Rest of the World (ROW) | GV
+#EXTINF:-1 tvg-id="" tvg-name="18:00 18/10 Team Asia vs Team Rest of the World (ROW)" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/y5p2gp7woj9p_a48f1384_20261018.png?v=a48f1384" group-title="🎱 Billiards (2 LIVE)",18:00 18/10 Team Asia vs Team Rest of the World (ROW) | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792220938_hd/1792220938_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 18/10 Team Asia vs World Team" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d608249b8f_e066fd0d_20261018.png?v=e066fd0d" group-title="🎱 Billiards (3 LIVE)",18:00 18/10 Team Asia vs World Team | Choang
+#EXTINF:-1 tvg-id="" tvg-name="18:00 18/10 Team Asia vs World Team" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d608249b8f_e066fd0d_20261018.png?v=e066fd0d" group-title="🎱 Billiards (2 LIVE)",18:00 18/10 Team Asia vs World Team | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9299/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:30 18/10 Capito & Sao Hỏa vs Sanchez Ruiz, & Van Boening" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-e111f64b58_d8092231_20261018.png?v=d8092231" group-title="🎱 Billiards (2 LIVE)",18:30 18/10 Capito & Sao Hỏa vs Sanchez Ruiz, & Van Boening | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live9300/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="12:05 18/10 🔴 Astemo Rivale Ibaraki Nữ vs Gunma Greenwings Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rnx0ayd3gqho_095c93dc_20261018.png?v=095c93dc" group-title="🏐 Bóng Chuyền (4 LIVE)",12:05 18/10 🔴 Astemo Rivale Ibaraki Nữ vs Gunma Greenwings Nữ | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
