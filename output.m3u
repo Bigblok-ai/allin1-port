@@ -54,11 +54,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:30 21/10 🔴 Lion City Sailors vs Tampines Rovers FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad2baaf24d46db870e25bfe_43af4efd_20261021.png?v=43af4efd" group-title="⚽ Bóng Đá (4 LIVE)",18:30 21/10 🔴 Lion City Sailors vs Tampines Rovers FC | GV
+#EXTINF:-1 tvg-id="" tvg-name="21:45 21/10 🔴 Al Jeel vs Al Jandal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/96p9r72fng76_6dc25b39_20261021.png?v=6dc25b39" group-title="⚽ Bóng Đá (4 LIVE)",21:45 21/10 🔴 Al Jeel vs Al Jandal | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1792310924_hd/1792310924_hd@720p.m3u8
+https://ftlh5sc02iliv.vcdn.cloud/1792311205_hd/1792311205_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21:00 21/10 🔴 Ghazl El Mehalla vs Al Ittihad" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1612265_c0383d6c_20261021.png?v=c0383d6c" group-title="⚽ Bóng Đá (4 LIVE)",21:00 21/10 🔴 Ghazl El Mehalla vs Al Ittihad | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -99,11 +99,6 @@ https://pull.digitalcdn.net/live/ec63859ff1f34aa99002fe299ade03d2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792310847_hd/1792310847_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:45 21/10 Al Jeel vs Al Jandal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/96p9r72fng76_6dc25b39_20261021.png?v=6dc25b39" group-title="⚽ Bóng Đá (4 LIVE)",21:45 21/10 Al Jeel vs Al Jandal | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1792311205_hd/1792311205_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="22:00 21/10 Al-Anwar vs Al Wehda" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cpx0l6tv7uc8_a0a22478_20261021.png?v=a0a22478" group-title="⚽ Bóng Đá (4 LIVE)",22:00 21/10 Al-Anwar vs Al Wehda | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
