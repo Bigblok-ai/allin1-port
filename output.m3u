@@ -459,7 +459,7 @@ https://pull.digitalcdn.net/live/4a9ee907bfb1448e952a9fcbd142c4bb/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792550719_hd/1792550719_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 22/10 Xuân Thiện Phú Thọ vs PVF-CAND" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d324d46db8705c85ce_6c142e48_20261021.png?v=6c142e48" group-title="⚽ Bóng Đá (4 LIVE)",18:00 22/10 Xuân Thiện Phú Thọ vs PVF-CAND | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="18:00 22/10 Gia Định vs PVF-CAND FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/pxwrxlhydn2nryk_2599dbf2_20261021.png?v=2599dbf2" group-title="⚽ Bóng Đá (4 LIVE)",18:00 22/10 Gia Định vs PVF-CAND FC | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
@@ -479,6 +479,26 @@ https://khogalive.b-cdn.net/bcdn_token=3lsMy5IgFqP3UuPYzg-wTh7YZR6ew7W8GTccyfyGv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub6.flv
+#EXTINF:-1 tvg-id="" tvg-name="19:15 22/10 Công An Hà Nội vs Thanh Hóa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d324d46db8705c85de_1d4c82d3_20261021.png?v=1d4c82d3" group-title="⚽ Bóng Đá (4 LIVE)",19:15 22/10 Công An Hà Nội vs Thanh Hóa | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1792550882_hd/1792550882_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:15 22/10 Công An Hà Nội vs Thanh Hóa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d324d46db8705c85de_1d4c82d3_20261021.png?v=1d4c82d3" group-title="⚽ Bóng Đá (4 LIVE)",19:15 22/10 Công An Hà Nội vs Thanh Hóa | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://khogalive.b-cdn.net/bcdn_token=94NMTHEad6UpOwuY7elPOUFb0h1wMdcj5SpUVwmlwg0&expires=1855579061&token_path=%2Flive%2Flivehub3/live/livehub3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:15 22/10 Công An Hà Nội vs Thanh Hóa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d324d46db8705c85de_1d4c82d3_20261021.png?v=1d4c82d3" group-title="⚽ Bóng Đá (4 LIVE)",19:15 22/10 Công An Hà Nội vs Thanh Hóa | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://xoiche.live/live/livehub3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:15 22/10 Công An Hà Nội vs Thanh Hóa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d324d46db8705c85de_1d4c82d3_20261021.png?v=1d4c82d3" group-title="⚽ Bóng Đá (4 LIVE)",19:15 22/10 Công An Hà Nội vs Thanh Hóa | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/02d32b317ef8433996880f7e6fa311a5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:00 Al Ahli SC vs Al Khaleej" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/49318_5044a298_20261021.png?v=5044a298" group-title="⚽ Bóng Đá (4 LIVE)",01:00 Al Ahli SC vs Al Khaleej | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
