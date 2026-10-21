@@ -54,16 +54,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 22/10 🔴 Levante vs Athletic Bilbao" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a19924d46db8705369a0_17259a85_20261022.png?v=17259a85" group-title="⚽ Bóng Đá (9 LIVE)",01:00 22/10 🔴 Levante vs Athletic Bilbao | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://ftlh5sc02iliv.vcdn.cloud/1792569512_hd/1792569512_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 22/10 🔴 Levante vs Athletic Bilbao" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a19924d46db8705369a0_17259a85_20261022.png?v=17259a85" group-title="⚽ Bóng Đá (9 LIVE)",01:00 22/10 🔴 Levante vs Athletic Bilbao | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/b067b6aa97bf48919bfac3f4f500fd90/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:00 22/10 🔴 Bayern Munich vs Arsenal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e46_6c51cd4f_20261022.png?v=6c51cd4f" group-title="⚽ Bóng Đá (9 LIVE)",02:00 22/10 🔴 Bayern Munich vs Arsenal | GV 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -289,6 +279,11 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 22/10 🔴 Levante vs Athletic Bilbao" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/k82rekhg41verep_4b145899_20261022.png?v=4b145899" group-title="⚽ Bóng Đá (9 LIVE)",01:00 22/10 🔴 Levante vs Athletic Bilbao | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/b067b6aa97bf48919bfac3f4f500fd90/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="08:00 22/10 Atlas vs Club America" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1551006_cdecd7fa_20261022.png?v=cdecd7fa" group-title="⚽ Bóng Đá (9 LIVE)",08:00 22/10 Atlas vs Club America | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
