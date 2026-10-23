@@ -574,11 +574,6 @@ https://khogalive.b-cdn.net/bcdn_token=FK4zR2467DvcA9Fn4dCuA9l8E2pj4aXUFkktxkc6_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://xoiche.live/live/livehub8/live/livehub8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:30 Persipura Jayapura vs Balikpapan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/49328_94b1416f_20261023.png?v=94b1416f" group-title="⚽ Bóng Đá (1 LIVE)",15:30 Persipura Jayapura vs Balikpapan | PhaoHoa 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://xoiche.live/live/livehub8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15:40 Melbourne Victory vs Melbourne City" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/49348_84145e4f_20261023.png?v=84145e4f" group-title="⚽ Bóng Đá (1 LIVE)",15:40 Melbourne Victory vs Melbourne City | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -624,6 +619,16 @@ https://xoiche.live/live/livehub12/live/livehub12/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub12.flv
+#EXTINF:-1 tvg-id="" tvg-name="19:15 DPMM vs Johor DT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/49522_340a30ec_20261023.png?v=340a30ec" group-title="⚽ Bóng Đá (1 LIVE)",19:15 DPMM vs Johor DT | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://khogalive.b-cdn.net/bcdn_token=FK4zR2467DvcA9Fn4dCuA9l8E2pj4aXUFkktxkc6_GM&expires=1855579061&token_path=%2Flive%2Flivehub8/live/livehub8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:15 DPMM vs Johor DT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/49522_340a30ec_20261023.png?v=340a30ec" group-title="⚽ Bóng Đá (1 LIVE)",19:15 DPMM vs Johor DT | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://xoiche.live/live/livehub8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 Como vs Sassuolo" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/49351_f983f405_20261023.png?v=f983f405" group-title="⚽ Bóng Đá (1 LIVE)",20:00 Como vs Sassuolo | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -859,17 +864,12 @@ https://ftlh5sc02iliv.vcdn.cloud/1792572261_hd/1792572261_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792572293_hd/1792572293_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 23/10 🔴 Anton Raga vs Jefrey Roda" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d8b214a24b_dd226a03_20261023.png?v=dd226a03" group-title="🎱 Billiards (2 LIVE)",13:00 23/10 🔴 Anton Raga vs Jefrey Roda | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live9457/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 23/10 🔴 Jayson Shaw vs Fedor Gorst" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-5adc336c1a_5e1549b0_20261023.png?v=5e1549b0" group-title="🎱 Billiards (2 LIVE)",13:00 23/10 🔴 Jayson Shaw vs Fedor Gorst | Choang
+#EXTINF:-1 tvg-id="" tvg-name="13:00 23/10 🔴 Jayson Shaw vs Fedor Gorst" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-5adc336c1a_5e1549b0_20261023.png?v=5e1549b0" group-title="🎱 Billiards (1 LIVE)",13:00 23/10 🔴 Jayson Shaw vs Fedor Gorst | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9456/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 23/10 Baseth Mocaibat vs Shane Van Boening" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-4fc23d27bd_700c8406_20261023.png?v=700c8406" group-title="🎱 Billiards (2 LIVE)",17:00 23/10 Baseth Mocaibat vs Shane Van Boening | Choang
+#EXTINF:-1 tvg-id="" tvg-name="17:00 23/10 Baseth Mocaibat vs Shane Van Boening" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-4fc23d27bd_700c8406_20261023.png?v=700c8406" group-title="🎱 Billiards (1 LIVE)",17:00 23/10 Baseth Mocaibat vs Shane Van Boening | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
@@ -919,6 +919,11 @@ https://pull.digitalcdn.net/live/8fdcd7da94a144f09b1137f11ca51041/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792578176_hd/1792578176_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="04:00 24/10 MSC Cruises United vs States Grand Prix" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/f86j15g1hgro_7b5d8a9d_20261023.png?v=7b5d8a9d" group-title="🏎️ Đua Xe",04:00 24/10 MSC Cruises United vs States Grand Prix | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1792742669_hd/1792742669_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="22:00 23/10 POWER SLAP 25 vs ABU DHABI" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e3s8vxajrzue_fc5ec4f4_20261023.png?v=fc5ec4f4" group-title="🥊 Võ Thuật",22:00 23/10 POWER SLAP 25 vs ABU DHABI | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
