@@ -384,6 +384,16 @@ https://pull.digitalcdn.net/live/fb5dd8940ca94742a304c211360e09d1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/b62704f3fd09424abeed313253e10571/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 24/10 Rayo Vallecano vs Elche" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695f24d46db87021b0f9_dde16a69_20261023.png?v=dde16a69" group-title="⚽ Bóng Đá (7 LIVE)",19:00 24/10 Rayo Vallecano vs Elche | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1792572096_hd/1792572096_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:00 24/10 Rayo Vallecano vs Elche" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695f24d46db87021b0f9_dde16a69_20261023.png?v=dde16a69" group-title="⚽ Bóng Đá (7 LIVE)",19:00 24/10 Rayo Vallecano vs Elche | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/393e5eda46f545dab1ce5be405c740b5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:45 Brest vs Nice" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/49338_4835eccf_20261023.png?v=4835eccf" group-title="⚽ Bóng Đá (7 LIVE)",01:45 Brest vs Nice | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
