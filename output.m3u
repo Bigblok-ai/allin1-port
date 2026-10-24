@@ -104,6 +104,16 @@ https://xoiche.live/live/livehub5/live/livehub5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://xoiche.live/live/livehub5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 24/10 Kashima Antlers vs Kashiwa Reysol" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acd1_6c8a65d0_20261024.png?v=6c8a65d0" group-title="⚽ Bóng Đá (3 LIVE)",13:00 24/10 Kashima Antlers vs Kashiwa Reysol | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1792819412_hd/1792819412_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 24/10 Tokyo Verdy vs Avispa Fukuoka" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acd8_32f50f68_20261024.png?v=32f50f68" group-title="⚽ Bóng Đá (3 LIVE)",13:00 24/10 Tokyo Verdy vs Avispa Fukuoka | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1792819478_hd/1792819478_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13:00 24/10 Western Sydney Wanderers vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acc7_8834ff81_20261024.png?v=8834ff81" group-title="⚽ Bóng Đá (3 LIVE)",13:00 24/10 Western Sydney Wanderers vs Auckland FC | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -894,12 +904,7 @@ https://ftlh5sc02iliv.vcdn.cloud/1792814085_hd/1792814085_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1792572293_hd/1792572293_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:00 24/10 🔴 Bernie Regalario vs Johann Chua" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-bfd159f942_4d1020f1_20261024.png?v=4d1020f1" group-title="🎱 Billiards (1 LIVE)",11:00 24/10 🔴 Bernie Regalario vs Johann Chua | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live9472/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 24/10 Baseth Mocaibat vs Anton Raga" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-ea08deba8c_4b39158b_20261024.png?v=4b39158b" group-title="🎱 Billiards (1 LIVE)",13:00 24/10 Baseth Mocaibat vs Anton Raga | Choang
+#EXTINF:-1 tvg-id="" tvg-name="13:00 24/10 Baseth Mocaibat vs Anton Raga" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-ea08deba8c_4b39158b_20261024.png?v=4b39158b" group-title="🎱 Billiards",13:00 24/10 Baseth Mocaibat vs Anton Raga | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
