@@ -184,6 +184,11 @@ https://ftlh5sc02iliv.vcdn.cloud/1793087346_hd/1793087346_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="21:00 28/10 FC Goa vs SC Delhi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/965mkyh8ld4lr1g_eacd871c_20261028.png?v=eacd871c" group-title="⚽ Bóng Đá (1 LIVE)",21:00 28/10 FC Goa vs SC Delhi | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/061236a0962b45ec826f6d15ad0adc1e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="21:30 28/10 Erbil vs Al-Ettifaq" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1645605_894b78e3_20261028.png?v=894b78e3" group-title="⚽ Bóng Đá (1 LIVE)",21:30 28/10 Erbil vs Al-Ettifaq | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -199,11 +204,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:30 28/10 Erbil vs Al-Ettifaq" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1645605_894b78e3_20261028.png?v=894b78e3" group-title="⚽ Bóng Đá (1 LIVE)",21:30 28/10 Erbil vs Al-Ettifaq | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/60e9bc6906744017b8d11131989ca220/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="22:05 28/10 Al Jabalain vs Al-Raed" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1604043_03a05bc5_20261028.png?v=03a05bc5" group-title="⚽ Bóng Đá (1 LIVE)",22:05 28/10 Al Jabalain vs Al-Raed | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -694,27 +694,22 @@ https://ftlh5sc02iliv.vcdn.cloud/1793116541_hd/1793116541_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1793116571_hd/1793116571_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:30 28/10 🔴 TKON vs KIÊN FAP" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-e75df8eb70_afca9879_20261028.png?v=afca9879" group-title="🎱 Billiards (5 LIVE)",13:30 28/10 🔴 TKON vs KIÊN FAP | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live9647/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:08 28/10 🔴 KO PING CHUNG vs KO PING HAN" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-45d6b49e88_4e8ebcd9_20261028.png?v=4e8ebcd9" group-title="🎱 Billiards (5 LIVE)",14:08 28/10 🔴 KO PING CHUNG vs KO PING HAN | Choang
+#EXTINF:-1 tvg-id="" tvg-name="14:08 28/10 🔴 KO PING CHUNG vs KO PING HAN" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-45d6b49e88_4e8ebcd9_20261028.png?v=4e8ebcd9" group-title="🎱 Billiards (4 LIVE)",14:08 28/10 🔴 KO PING CHUNG vs KO PING HAN | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9648/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 28/10 🔴 CARLO BIADO vs KONRAD JUSZCZYSZYN" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-616a02d750_4476cc18_20261028.png?v=4476cc18" group-title="🎱 Billiards (5 LIVE)",15:00 28/10 🔴 CARLO BIADO vs KONRAD JUSZCZYSZYN | Choang
+#EXTINF:-1 tvg-id="" tvg-name="15:00 28/10 🔴 CARLO BIADO vs KONRAD JUSZCZYSZYN" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-616a02d750_4476cc18_20261028.png?v=4476cc18" group-title="🎱 Billiards (4 LIVE)",15:00 28/10 🔴 CARLO BIADO vs KONRAD JUSZCZYSZYN | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9644/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 28/10 🔴 Mất Vân Tay vs WOJCIECH SZEWCZYK" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-47cd9bde6c_8654982c_20261028.png?v=8654982c" group-title="🎱 Billiards (5 LIVE)",15:00 28/10 🔴 Mất Vân Tay vs WOJCIECH SZEWCZYK | Choang
+#EXTINF:-1 tvg-id="" tvg-name="15:00 28/10 🔴 Mất Vân Tay vs WOJCIECH SZEWCZYK" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-47cd9bde6c_8654982c_20261028.png?v=8654982c" group-title="🎱 Billiards (4 LIVE)",15:00 28/10 🔴 Mất Vân Tay vs WOJCIECH SZEWCZYK | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9639/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:00 28/10 🔴 DƯƠNG QUỐC HOÀNG vs DANIEL MACIOŁ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1cdb98b865_c510105f_20261028.png?v=c510105f" group-title="🎱 Billiards (5 LIVE)",15:00 28/10 🔴 DƯƠNG QUỐC HOÀNG vs DANIEL MACIOŁ | Choang
+#EXTINF:-1 tvg-id="" tvg-name="15:00 28/10 🔴 DƯƠNG QUỐC HOÀNG vs DANIEL MACIOŁ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1cdb98b865_c510105f_20261028.png?v=c510105f" group-title="🎱 Billiards (4 LIVE)",15:00 28/10 🔴 DƯƠNG QUỐC HOÀNG vs DANIEL MACIOŁ | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
