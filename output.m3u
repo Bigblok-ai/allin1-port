@@ -149,6 +149,11 @@ https://ftlh5sc02iliv.vcdn.cloud/1793115806_hd/1793115806_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/f8c9737cfeb1443793dacf00a9202d51/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="03:45 30/10 Benfica vs Gil Vicente" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z5begr95i5im_6757fff3_20261029.png?v=6757fff3" group-title="⚽ Bóng Đá (1 LIVE)",03:45 30/10 Benfica vs Gil Vicente | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1793115848_hd/1793115848_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="00:00 KuPS vs Gnistan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56039_9f9369bf_20261029.png?v=9f9369bf" group-title="⚽ Bóng Đá (1 LIVE)",00:00 KuPS vs Gnistan | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
