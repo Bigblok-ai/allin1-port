@@ -54,36 +54,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525324d46db8709e43cc_922fd5df_20261030.png?v=922fd5df" group-title="⚽ Bóng Đá (4 LIVE)",16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://eqr2hdarxfliv.vcdn.cloud/1793283006_hd/1793283006_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525324d46db8709e43cc_922fd5df_20261030.png?v=922fd5df" group-title="⚽ Bóng Đá (4 LIVE)",16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525324d46db8709e43cc_922fd5df_20261030.png?v=922fd5df" group-title="⚽ Bóng Đá (4 LIVE)",16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC | CCport 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525324d46db8709e43cc_922fd5df_20261030.png?v=922fd5df" group-title="⚽ Bóng Đá (4 LIVE)",16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC | CCport 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525324d46db8709e43cc_922fd5df_20261030.png?v=922fd5df" group-title="⚽ Bóng Đá (4 LIVE)",16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC | CCport 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525324d46db8709e43cc_922fd5df_20261030.png?v=922fd5df" group-title="⚽ Bóng Đá (4 LIVE)",16:00 30/10 🔴 Brisbane Roar FC vs Auckland FC | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/2290183dcddd46f98d38c174cef7176b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 30/10 🔴 Thanh Hóa vs Hồng Lĩnh Hà Tĩnh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525324d46db8709e43d8_272a77f3_20261030.png?v=272a77f3" group-title="⚽ Bóng Đá (4 LIVE)",17:00 30/10 🔴 Thanh Hóa vs Hồng Lĩnh Hà Tĩnh | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -149,6 +119,31 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/cb3e5dc8404e4166b6bd215c2343a469/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 🔴 Brisbane Roar vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56131_c9c5b767_20261030.png?v=c9c5b767" group-title="⚽ Bóng Đá (4 LIVE)",16:00 🔴 Brisbane Roar vs Auckland FC | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="16:00 🔴 Brisbane Roar vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56131_c9c5b767_20261030.png?v=c9c5b767" group-title="⚽ Bóng Đá (4 LIVE)",16:00 🔴 Brisbane Roar vs Auckland FC | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 🔴 Brisbane Roar vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56131_c9c5b767_20261030.png?v=c9c5b767" group-title="⚽ Bóng Đá (4 LIVE)",16:00 🔴 Brisbane Roar vs Auckland FC | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 🔴 Brisbane Roar vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56131_c9c5b767_20261030.png?v=c9c5b767" group-title="⚽ Bóng Đá (4 LIVE)",16:00 🔴 Brisbane Roar vs Auckland FC | CCport 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16:00 🔴 Brisbane Roar vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56131_c9c5b767_20261030.png?v=c9c5b767" group-title="⚽ Bóng Đá (4 LIVE)",16:00 🔴 Brisbane Roar vs Auckland FC | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/2290183dcddd46f98d38c174cef7176b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 30/10 🔴 Thanh Hóa vs HL Hà Tĩnh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/4wyrn4h6g2wlq86_42cc460a_20261030.png?v=42cc460a" group-title="⚽ Bóng Đá (4 LIVE)",17:00 30/10 🔴 Thanh Hóa vs HL Hà Tĩnh | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -614,12 +609,7 @@ https://eqr2hdarxfliv.vcdn.cloud/1793116541_hd/1793116541_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1793116571_hd/1793116571_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:27 30/10 🔴 phót lằn vs cường tỏi" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-fbcf742481_5e249a42_20261030.png?v=5e249a42" group-title="🎱 Billiards (2 LIVE)",16:27 30/10 🔴 phót lằn vs cường tỏi | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live9705/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:19 30/10 🔴 KEN CARDONA vs KENJIE “VAMPIRE" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-3c0ea36b80_592e360d_20261030.png?v=592e360d" group-title="🎱 Billiards (2 LIVE)",17:19 30/10 🔴 KEN CARDONA vs KENJIE “VAMPIRE | Choang
+#EXTINF:-1 tvg-id="" tvg-name="17:19 30/10 🔴 KEN CARDONA vs KENJIE “VAMPIRE" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-3c0ea36b80_592e360d_20261030.png?v=592e360d" group-title="🎱 Billiards (1 LIVE)",17:19 30/10 🔴 KEN CARDONA vs KENJIE “VAMPIRE | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
