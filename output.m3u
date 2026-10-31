@@ -234,6 +234,11 @@ https://pull.digitalcdn.net/live/85b2ac1ae0e542b184956d826e173619/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/5056e4000d0c4afaa46bdf0bd12f755b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 31/10 Al-Arabi SC vs Al Rayyan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae13b2e24d46db870595634_739d5b34_20261031.png?v=739d5b34" group-title="⚽ Bóng Đá (10 LIVE)",23:30 31/10 Al-Arabi SC vs Al Rayyan | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://ftlh5sc02iliv.vcdn.cloud/1793460537_hd/1793460537_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="00:00 01/11 Udinese vs AS Roma" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf54e24d46db8700db40b_201454e6_20261031.png?v=201454e6" group-title="⚽ Bóng Đá (10 LIVE)",00:00 01/11 Udinese vs AS Roma | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
