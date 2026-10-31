@@ -54,11 +54,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 31/10 🔴 Bangkok United FC vs Uthai Thani FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ade982d24d46db870e5309e_006e2785_20261031.png?v=006e2785" group-title="⚽ Bóng Đá (7 LIVE)",19:00 31/10 🔴 Bangkok United FC vs Uthai Thani FC | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793283849_hd/1793283849_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="19:30 31/10 🔴 Chelsea FC vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06fd_407048eb_20261031.png?v=407048eb" group-title="⚽ Bóng Đá (7 LIVE)",19:30 31/10 🔴 Chelsea FC vs Manchester United | GV 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -154,6 +149,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/802cd5acdac04b92aa9735b5bda92b26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:30 31/10 🔴 Schalke 04 vs RB Leipzig" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3de24d46db8704c5dd3_6ba975f3_20261031.png?v=6ba975f3" group-title="⚽ Bóng Đá (7 LIVE)",21:30 31/10 🔴 Schalke 04 vs RB Leipzig | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793455086_hd/1793455086_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21:30 31/10 🔴 Schalke 04 vs RB Leipzig" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3de24d46db8704c5dd3_6ba975f3_20261031.png?v=6ba975f3" group-title="⚽ Bóng Đá (7 LIVE)",21:30 31/10 🔴 Schalke 04 vs RB Leipzig | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
 #EXTINF:-1 tvg-id="" tvg-name="19:30 🔴 Chelsea vs Manchester Utd" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/57241_e84af305_20261031.png?v=e84af305" group-title="⚽ Bóng Đá (7 LIVE)",19:30 🔴 Chelsea vs Manchester Utd | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -634,16 +639,6 @@ https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub11.flv
-#EXTINF:-1 tvg-id="" tvg-name="21:00 Lazio vs Cagliari" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/59456_9b54b379_20261031.png?v=9b54b379" group-title="⚽ Bóng Đá (7 LIVE)",21:00 Lazio vs Cagliari | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="21:30 Schalke vs RB Leipzig" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/57696_f1770ce2_20261031.png?v=f1770ce2" group-title="⚽ Bóng Đá (7 LIVE)",21:30 Schalke vs RB Leipzig | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
 #EXTINF:-1 tvg-id="" tvg-name="21:30 Union Berlin vs FC Koln" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/59517_df6c0b18_20261031.png?v=df6c0b18" group-title="⚽ Bóng Đá (7 LIVE)",21:30 Union Berlin vs FC Koln | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -804,6 +799,11 @@ https://cdn.sports-cas889abxfileposo.site/live/live9727/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9728/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="03:00 01/11 Barcelona vs Alavés" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d92072d944_68d9dd18_20261031.png?v=68d9dd18" group-title="🎱 Billiards (3 LIVE)",03:00 01/11 Barcelona vs Alavés | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live9729/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="20:00 🔴 On Hotels Alanya Belediyespor vs Ziraat Bankkart" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/38831_f124fb81_20261031.png?v=f124fb81" group-title="🏐 Bóng Chuyền (1 LIVE)",20:00 🔴 On Hotels Alanya Belediyespor vs Ziraat Bankkart | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
