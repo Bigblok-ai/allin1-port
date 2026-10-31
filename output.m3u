@@ -54,16 +54,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 🔴 Juarez vs Queretaro" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56827_541fe3e8_20261031.png?v=541fe3e8" group-title="⚽ Bóng Đá (4 LIVE)",03:00 🔴 Juarez vs Queretaro | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_f3d9c6a005/index.m3u8?token=rr1el4pzxOrMeroS7m-gXYnBMw8InO7dtXeJtJksyhA&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="03:00 🔴 Juarez vs Queretaro" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56827_541fe3e8_20261031.png?v=541fe3e8" group-title="⚽ Bóng Đá (4 LIVE)",03:00 🔴 Juarez vs Queretaro | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub12.flv
 #EXTINF:-1 tvg-id="" tvg-name="08:00 🔴 Kashima Antlers vs Cerezo Osaka" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56887_30127bd8_20261031.png?v=30127bd8" group-title="⚽ Bóng Đá (4 LIVE)",08:00 🔴 Kashima Antlers vs Cerezo Osaka | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -79,6 +69,16 @@ https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="09:00 🔴 Kashiwa Reysol vs Urawa Reds" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56911_073cf1d2_20261031.png?v=073cf1d2" group-title="⚽ Bóng Đá (4 LIVE)",09:00 🔴 Kashiwa Reysol vs Urawa Reds | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="09:00 🔴 Kashiwa Reysol vs Urawa Reds" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56911_073cf1d2_20261031.png?v=073cf1d2" group-title="⚽ Bóng Đá (4 LIVE)",09:00 🔴 Kashiwa Reysol vs Urawa Reds | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://live.khoga.space/live/livehub13.flv
 #EXTINF:-1 tvg-id="" tvg-name="10:00 31/10 Puebla vs U.N.A.M. - Pumas" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1551022_322b9cd8_20261031.png?v=322b9cd8" group-title="⚽ Bóng Đá (4 LIVE)",10:00 31/10 Puebla vs U.N.A.M. - Pumas | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -659,16 +659,6 @@ https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub13.flv
-#EXTINF:-1 tvg-id="" tvg-name="09:00 Kashiwa Reysol vs Urawa Reds" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56911_073cf1d2_20261031.png?v=073cf1d2" group-title="⚽ Bóng Đá (4 LIVE)",09:00 Kashiwa Reysol vs Urawa Reds | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="09:00 Kashiwa Reysol vs Urawa Reds" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/56911_073cf1d2_20261031.png?v=073cf1d2" group-title="⚽ Bóng Đá (4 LIVE)",09:00 Kashiwa Reysol vs Urawa Reds | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub13.flv
 #EXTINF:-1 tvg-id="" tvg-name="09:30 Seoul vs Incheon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/58839_d92a6f1e_20261031.png?v=d92a6f1e" group-title="⚽ Bóng Đá (4 LIVE)",09:30 Seoul vs Incheon | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -809,142 +799,137 @@ https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://live.khoga.space/live/livehub13.flv
-#EXTINF:-1 tvg-id="" tvg-name="06:30 31/10 🔴 Brooklyn Nets vs Detroit Pistons" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37618271_c202f7d1_20261031.png?v=c202f7d1" group-title="🏀 Bóng Rổ (8 LIVE)",06:30 31/10 🔴 Brooklyn Nets vs Detroit Pistons | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793352740_hd/1793352740_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:30 31/10 🔴 Philadelphia 76ers vs New York Knicks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38618272_1a9dc544_20261031.png?v=1a9dc544" group-title="🏀 Bóng Rổ (8 LIVE)",06:30 31/10 🔴 Philadelphia 76ers vs New York Knicks | GV
+#EXTINF:-1 tvg-id="" tvg-name="06:30 31/10 🔴 Philadelphia 76ers vs New York Knicks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38618272_1a9dc544_20261031.png?v=1a9dc544" group-title="🏀 Bóng Rổ (7 LIVE)",06:30 31/10 🔴 Philadelphia 76ers vs New York Knicks | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793116512_hd/1793116512_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:30 31/10 🔴 Boston Celtics vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36618270_1731e63a_20261031.png?v=1731e63a" group-title="🏀 Bóng Rổ (8 LIVE)",06:30 31/10 🔴 Boston Celtics vs Chicago Bulls | GV
+#EXTINF:-1 tvg-id="" tvg-name="06:30 31/10 🔴 Boston Celtics vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36618270_1731e63a_20261031.png?v=1731e63a" group-title="🏀 Bóng Rổ (7 LIVE)",06:30 31/10 🔴 Boston Celtics vs Chicago Bulls | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://eqr2hdarxfliv.vcdn.cloud/1793116541_hd/1793116541_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:30 31/10 🔴 Toronto Raptors vs Orlando Magic" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39618273_f78ad5e4_20261031.png?v=f78ad5e4" group-title="🏀 Bóng Rổ (8 LIVE)",06:30 31/10 🔴 Toronto Raptors vs Orlando Magic | GV
+#EXTINF:-1 tvg-id="" tvg-name="06:30 31/10 🔴 Toronto Raptors vs Orlando Magic" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39618273_f78ad5e4_20261031.png?v=f78ad5e4" group-title="🏀 Bóng Rổ (7 LIVE)",06:30 31/10 🔴 Toronto Raptors vs Orlando Magic | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793116571_hd/1793116571_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 31/10 🔴 Minnesota Timberwolves vs Los Angeles Clippers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22718277_3bf22410_20261031.png?v=3bf22410" group-title="🏀 Bóng Rổ (8 LIVE)",07:00 31/10 🔴 Minnesota Timberwolves vs Los Angeles Clippers | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:00 31/10 🔴 Minnesota Timberwolves vs Los Angeles Clippers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22718277_3bf22410_20261031.png?v=3bf22410" group-title="🏀 Bóng Rổ (7 LIVE)",07:00 31/10 🔴 Minnesota Timberwolves vs Los Angeles Clippers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793374382_hd/1793374382_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 31/10 🔴 Dallas Mavericks vs Houston Rockets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20718275_ba6ec2ed_20261031.png?v=ba6ec2ed" group-title="🏀 Bóng Rổ (8 LIVE)",07:00 31/10 🔴 Dallas Mavericks vs Houston Rockets | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:00 31/10 🔴 Dallas Mavericks vs Houston Rockets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20718275_ba6ec2ed_20261031.png?v=ba6ec2ed" group-title="🏀 Bóng Rổ (7 LIVE)",07:00 31/10 🔴 Dallas Mavericks vs Houston Rockets | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793374416_hd/1793374416_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 31/10 🔴 Miami Heat vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21718276_6007c450_20261031.png?v=6007c450" group-title="🏀 Bóng Rổ (8 LIVE)",07:00 31/10 🔴 Miami Heat vs Indiana Pacers | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:00 31/10 🔴 Miami Heat vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21718276_6007c450_20261031.png?v=6007c450" group-title="🏀 Bóng Rổ (7 LIVE)",07:00 31/10 🔴 Miami Heat vs Indiana Pacers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793374438_hd/1793374438_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:00 31/10 🔴 Phoenix Suns vs Denver Nuggets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24718279_71f3f260_20261031.png?v=71f3f260" group-title="🏀 Bóng Rổ (8 LIVE)",09:00 31/10 🔴 Phoenix Suns vs Denver Nuggets | GV
+#EXTINF:-1 tvg-id="" tvg-name="09:00 31/10 🔴 Phoenix Suns vs Denver Nuggets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24718279_71f3f260_20261031.png?v=71f3f260" group-title="🏀 Bóng Rổ (7 LIVE)",09:00 31/10 🔴 Phoenix Suns vs Denver Nuggets | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793374463_hd/1793374463_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:00 31/10 Golden State Warriors vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23718278_e5bf5146_20261031.png?v=e5bf5146" group-title="🏀 Bóng Rổ (8 LIVE)",09:00 31/10 Golden State Warriors vs Los Angeles Lakers | GV
+#EXTINF:-1 tvg-id="" tvg-name="09:00 31/10 Golden State Warriors vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23718278_e5bf5146_20261031.png?v=e5bf5146" group-title="🏀 Bóng Rổ (7 LIVE)",09:00 31/10 Golden State Warriors vs Los Angeles Lakers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793374491_hd/1793374491_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 31/10 Anyang Jung Kwan Jang vs Suwon KT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/we70f9611v4k_f9f012dd_20261031.png?v=f9f012dd" group-title="🏀 Bóng Rổ (8 LIVE)",12:00 31/10 Anyang Jung Kwan Jang vs Suwon KT | GV
+#EXTINF:-1 tvg-id="" tvg-name="12:00 31/10 Anyang Jung Kwan Jang vs Suwon KT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/we70f9611v4k_f9f012dd_20261031.png?v=f9f012dd" group-title="🏀 Bóng Rổ (7 LIVE)",12:00 31/10 Anyang Jung Kwan Jang vs Suwon KT | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793374520_hd/1793374520_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 31/10 KCC Egis vs Wonju DB Promy" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lf2bd3fp0d2q_c2092d45_20261031.png?v=c2092d45" group-title="🏀 Bóng Rổ (8 LIVE)",12:00 31/10 KCC Egis vs Wonju DB Promy | GV
+#EXTINF:-1 tvg-id="" tvg-name="12:00 31/10 KCC Egis vs Wonju DB Promy" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lf2bd3fp0d2q_c2092d45_20261031.png?v=c2092d45" group-title="🏀 Bóng Rổ (7 LIVE)",12:00 31/10 KCC Egis vs Wonju DB Promy | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793374698_hd/1793374698_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:30 31/10 KOGAS vs Mobis Phoebus" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9my8chqofdnh_95219040_20261031.png?v=95219040" group-title="🏀 Bóng Rổ (8 LIVE)",14:30 31/10 KOGAS vs Mobis Phoebus | GV
+#EXTINF:-1 tvg-id="" tvg-name="14:30 31/10 KOGAS vs Mobis Phoebus" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9my8chqofdnh_95219040_20261031.png?v=95219040" group-title="🏀 Bóng Rổ (7 LIVE)",14:30 31/10 KOGAS vs Mobis Phoebus | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793374859_hd/1793374859_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 01/11 Utah Jazz vs Portland Trail Blazers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30888273_6de54e0c_20261031.png?v=6de54e0c" group-title="🏀 Bóng Rổ (8 LIVE)",02:00 01/11 Utah Jazz vs Portland Trail Blazers | GV
+#EXTINF:-1 tvg-id="" tvg-name="02:00 01/11 Utah Jazz vs Portland Trail Blazers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30888273_6de54e0c_20261031.png?v=6de54e0c" group-title="🏀 Bóng Rổ (7 LIVE)",02:00 01/11 Utah Jazz vs Portland Trail Blazers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1793376852_hd/1793376852_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="05:00 01/11 Charlotte Hornets vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34928272_d18a97bb_20261031.png?v=d18a97bb" group-title="🏀 Bóng Rổ (8 LIVE)",05:00 01/11 Charlotte Hornets vs Philadelphia 76ers | GV
+#EXTINF:-1 tvg-id="" tvg-name="05:00 01/11 Charlotte Hornets vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34928272_d18a97bb_20261031.png?v=d18a97bb" group-title="🏀 Bóng Rổ (7 LIVE)",05:00 01/11 Charlotte Hornets vs Philadelphia 76ers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1793376909_hd/1793376909_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:00 01/11 New Orleans Pelicans vs Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31888274_6efa28e3_20261031.png?v=6efa28e3" group-title="🏀 Bóng Rổ (8 LIVE)",06:00 01/11 New Orleans Pelicans vs Atlanta Hawks | GV
+#EXTINF:-1 tvg-id="" tvg-name="06:00 01/11 New Orleans Pelicans vs Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31888274_6efa28e3_20261031.png?v=6efa28e3" group-title="🏀 Bóng Rổ (7 LIVE)",06:00 01/11 New Orleans Pelicans vs Atlanta Hawks | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1793376961_hd/1793376961_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 01/11 Golden State Valkyries vs Atlanta Dream" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21091573_ec8579d0_20261031.png?v=ec8579d0" group-title="🏀 Bóng Rổ (8 LIVE)",07:00 01/11 Golden State Valkyries vs Atlanta Dream | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:00 01/11 Golden State Valkyries vs Atlanta Dream" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21091573_ec8579d0_20261031.png?v=ec8579d0" group-title="🏀 Bóng Rổ (7 LIVE)",07:00 01/11 Golden State Valkyries vs Atlanta Dream | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793374986_hd/1793374986_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 01/11 Milwaukee Bucks vs Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35928273_9395b804_20261031.png?v=9395b804" group-title="🏀 Bóng Rổ (8 LIVE)",07:00 01/11 Milwaukee Bucks vs Cleveland Cavaliers | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:00 01/11 Milwaukee Bucks vs Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35928273_9395b804_20261031.png?v=9395b804" group-title="🏀 Bóng Rổ (7 LIVE)",07:00 01/11 Milwaukee Bucks vs Cleveland Cavaliers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793375015_hd/1793375015_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 01/11 San Antonio Spurs vs Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32888275_2f660a74_20261031.png?v=2f660a74" group-title="🏀 Bóng Rổ (8 LIVE)",07:00 01/11 San Antonio Spurs vs Minnesota Timberwolves | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:00 01/11 San Antonio Spurs vs Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32888275_2f660a74_20261031.png?v=2f660a74" group-title="🏀 Bóng Rổ (7 LIVE)",07:00 01/11 San Antonio Spurs vs Minnesota Timberwolves | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793375050_hd/1793375050_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 01/11 Memphis Grizzlies vs Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33888276_a010083d_20261031.png?v=a010083d" group-title="🏀 Bóng Rổ (8 LIVE)",07:00 01/11 Memphis Grizzlies vs Sacramento Kings | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:00 01/11 Memphis Grizzlies vs Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33888276_a010083d_20261031.png?v=a010083d" group-title="🏀 Bóng Rổ (7 LIVE)",07:00 01/11 Memphis Grizzlies vs Sacramento Kings | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793375085_hd/1793375085_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 01/11 Houston Rockets vs Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34888277_e429a364_20261031.png?v=e429a364" group-title="🏀 Bóng Rổ (8 LIVE)",07:30 01/11 Houston Rockets vs Oklahoma City Thunder | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:30 01/11 Houston Rockets vs Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34888277_e429a364_20261031.png?v=e429a364" group-title="🏀 Bóng Rổ (7 LIVE)",07:30 01/11 Houston Rockets vs Oklahoma City Thunder | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793375114_hd/1793375114_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:00 01/11 South East Melbourne Phoenix vs Tasmania JackJumpers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21622270_d734c02d_20261031.png?v=d734c02d" group-title="🏀 Bóng Rổ (8 LIVE)",11:00 01/11 South East Melbourne Phoenix vs Tasmania JackJumpers | GV
+#EXTINF:-1 tvg-id="" tvg-name="11:00 01/11 South East Melbourne Phoenix vs Tasmania JackJumpers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21622270_d734c02d_20261031.png?v=d734c02d" group-title="🏀 Bóng Rổ (7 LIVE)",11:00 01/11 South East Melbourne Phoenix vs Tasmania JackJumpers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793375147_hd/1793375147_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 01/11 Goyang Sono vs Suwon KT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yz9rq3y3paww_f272d100_20261031.png?v=f272d100" group-title="🏀 Bóng Rổ (8 LIVE)",12:00 01/11 Goyang Sono vs Suwon KT | GV
+#EXTINF:-1 tvg-id="" tvg-name="12:00 01/11 Goyang Sono vs Suwon KT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yz9rq3y3paww_f272d100_20261031.png?v=f272d100" group-title="🏀 Bóng Rổ (7 LIVE)",12:00 01/11 Goyang Sono vs Suwon KT | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793375320_hd/1793375320_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 01/11 LG Sakers vs Wonju DB" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1ti63htfw6jg_6f834a73_20261031.png?v=6f834a73" group-title="🏀 Bóng Rổ (8 LIVE)",12:00 01/11 LG Sakers vs Wonju DB | GV
+#EXTINF:-1 tvg-id="" tvg-name="12:00 01/11 LG Sakers vs Wonju DB" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1ti63htfw6jg_6f834a73_20261031.png?v=6f834a73" group-title="🏀 Bóng Rổ (7 LIVE)",12:00 01/11 LG Sakers vs Wonju DB | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793375402_hd/1793375402_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 01/11 Adelaide 36ers vs Brisbane Bullets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22622271_d9b59df1_20261031.png?v=d9b59df1" group-title="🏀 Bóng Rổ (8 LIVE)",13:00 01/11 Adelaide 36ers vs Brisbane Bullets | GV
+#EXTINF:-1 tvg-id="" tvg-name="13:00 01/11 Adelaide 36ers vs Brisbane Bullets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22622271_d9b59df1_20261031.png?v=d9b59df1" group-title="🏀 Bóng Rổ (7 LIVE)",13:00 01/11 Adelaide 36ers vs Brisbane Bullets | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793375471_hd/1793375471_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:30 02/11 Orlando Magic vs Boston Celtics" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36928274_8d6494b7_20261031.png?v=8d6494b7" group-title="🏀 Bóng Rổ (8 LIVE)",03:30 02/11 Orlando Magic vs Boston Celtics | GV
+#EXTINF:-1 tvg-id="" tvg-name="03:30 02/11 Orlando Magic vs Boston Celtics" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36928274_8d6494b7_20261031.png?v=8d6494b7" group-title="🏀 Bóng Rổ (7 LIVE)",03:30 02/11 Orlando Magic vs Boston Celtics | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1793377235_hd/1793377235_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="05:00 02/11 Indiana Pacers vs Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/379282755_49274035_20261031.png?v=49274035" group-title="🏀 Bóng Rổ (8 LIVE)",05:00 02/11 Indiana Pacers vs Brooklyn Nets | GV
+#EXTINF:-1 tvg-id="" tvg-name="05:00 02/11 Indiana Pacers vs Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/379282755_49274035_20261031.png?v=49274035" group-title="🏀 Bóng Rổ (7 LIVE)",05:00 02/11 Indiana Pacers vs Brooklyn Nets | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1793377014_hd/1793377014_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:30 02/11 Golden State Warriors vs Los Angeles Clippers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35888278_613a6ce6_20261031.png?v=613a6ce6" group-title="🏀 Bóng Rổ (8 LIVE)",08:30 02/11 Golden State Warriors vs Los Angeles Clippers | GV
+#EXTINF:-1 tvg-id="" tvg-name="08:30 02/11 Golden State Warriors vs Los Angeles Clippers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35888278_613a6ce6_20261031.png?v=613a6ce6" group-title="🏀 Bóng Rổ (7 LIVE)",08:30 02/11 Golden State Warriors vs Los Angeles Clippers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://ftlh5sc02iliv.vcdn.cloud/1793377291_hd/1793377291_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:00 02/11 Los Angeles Lakers vs Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36888279_f1248a64_20261031.png?v=f1248a64" group-title="🏀 Bóng Rổ (8 LIVE)",09:00 02/11 Los Angeles Lakers vs Toronto Raptors | GV
+#EXTINF:-1 tvg-id="" tvg-name="09:00 02/11 Los Angeles Lakers vs Toronto Raptors" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36888279_f1248a64_20261031.png?v=f1248a64" group-title="🏀 Bóng Rổ (7 LIVE)",09:00 02/11 Los Angeles Lakers vs Toronto Raptors | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
