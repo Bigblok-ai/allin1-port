@@ -54,21 +54,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 01/11 🔴 Liverpool vs Arsenal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0701_aa5dff36_20261102.png?v=aa5dff36" group-title="⚽ Bóng Đá (5 LIVE)",23:30 01/11 🔴 Liverpool vs Arsenal | GV 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793376432_hd/1793376432_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 01/11 🔴 Liverpool vs Arsenal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0701_aa5dff36_20261102.png?v=aa5dff36" group-title="⚽ Bóng Đá (5 LIVE)",23:30 01/11 🔴 Liverpool vs Arsenal | GV 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793376434_hd/1793376434_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 01/11 🔴 Liverpool vs Arsenal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0701_aa5dff36_20261102.png?v=aa5dff36" group-title="⚽ Bóng Đá (5 LIVE)",23:30 01/11 🔴 Liverpool vs Arsenal | GV 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793376437_hd/1793376437_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:59 01/11 🔴 Lecce vs Genoa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cd24d46db870f8ab32_e15652ef_20261102.png?v=e15652ef" group-title="⚽ Bóng Đá (5 LIVE)",23:59 01/11 🔴 Lecce vs Genoa | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -104,6 +89,11 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/55475049dc8d4ed9835a050cf5826d15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02:00 02/11 🔴 Palmeiras vs Vasco Gama" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa1f4090eec5464580631ee_ca4a2fa0_20261102.png?v=ca4a2fa0" group-title="⚽ Bóng Đá (5 LIVE)",02:00 02/11 🔴 Palmeiras vs Vasco Gama | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793509307_hd/1793509307_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="00:00 🔴 Lecce vs Genoa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/60048_c8ac498a_20261102.png?v=c8ac498a" group-title="⚽ Bóng Đá (5 LIVE)",00:00 🔴 Lecce vs Genoa | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -124,11 +114,6 @@ https://pzhgifbkllliv.vcdn.cloud/1793447195_hd/1793447195_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793447220_hd/1793447220_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 02/11 Palmeiras vs Vasco Gama" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa1f4090eec5464580631ee_ca4a2fa0_20261102.png?v=ca4a2fa0" group-title="⚽ Bóng Đá (5 LIVE)",02:00 02/11 Palmeiras vs Vasco Gama | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793509307_hd/1793509307_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:45 02/11 Juventus vs Napoli" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cf24d46db870f8ae1c_6b1a901a_20261102.png?v=6b1a901a" group-title="⚽ Bóng Đá (5 LIVE)",02:45 02/11 Juventus vs Napoli | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -484,47 +469,42 @@ https://cdn.sports-cas889abxfileposo.site/live/live9768/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9756/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 01/11 🔴 Fenerbahce Nữ vs Galatasaray Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j04ixz6zis0p_56ecd985_20261102.png?v=56ecd985" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 01/11 🔴 Fenerbahce Nữ vs Galatasaray Nữ | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793509469_hd/1793509469_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 02/11 Thể Công Tân Cảng vs TP.HỒ CHÍ MINH" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/aedb79ff36564ab1a07008d7ad9e553d_f4a02287_20261102.png?v=f4a02287" group-title="🏐 Bóng Chuyền (1 LIVE)",12:00 02/11 Thể Công Tân Cảng vs TP.HỒ CHÍ MINH | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 02/11 Thể Công Tân Cảng vs TP.HỒ CHÍ MINH" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/aedb79ff36564ab1a07008d7ad9e553d_f4a02287_20261102.png?v=f4a02287" group-title="🏐 Bóng Chuyền",12:00 02/11 Thể Công Tân Cảng vs TP.HỒ CHÍ MINH | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/db73486d222f4a46a639e611a0db521c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:30 02/11 Công an TP.HCM vs Biên Phòng MB" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/18a84ba4e87f4ed69d711fd7810c19b9_1d650c83_20261102.png?v=1d650c83" group-title="🏐 Bóng Chuyền (1 LIVE)",14:30 02/11 Công an TP.HCM vs Biên Phòng MB | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="14:30 02/11 Công an TP.HCM vs Biên Phòng MB" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/18a84ba4e87f4ed69d711fd7810c19b9_1d650c83_20261102.png?v=1d650c83" group-title="🏐 Bóng Chuyền",14:30 02/11 Công an TP.HCM vs Biên Phòng MB | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/343f420c818144cfa41888700f6fcc28/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 02/11 Đà Nẵng vs Sanest Khánh Hòa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/26d7a6ebb6c644e39b0625772260ae10_4d7787e4_20261102.png?v=4d7787e4" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 02/11 Đà Nẵng vs Sanest Khánh Hòa | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="17:00 02/11 Đà Nẵng vs Sanest Khánh Hòa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/26d7a6ebb6c644e39b0625772260ae10_4d7787e4_20261102.png?v=4d7787e4" group-title="🏐 Bóng Chuyền",17:00 02/11 Đà Nẵng vs Sanest Khánh Hòa | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/9d72991cf5264e129ded4cc354d66097/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:30 02/11 Hà Nội vs LP Bank Ninh Bình" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b7d23af412f94e4bb53b8bc4534ddfe9_fc13e053_20261102.png?v=fc13e053" group-title="🏐 Bóng Chuyền (1 LIVE)",19:30 02/11 Hà Nội vs LP Bank Ninh Bình | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="19:30 02/11 Hà Nội vs LP Bank Ninh Bình" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/b7d23af412f94e4bb53b8bc4534ddfe9_fc13e053_20261102.png?v=fc13e053" group-title="🏐 Bóng Chuyền",19:30 02/11 Hà Nội vs LP Bank Ninh Bình | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/a0e4e5649cda4a5b974f113bb7bbf98c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 03/11 IBK nữ vs Hyundai E&C Hillstate Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rs8lejvvo4t3_559bd133_20261102.png?v=559bd133" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 03/11 IBK nữ vs Hyundai E&C Hillstate Nữ | GV
+#EXTINF:-1 tvg-id="" tvg-name="17:00 03/11 IBK nữ vs Hyundai E&C Hillstate Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rs8lejvvo4t3_559bd133_20261102.png?v=559bd133" group-title="🏐 Bóng Chuyền",17:00 03/11 IBK nữ vs Hyundai E&C Hillstate Nữ | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793510396_hd/1793510396_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 03/11 Istanbul GSK vs Gaziantep Genclik" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wnajhl4t9yni_348ecb6b_20261102.png?v=348ecb6b" group-title="🏐 Bóng Chuyền (1 LIVE)",21:00 03/11 Istanbul GSK vs Gaziantep Genclik | GV
+#EXTINF:-1 tvg-id="" tvg-name="21:00 03/11 Istanbul GSK vs Gaziantep Genclik" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wnajhl4t9yni_348ecb6b_20261102.png?v=348ecb6b" group-title="🏐 Bóng Chuyền",21:00 03/11 Istanbul GSK vs Gaziantep Genclik | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793510444_hd/1793510444_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 03/11 Ziraat Bankasi vs Sungurlu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1zn5qyanvn6m_d8c242b5_20261102.png?v=d8c242b5" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 03/11 Ziraat Bankasi vs Sungurlu | GV
+#EXTINF:-1 tvg-id="" tvg-name="23:00 03/11 Ziraat Bankasi vs Sungurlu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1zn5qyanvn6m_d8c242b5_20261102.png?v=d8c242b5" group-title="🏐 Bóng Chuyền",23:00 03/11 Ziraat Bankasi vs Sungurlu | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793516360_hd/1793516360_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 03/11 Ziraat Bankasi vs Sungurlu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1zn5qyanvn6m_d8c242b5_20261102.png?v=d8c242b5" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 03/11 Ziraat Bankasi vs Sungurlu | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="23:00 03/11 Ziraat Bankasi vs Sungurlu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1zn5qyanvn6m_d8c242b5_20261102.png?v=d8c242b5" group-title="🏐 Bóng Chuyền",23:00 03/11 Ziraat Bankasi vs Sungurlu | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
