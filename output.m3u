@@ -1,34 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="VTV1" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV1 | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV2" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV2 | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV3" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV3 | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV4" tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV4 | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vietnam Today" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",Vietnam Today | fptplay
-https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV5" tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV5 | fptplay
-#EXTHTTP:{"User-Agent":"cvmedia/1.1.0"}
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV5 Tây Nam Bộ | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV5 Tây Nguyên | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV6" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV6 | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV7" tvg-logo="https://r2.epg.io.vn/2026-09-17/9.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV7 | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV8" tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV8 | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV9" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV9 | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_2800000=10001-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV10" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV10 | fptplay
-https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HTV Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",HTV Thể Thao | fptplay
-https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV1" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV1 | freem3u
+https://freem3u.xyz/api/live/play.m3u8?vid=2
+#EXTINF:-1 tvg-id="" tvg-name="VTV2" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV2 | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv2
+#EXTINF:-1 tvg-id="" tvg-name="VTV3" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV3 | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv3
+#EXTINF:-1 tvg-id="" tvg-name="VTV4" tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV4 | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv4
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam Today" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",Vietnam Today | freem3u
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
+#EXTINF:-1 tvg-id="" tvg-name="VTV5" tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV5 | freem3u
+https://freem3u.xyz/api/live/play.m3u8?vid=110
+#EXTINF:-1 tvg-id="" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV5 Tây Nam Bộ | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
+#EXTINF:-1 tvg-id="" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV5 Tây Nguyên | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+#EXTINF:-1 tvg-id="" tvg-name="VTV6" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV6 | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv6
+#EXTINF:-1 tvg-id="" tvg-name="VTV7" tvg-logo="https://r2.epg.io.vn/2026-09-17/9.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV7 | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-id="" tvg-name="VTV8" tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV8 | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv8
+#EXTINF:-1 tvg-id="" tvg-name="VTV9" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV9 | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv9
+#EXTINF:-1 tvg-id="" tvg-name="VTV10" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTV10 | dpdns
+https://vmttv.dpdns.org/tv360/?id=vtv10
+#EXTINF:-1 tvg-id="" tvg-name="HTV Thể Thao" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",HTV Thể Thao | dpdns
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 #EXTINF:-1 tvg-id="" tvg-name="VTVPrime 6" tvg-logo="https://vtvprime.vn/sideLogoBig.png" group-title="📺 Kênh Truyền Hình (19 LIVE)",VTVPrime 6 | vtvprime
 #EXTHTTP:{"User-Agent":"Dalvik/2.1.0"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
