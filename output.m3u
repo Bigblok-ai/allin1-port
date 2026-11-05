@@ -52,6 +52,31 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793809012_hd/1793809012_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | CCport 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 FC Machida Zelvia vs Shanghai Shenhua" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9571_9f902b84_20261105.png?v=9f902b84" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 FC Machida Zelvia vs Shanghai Shenhua | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -82,31 +107,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/d0ea1d52cfe1415b89110d50f94281b6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793809012_hd/1793809012_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | CCport 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | CCport 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd95_bedd467d_20261105.png?v=bedd467d" group-title="⚽ Bóng Đá (4 LIVE)",17:00 05/11 🔴 Lion City Sailors vs Adelaide United FC | CCport 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="16:30 🔴 Pakistan vs Ấn Độ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/67691_c9f15e0c_20261105.png?v=c9f15e0c" group-title="⚽ Bóng Đá (4 LIVE)",16:30 🔴 Pakistan vs Ấn Độ | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -647,32 +647,32 @@ https://pzhgifbkllliv.vcdn.cloud/1793854633_hd/1793854633_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793865233_hd/1793865233_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:30 05/11 🔴 Cairns Taipans vs Illawarra Hawks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25622274_c875ef3e_20261105.png?v=c875ef3e" group-title="🏀 Bóng Rổ (1 LIVE)",15:30 05/11 🔴 Cairns Taipans vs Illawarra Hawks | GV
+#EXTINF:-1 tvg-id="" tvg-name="15:30 05/11 🔴 Cairns Taipans vs Illawarra Hawks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25622274_c875ef3e_20261105.png?v=c875ef3e" group-title="🏀 Bóng Rổ (2 LIVE)",15:30 05/11 🔴 Cairns Taipans vs Illawarra Hawks | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793637593_hd/1793637593_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 Mobis Phoebus vs Seoul Thunders" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zasdk3enx85h_4d4361e9_20261105.png?v=4d4361e9" group-title="🏀 Bóng Rổ (1 LIVE)",17:00 05/11 Mobis Phoebus vs Seoul Thunders | GV
+#EXTINF:-1 tvg-id="" tvg-name="17:00 05/11 🔴 Mobis Phoebus vs Seoul Thunders" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zasdk3enx85h_4d4361e9_20261105.png?v=4d4361e9" group-title="🏀 Bóng Rổ (2 LIVE)",17:00 05/11 🔴 Mobis Phoebus vs Seoul Thunders | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793853753_hd/1793853753_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:10 05/11 Jeonju KCC Egis vs Macau Hou Chon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20714473_82cd4447_20261105.png?v=82cd4447" group-title="🏀 Bóng Rổ (1 LIVE)",17:10 05/11 Jeonju KCC Egis vs Macau Hou Chon | GV
+#EXTINF:-1 tvg-id="" tvg-name="17:10 05/11 Jeonju KCC Egis vs Macau Hou Chon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20714473_82cd4447_20261105.png?v=82cd4447" group-title="🏀 Bóng Rổ (2 LIVE)",17:10 05/11 Jeonju KCC Egis vs Macau Hou Chon | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793853836_hd/1793853836_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:45 06/11 Hapoel Tel-Aviv vs FC Barcelona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11003273_519b5311_20261105.png?v=519b5311" group-title="🏀 Bóng Rổ (1 LIVE)",01:45 06/11 Hapoel Tel-Aviv vs FC Barcelona | GV
+#EXTINF:-1 tvg-id="" tvg-name="01:45 06/11 Hapoel Tel-Aviv vs FC Barcelona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11003273_519b5311_20261105.png?v=519b5311" group-title="🏀 Bóng Rổ (2 LIVE)",01:45 06/11 Hapoel Tel-Aviv vs FC Barcelona | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793865479_hd/1793865479_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:30 06/11 Tasmania JackJumpers vs New Zealand Breakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26622275_d9b90e01_20261105.png?v=d9b90e01" group-title="🏀 Bóng Rổ (1 LIVE)",15:30 06/11 Tasmania JackJumpers vs New Zealand Breakers | GV
+#EXTINF:-1 tvg-id="" tvg-name="15:30 06/11 Tasmania JackJumpers vs New Zealand Breakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26622275_d9b90e01_20261105.png?v=d9b90e01" group-title="🏀 Bóng Rổ (2 LIVE)",15:30 06/11 Tasmania JackJumpers vs New Zealand Breakers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793854153_hd/1793854153_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 06/11 Anyang JungKwanJang vs Seoul Knights" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/csayn7zxx23n_bcfa3303_20261105.png?v=bcfa3303" group-title="🏀 Bóng Rổ (1 LIVE)",17:00 06/11 Anyang JungKwanJang vs Seoul Knights | GV
+#EXTINF:-1 tvg-id="" tvg-name="17:00 06/11 Anyang JungKwanJang vs Seoul Knights" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/csayn7zxx23n_bcfa3303_20261105.png?v=bcfa3303" group-title="🏀 Bóng Rổ (2 LIVE)",17:00 06/11 Anyang JungKwanJang vs Seoul Knights | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
