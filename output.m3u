@@ -162,17 +162,22 @@ https://pull.digitalcdn.net/live/803f110dbaa44cf898a797a13dc310cc/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/33d5f106f68b4b7da4aed6fbb2db4e58/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:45 06/11 Anderlecht vs Red Bull Salzburg" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636211_23c9ca67_20261105.png?v=23c9ca67" group-title="⚽ Bóng Đá",00:45 06/11 Anderlecht vs Red Bull Salzburg | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="00:45 06/11 Anderlecht vs Red Bull Salzburg" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e7d_851e13e1_20261105.png?v=851e13e1" group-title="⚽ Bóng Đá",00:45 06/11 Anderlecht vs Red Bull Salzburg | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793865564_hd/1793865564_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:45 06/11 Anderlecht vs Red Bull Salzburg" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e7d_851e13e1_20261105.png?v=851e13e1" group-title="⚽ Bóng Đá",00:45 06/11 Anderlecht vs Red Bull Salzburg | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:45 06/11 Anderlecht vs Red Bull Salzburg" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636211_23c9ca67_20261105.png?v=23c9ca67" group-title="⚽ Bóng Đá",00:45 06/11 Anderlecht vs Red Bull Salzburg | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="00:45 06/11 Anderlecht vs Red Bull Salzburg" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e7d_851e13e1_20261105.png?v=851e13e1" group-title="⚽ Bóng Đá",00:45 06/11 Anderlecht vs Red Bull Salzburg | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:45 06/11 Anderlecht vs Red Bull Salzburg" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1636211_23c9ca67_20261105.png?v=23c9ca67" group-title="⚽ Bóng Đá",00:45 06/11 Anderlecht vs Red Bull Salzburg | CCport 3
+#EXTINF:-1 tvg-id="" tvg-name="00:45 06/11 Anderlecht vs Red Bull Salzburg" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e7d_851e13e1_20261105.png?v=851e13e1" group-title="⚽ Bóng Đá",00:45 06/11 Anderlecht vs Red Bull Salzburg | CCport 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
@@ -537,6 +542,11 @@ https://pzhgifbkllliv.vcdn.cloud/1793854546_hd/1793854546_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793854633_hd/1793854633_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 06/11 ATP Paris Open vs ATP Paris Open" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jx2f7oca28sk_ab4cd97c_20261105.png?v=ab4cd97c" group-title="🎾 Tennis",01:00 06/11 ATP Paris Open vs ATP Paris Open | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793865233_hd/1793865233_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15:30 05/11 Cairns Taipans vs Illawarra Hawks" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25622274_c875ef3e_20261105.png?v=c875ef3e" group-title="🏀 Bóng Rổ",15:30 05/11 Cairns Taipans vs Illawarra Hawks | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -552,6 +562,11 @@ https://pzhgifbkllliv.vcdn.cloud/1793853753_hd/1793853753_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793853836_hd/1793853836_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:45 06/11 Hapoel Tel-Aviv vs FC Barcelona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11003273_519b5311_20261105.png?v=519b5311" group-title="🏀 Bóng Rổ",01:45 06/11 Hapoel Tel-Aviv vs FC Barcelona | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793865479_hd/1793865479_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15:30 06/11 Tasmania JackJumpers vs New Zealand Breakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26622275_d9b90e01_20261105.png?v=d9b90e01" group-title="🏀 Bóng Rổ",15:30 06/11 Tasmania JackJumpers vs New Zealand Breakers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -592,6 +607,11 @@ https://pull.digitalcdn.net/live/40bf3241a7b846f6b55ced0bf3b1c2d7/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/34a72f787b5649dbb8a6d66bdbb58003/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 05/11 Ilbank Nữ vs Nilufer Bld. Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3c0u6lnc0scd_fb0ab293_20261105.png?v=fb0ab293" group-title="🏐 Bóng Chuyền (1 LIVE)",23:00 05/11 Ilbank Nữ vs Nilufer Bld. Nữ | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793865395_hd/1793865395_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 06/11 IBK Nữ vs GS Caltex Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/akogxu13mbu5_8cc0e85a_20261105.png?v=8cc0e85a" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 06/11 IBK Nữ vs GS Caltex Nữ | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -617,6 +637,11 @@ https://pzhgifbkllliv.vcdn.cloud/1793854903_hd/1793854903_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793854715_hd/1793854715_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:30 06/11 WEN Ruibo vs WANG Chuqin" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ewef6q11kixr_3682e5eb_20261105.png?v=3682e5eb" group-title="🏓 Bóng Bàn",00:30 06/11 WEN Ruibo vs WANG Chuqin | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793865112_hd/1793865112_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="18:30 06/11 ONE Friday Fights 177 & The Inner Circle 37 vs ONE Friday Fights 177 & The Inner Circle 37" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9p0pvjxb9cnr_5d4cb082_20261105.png?v=5d4cb082" group-title="🥊 Võ Thuật",18:30 06/11 ONE Friday Fights 177 & The Inner Circle 37 vs ONE Friday Fights 177 & The Inner Circle 37 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
