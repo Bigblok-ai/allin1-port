@@ -377,17 +377,22 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/c13dd4a280714de4be2b1b5e1e75cfa5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 07/11 Sevilla vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570450_d90adfca_20261106.png?v=d90adfca" group-title="⚽ Bóng Đá (2 LIVE)",03:00 07/11 Sevilla vs Alaves | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="03:00 07/11 Sevilla vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae3de5424d46db870e96939_a56a1c6a_20261106.png?v=a56a1c6a" group-title="⚽ Bóng Đá (2 LIVE)",03:00 07/11 Sevilla vs Alaves | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793951719_hd/1793951719_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="03:00 07/11 Sevilla vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae3de5424d46db870e96939_a56a1c6a_20261106.png?v=a56a1c6a" group-title="⚽ Bóng Đá (2 LIVE)",03:00 07/11 Sevilla vs Alaves | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 07/11 Sevilla vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570450_d90adfca_20261106.png?v=d90adfca" group-title="⚽ Bóng Đá (2 LIVE)",03:00 07/11 Sevilla vs Alaves | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="03:00 07/11 Sevilla vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae3de5424d46db870e96939_a56a1c6a_20261106.png?v=a56a1c6a" group-title="⚽ Bóng Đá (2 LIVE)",03:00 07/11 Sevilla vs Alaves | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 07/11 Sevilla vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1570450_d90adfca_20261106.png?v=d90adfca" group-title="⚽ Bóng Đá (2 LIVE)",03:00 07/11 Sevilla vs Alaves | CCport 3
+#EXTINF:-1 tvg-id="" tvg-name="03:00 07/11 Sevilla vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae3de5424d46db870e96939_a56a1c6a_20261106.png?v=a56a1c6a" group-title="⚽ Bóng Đá (2 LIVE)",03:00 07/11 Sevilla vs Alaves | CCport 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
@@ -507,6 +512,11 @@ https://pull.digitalcdn.net/live/8e3fbf88682d443ab889e3fc4c2f87d5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793930650_hd/1793930650_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 07/11 Taylor Fritz vs Carlos Alcaraz" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8nbevyk9s5a1_eca1eb94_20261106.png?v=eca1eb94" group-title="🎾 Tennis",01:00 07/11 Taylor Fritz vs Carlos Alcaraz | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793951817_hd/1793951817_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15:30 06/11 🔴 Tasmania JackJumpers vs New Zealand Breakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26622275_d9b90e01_20261106.png?v=d9b90e01" group-title="🏀 Bóng Rổ (1 LIVE)",15:30 06/11 🔴 Tasmania JackJumpers vs New Zealand Breakers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -522,16 +532,21 @@ https://pzhgifbkllliv.vcdn.cloud/1793854182_hd/1793854182_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793951150_hd/1793951150_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:23 06/11 🔴 CHU BINGJIE vs YU LONGHAI" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a30a4c5e1f_bf022c23_20261106.png?v=bf022c23" group-title="🎱 Billiards (2 LIVE)",12:23 06/11 🔴 CHU BINGJIE vs YU LONGHAI | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:23 06/11 🔴 CHU BINGJIE vs YU LONGHAI" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a30a4c5e1f_bf022c23_20261106.png?v=bf022c23" group-title="🎱 Billiards (3 LIVE)",12:23 06/11 🔴 CHU BINGJIE vs YU LONGHAI | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9896/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:52 06/11 🔴 tuấn vũng tàu vs út vũng tàu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-7484fdc1f1_f1a46a03_20261106.png?v=f1a46a03" group-title="🎱 Billiards (2 LIVE)",13:52 06/11 🔴 tuấn vũng tàu vs út vũng tàu | Choang
+#EXTINF:-1 tvg-id="" tvg-name="13:52 06/11 🔴 tuấn vũng tàu vs út vũng tàu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-7484fdc1f1_f1a46a03_20261106.png?v=f1a46a03" group-title="🎱 Billiards (3 LIVE)",13:52 06/11 🔴 tuấn vũng tàu vs út vũng tàu | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9897/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14:55 06/11 🔴 Nguyễn Phượng Hoài Linh vs Bùi Minh Trí" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-81fe46d9de_40d7d30c_20261106.png?v=40d7d30c" group-title="🎱 Billiards (3 LIVE)",14:55 06/11 🔴 Nguyễn Phượng Hoài Linh vs Bùi Minh Trí | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live9898/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 06/11 IBK Nữ vs GS Caltex Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/akogxu13mbu5_8cc0e85a_20261106.png?v=8cc0e85a" group-title="🏐 Bóng Chuyền",17:00 06/11 IBK Nữ vs GS Caltex Nữ | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -572,6 +587,11 @@ https://pull.digitalcdn.net/live/67cfbf9e68214ac49ef8c7c6267a9e01/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793854903_hd/1793854903_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02:00 07/11 F1 vs F1" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8m10v4fxv4sg_64de9442_20261106.png?v=64de9442" group-title="🏎️ Đua Xe",02:00 07/11 F1 vs F1 | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793951982_hd/1793951982_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="19:00 06/11 LIM Jonghoon vs Tomokazu HARIMOTO" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4d6yq9p0hoyj_6a1573f7_20261106.png?v=6a1573f7" group-title="🏓 Bóng Bàn",19:00 06/11 LIM Jonghoon vs Tomokazu HARIMOTO | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
