@@ -192,6 +192,11 @@ https://pull.digitalcdn.net/live/ddc511dd387a42a8947e87ca0d45664d/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/42024ad7758044d48c41dfca580a118d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="03:00 07/11 Everton vs Coventry City" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7hne5pyqdy_81790d2d_20261106.png?v=81790d2d" group-title="⚽ Bóng Đá (1 LIVE)",03:00 07/11 Everton vs Coventry City | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/c13dd4a280714de4be2b1b5e1e75cfa5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:30 Hamburger SV vs B. Monchengladbach" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/64561_803945c9_20261106.png?v=803945c9" group-title="⚽ Bóng Đá (1 LIVE)",02:30 Hamburger SV vs B. Monchengladbach | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
