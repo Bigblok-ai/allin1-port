@@ -52,7 +52,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:00 07/11 🔴 Central Coast Mariners vs Newcastle Jets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lmzxhwwxv1h2_a8547fc2_20261107.png?v=a8547fc2" group-title="⚽ Bóng Đá (2 LIVE)",11:00 07/11 🔴 Central Coast Mariners vs Newcastle Jets | GV
+#EXTINF:-1 tvg-id="" tvg-name="11:00 07/11 🔴 Shimizu S-Pulse vs Tokyo Verdy" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae3de5424d46db870e969ca_92cc4e10_20261107.png?v=92cc4e10" group-title="⚽ Bóng Đá (2 LIVE)",11:00 07/11 🔴 Shimizu S-Pulse vs Tokyo Verdy | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
@@ -817,37 +817,32 @@ https://pzhgifbkllliv.vcdn.cloud/1793985408_hd/1793985408_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793985671_hd/1793985671_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 07/11 🔴 An Nhiệt vs Duy Nhỏ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1d73e3a4cc_cd62ce97_20261107.png?v=cd62ce97" group-title="🎱 Billiards (1 LIVE)",10:00 07/11 🔴 An Nhiệt vs Duy Nhỏ | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live9920/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Thiện Lương vs Tùng Bão Táp" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d21de0012f_2b90024b_20261107.png?v=2b90024b" group-title="🎱 Billiards (1 LIVE)",12:00 07/11 Thiện Lương vs Tùng Bão Táp | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Thiện Lương vs Tùng Bão Táp" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d21de0012f_2b90024b_20261107.png?v=2b90024b" group-title="🎱 Billiards",12:00 07/11 Thiện Lương vs Tùng Bão Táp | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9926/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Văn Sinh vs Wike" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-2d998fd752_bad69eb7_20261107.png?v=bad69eb7" group-title="🎱 Billiards (1 LIVE)",12:00 07/11 Văn Sinh vs Wike | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Văn Sinh vs Wike" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-2d998fd752_bad69eb7_20261107.png?v=bad69eb7" group-title="🎱 Billiards",12:00 07/11 Văn Sinh vs Wike | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9929/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Tại Đá vs Văn Huynh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a99d7665d3_8a3dd870_20261107.png?v=8a3dd870" group-title="🎱 Billiards (1 LIVE)",12:00 07/11 Tại Đá vs Văn Huynh | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Tại Đá vs Văn Huynh" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a99d7665d3_8a3dd870_20261107.png?v=8a3dd870" group-title="🎱 Billiards",12:00 07/11 Tại Đá vs Văn Huynh | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9927/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Phùng Quý vs Huy C300" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b0e0854652_b4ad701e_20261107.png?v=b4ad701e" group-title="🎱 Billiards (1 LIVE)",12:00 07/11 Phùng Quý vs Huy C300 | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Phùng Quý vs Huy C300" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b0e0854652_b4ad701e_20261107.png?v=b4ad701e" group-title="🎱 Billiards",12:00 07/11 Phùng Quý vs Huy C300 | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9928/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Ngọc Xăm vs Khải Tony" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-aaf3372eb1_6d51062c_20261107.png?v=6d51062c" group-title="🎱 Billiards (1 LIVE)",12:00 07/11 Ngọc Xăm vs Khải Tony | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 Ngọc Xăm vs Khải Tony" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-aaf3372eb1_6d51062c_20261107.png?v=6d51062c" group-title="🎱 Billiards",12:00 07/11 Ngọc Xăm vs Khải Tony | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9930/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 James Aranas vs Bảo Châu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-f137073da4_93c2891c_20261107.png?v=93c2891c" group-title="🎱 Billiards (1 LIVE)",12:00 07/11 James Aranas vs Bảo Châu | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:00 07/11 James Aranas vs Bảo Châu" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-f137073da4_93c2891c_20261107.png?v=93c2891c" group-title="🎱 Billiards",12:00 07/11 James Aranas vs Bảo Châu | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
