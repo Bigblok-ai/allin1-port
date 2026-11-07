@@ -52,11 +52,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22:15 07/11 🔴 Espanyol vs Deportivo La Coruna" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc424d46db870bbf03b_a3513d7a_20261108.png?v=a3513d7a" group-title="⚽ Bóng Đá (8 LIVE)",22:15 07/11 🔴 Espanyol vs Deportivo La Coruna | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793995918_hd/1793995918_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:00 07/11 🔴 Galatasaray vs Amedspor" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc424d46db870bbf0e7_665f4877_20261108.png?v=665f4877" group-title="⚽ Bóng Đá (8 LIVE)",23:00 07/11 🔴 Galatasaray vs Amedspor | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -147,6 +142,21 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/8b6cdc89b2cc43deb9c019236b4bc925/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:30 08/11 🔴 VfB Stuttgart vs Werder Bremen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0789_faf6907a_20261108.png?v=faf6907a" group-title="⚽ Bóng Đá (8 LIVE)",00:30 08/11 🔴 VfB Stuttgart vs Werder Bremen | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1793952365_hd/1793952365_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:30 08/11 🔴 VfB Stuttgart vs Werder Bremen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0789_faf6907a_20261108.png?v=faf6907a" group-title="⚽ Bóng Đá (8 LIVE)",00:30 08/11 🔴 VfB Stuttgart vs Werder Bremen | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://livecdn321.cdnfastter.xyz/live/live_f3d9c6a005/index.m3u8?token=rr1el4pzxOrMeroS7m-gXYnBMw8InO7dtXeJtJksyhA&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="00:30 08/11 🔴 VfB Stuttgart vs Werder Bremen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0789_faf6907a_20261108.png?v=faf6907a" group-title="⚽ Bóng Đá (8 LIVE)",00:30 08/11 🔴 VfB Stuttgart vs Werder Bremen | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://live.khoga.space/live/livehub12.flv
 #EXTINF:-1 tvg-id="" tvg-name="22:15 🔴 Espanyol vs Dep. A Coruna" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/65738_28edc666_20261108.png?v=28edc666" group-title="⚽ Bóng Đá (8 LIVE)",22:15 🔴 Espanyol vs Dep. A Coruna | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -167,21 +177,6 @@ https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/858fe79fb0644c148e864ed2daf599e9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:30 08/11 VfB Stuttgart vs Werder Bremen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0789_faf6907a_20261108.png?v=faf6907a" group-title="⚽ Bóng Đá (8 LIVE)",00:30 08/11 VfB Stuttgart vs Werder Bremen | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793952365_hd/1793952365_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:30 08/11 VfB Stuttgart vs Werder Bremen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0789_faf6907a_20261108.png?v=faf6907a" group-title="⚽ Bóng Đá (8 LIVE)",00:30 08/11 VfB Stuttgart vs Werder Bremen | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_f3d9c6a005/index.m3u8?token=rr1el4pzxOrMeroS7m-gXYnBMw8InO7dtXeJtJksyhA&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="00:30 08/11 VfB Stuttgart vs Werder Bremen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0789_faf6907a_20261108.png?v=faf6907a" group-title="⚽ Bóng Đá (8 LIVE)",00:30 08/11 VfB Stuttgart vs Werder Bremen | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub12.flv
 #EXTINF:-1 tvg-id="" tvg-name="02:45 08/11 AS Roma vs US Sassuolo Calcio" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fca24d46db870bc0667_85c175f2_20261108.png?v=85c175f2" group-title="⚽ Bóng Đá (8 LIVE)",02:45 08/11 AS Roma vs US Sassuolo Calcio | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -562,32 +557,37 @@ https://pzhgifbkllliv.vcdn.cloud/1793985408_hd/1793985408_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793985671_hd/1793985671_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:32 07/11 🔴 JAYBEE SUCAL vs PANDAY KAY" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-62b4290801_fac1ff98_20261108.png?v=fac1ff98" group-title="🎱 Billiards (5 LIVE)",19:32 07/11 🔴 JAYBEE SUCAL vs PANDAY KAY | Choang
+#EXTINF:-1 tvg-id="" tvg-name="16:00 07/11 🔴 Nottingham Forest vs Man City" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-9c25b96189_65c8e888_20261108.png?v=65c8e888" group-title="🎱 Billiards (6 LIVE)",16:00 07/11 🔴 Nottingham Forest vs Man City | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live9953/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19:32 07/11 🔴 JAYBEE SUCAL vs PANDAY KAY" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-62b4290801_fac1ff98_20261108.png?v=fac1ff98" group-title="🎱 Billiards (6 LIVE)",19:32 07/11 🔴 JAYBEE SUCAL vs PANDAY KAY | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9963/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:43 07/11 🔴 Roland Garcia vs Jonas Magpantay" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-5c97982807_9d15c710_20261108.png?v=9d15c710" group-title="🎱 Billiards (5 LIVE)",19:43 07/11 🔴 Roland Garcia vs Jonas Magpantay | Choang
+#EXTINF:-1 tvg-id="" tvg-name="19:43 07/11 🔴 Roland Garcia vs Jonas Magpantay" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-5c97982807_9d15c710_20261108.png?v=9d15c710" group-title="🎱 Billiards (6 LIVE)",19:43 07/11 🔴 Roland Garcia vs Jonas Magpantay | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9964/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:30 07/11 🔴 CARDING vs OWAT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-07154a357f_d33a6d48_20261108.png?v=d33a6d48" group-title="🎱 Billiards (5 LIVE)",20:30 07/11 🔴 CARDING vs OWAT | Choang
+#EXTINF:-1 tvg-id="" tvg-name="20:30 07/11 🔴 CARDING vs OWAT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-07154a357f_d33a6d48_20261108.png?v=d33a6d48" group-title="🎱 Billiards (6 LIVE)",20:30 07/11 🔴 CARDING vs OWAT | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9968/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:02 07/11 🔴 cozzteza vs ignacio" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1357913add_a354a9dc_20261108.png?v=a354a9dc" group-title="🎱 Billiards (5 LIVE)",21:02 07/11 🔴 cozzteza vs ignacio | Choang
+#EXTINF:-1 tvg-id="" tvg-name="21:02 07/11 🔴 cozzteza vs ignacio" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1357913add_a354a9dc_20261108.png?v=a354a9dc" group-title="🎱 Billiards (6 LIVE)",21:02 07/11 🔴 cozzteza vs ignacio | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9967/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 07/11 🔴 C.Biado / R. Alcano vs A. Raga / A. Espinola" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-adcb9b8497_c840afa2_20261108.png?v=c840afa2" group-title="🎱 Billiards (5 LIVE)",23:00 07/11 🔴 C.Biado / R. Alcano vs A. Raga / A. Espinola | Choang
+#EXTINF:-1 tvg-id="" tvg-name="23:00 07/11 🔴 C.Biado / R. Alcano vs A. Raga / A. Espinola" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-adcb9b8497_c840afa2_20261108.png?v=c840afa2" group-title="🎱 Billiards (6 LIVE)",23:00 07/11 🔴 C.Biado / R. Alcano vs A. Raga / A. Espinola | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live9972/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 08/11 Valencia vs Real Madrid" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-8b1d0db132_095b050b_20261108.png?v=095b050b" group-title="🎱 Billiards (5 LIVE)",03:00 08/11 Valencia vs Real Madrid | Choang
+#EXTINF:-1 tvg-id="" tvg-name="03:00 08/11 Valencia vs Real Madrid" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-8b1d0db132_095b050b_20261108.png?v=095b050b" group-title="🎱 Billiards (6 LIVE)",03:00 08/11 Valencia vs Real Madrid | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
@@ -657,12 +657,7 @@ https://pzhgifbkllliv.vcdn.cloud/1793953068_hd/1793953068_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793985824_hd/1793985824_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:30 08/11 Sora MATSUSHIMA vs Patrick FRANZISKA" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zkw43r13hc6v_2fa120be_20261108.png?v=2fa120be" group-title="🏓 Bóng Bàn",00:30 08/11 Sora MATSUSHIMA vs Patrick FRANZISKA | GV 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1794065332_hd/1794065332_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:30 08/11 Sora MATSUSHIMA vs Patrick FRANZISKA" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zkw43r13hc6v_2fa120be_20261108.png?v=2fa120be" group-title="🏓 Bóng Bàn",00:30 08/11 Sora MATSUSHIMA vs Patrick FRANZISKA | GV 2
+#EXTINF:-1 tvg-id="" tvg-name="00:30 08/11 🔴 Sora MATSUSHIMA vs Patrick FRANZISKA" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9nbeuhtmn2eg_2fa120be_20261108.png?v=2fa120be" group-title="🏓 Bóng Bàn (1 LIVE)",00:30 08/11 🔴 Sora MATSUSHIMA vs Patrick FRANZISKA | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
