@@ -172,6 +172,11 @@ https://pull.digitalcdn.net/live/0099f836e91844fcba59c33f63f99129/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/9102cf0432ec43e5a082ed94f816ae42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 10/11 Botosani vs Otelul Galati" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/23xmvkh6j0kdqg8_43984178_20261109.png?v=43984178" group-title="⚽ Bóng Đá (2 LIVE)",01:00 10/11 Botosani vs Otelul Galati | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/e26b89fb100941ee8c94aeb87b28035a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:00 Kristiansund vs Valerenga" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/65513_ca6ce874_20261109.png?v=ca6ce874" group-title="⚽ Bóng Đá (2 LIVE)",01:00 Kristiansund vs Valerenga | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
