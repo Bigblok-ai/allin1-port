@@ -52,11 +52,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 08/11 🔴 FC Shakhtar Donetsk vs Dynamo Kyiv" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814624d46db870b363a0_004a14c8_20261109.png?v=004a14c8" group-title="⚽ Bóng Đá (10 LIVE)",23:00 08/11 🔴 FC Shakhtar Donetsk vs Dynamo Kyiv | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1794149818_hd/1794149818_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:30 08/11 🔴 Manchester United vs Aston Villa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814724d46db870b36a13_f5c465a0_20261109.png?v=f5c465a0" group-title="⚽ Bóng Đá (10 LIVE)",23:30 08/11 🔴 Manchester United vs Aston Villa | GV 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -202,6 +197,36 @@ https://pzhgifbkllliv.vcdn.cloud/1793984944_hd/1793984944_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 🔴 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 🔴 Hoffenheim vs Schalke 04 | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1794149990_hd/1794149990_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 🔴 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 🔴 Hoffenheim vs Schalke 04 | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 🔴 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 🔴 Hoffenheim vs Schalke 04 | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 🔴 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 🔴 Hoffenheim vs Schalke 04 | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 🔴 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 🔴 Hoffenheim vs Schalke 04 | CCport 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 🔴 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 🔴 Hoffenheim vs Schalke 04 | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/0c96e265d4de47fda9b3ad73a95990d6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:15 🔴 Brest vs Lyon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/67466_eb0c10e4_20261109.png?v=eb0c10e4" group-title="⚽ Bóng Đá (10 LIVE)",23:15 🔴 Brest vs Lyon | PhaoHoa 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -237,36 +262,6 @@ https://pull.digitalcdn.net/live/e3dceac00a5e4822b753ad293feac129/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1794149971_hd/1794149971_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 Hoffenheim vs Schalke 04 | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1794149990_hd/1794149990_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 Hoffenheim vs Schalke 04 | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 Hoffenheim vs Schalke 04 | CCport 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 Hoffenheim vs Schalke 04 | CCport 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 Hoffenheim vs Schalke 04 | CCport 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:30 09/11 Hoffenheim vs Schalke 04" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261109.png?v=8b5c3bff" group-title="⚽ Bóng Đá (10 LIVE)",01:30 09/11 Hoffenheim vs Schalke 04 | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/0c96e265d4de47fda9b3ad73a95990d6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:45 09/11 Fiorentina vs Juventus" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814a24d46db870b370ce_e233736b_20261109.png?v=e233736b" group-title="⚽ Bóng Đá (10 LIVE)",02:45 09/11 Fiorentina vs Juventus | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -447,47 +442,42 @@ https://pull.digitalcdn.net/live/690c2ffb92044f98adcea177c98e4a6a/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1794142750_hd/1794142750_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 08/11 🔴 CAI Zaragoza vs Unicaja" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24069278_b0de75bf_20261109.png?v=b0de75bf" group-title="🏀 Bóng Rổ (2 LIVE)",23:00 08/11 🔴 CAI Zaragoza vs Unicaja | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1793984216_hd/1793984216_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:00 09/11 🔴 Basquet Coruna vs MoraBanc Andorra" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25069279_793b8c97_20261109.png?v=793b8c97" group-title="🏀 Bóng Rổ (2 LIVE)",00:00 09/11 🔴 Basquet Coruna vs MoraBanc Andorra | GV
+#EXTINF:-1 tvg-id="" tvg-name="00:00 09/11 🔴 Basquet Coruna vs MoraBanc Andorra" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25069279_793b8c97_20261109.png?v=793b8c97" group-title="🏀 Bóng Rổ (1 LIVE)",00:00 09/11 🔴 Basquet Coruna vs MoraBanc Andorra | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793984528_hd/1793984528_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:30 09/11 Chicago Bulls vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26138277_ae5aa089_20261109.png?v=ae5aa089" group-title="🏀 Bóng Rổ (2 LIVE)",03:30 09/11 Chicago Bulls vs Philadelphia 76ers | GV
+#EXTINF:-1 tvg-id="" tvg-name="03:30 09/11 Chicago Bulls vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26138277_ae5aa089_20261109.png?v=ae5aa089" group-title="🏀 Bóng Rổ (1 LIVE)",03:30 09/11 Chicago Bulls vs Philadelphia 76ers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793985408_hd/1793985408_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="06:00 09/11 Detroit Pistons vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27138278_f1c8963c_20261109.png?v=f1c8963c" group-title="🏀 Bóng Rổ (2 LIVE)",06:00 09/11 Detroit Pistons vs Los Angeles Lakers | GV
+#EXTINF:-1 tvg-id="" tvg-name="06:00 09/11 Detroit Pistons vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27138278_f1c8963c_20261109.png?v=f1c8963c" group-title="🏀 Bóng Rổ (1 LIVE)",06:00 09/11 Detroit Pistons vs Los Angeles Lakers | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1793985671_hd/1793985671_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:00 09/11 Timberwolves vs Jazz" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fzymuzhdrvke_6663368a_20261109.png?v=6663368a" group-title="🏀 Bóng Rổ (2 LIVE)",07:00 09/11 Timberwolves vs Jazz | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:00 09/11 Timberwolves vs Jazz" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fzymuzhdrvke_6663368a_20261109.png?v=6663368a" group-title="🏀 Bóng Rổ (1 LIVE)",07:00 09/11 Timberwolves vs Jazz | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1794123050_hd/1794123050_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07:30 09/11 Mavericks vs Nets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jadqp2r95qxt_ca2bfa15_20261109.png?v=ca2bfa15" group-title="🏀 Bóng Rổ (2 LIVE)",07:30 09/11 Mavericks vs Nets | GV
+#EXTINF:-1 tvg-id="" tvg-name="07:30 09/11 Mavericks vs Nets" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jadqp2r95qxt_ca2bfa15_20261109.png?v=ca2bfa15" group-title="🏀 Bóng Rổ (1 LIVE)",07:30 09/11 Mavericks vs Nets | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1794123136_hd/1794123136_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 09/11 Bucks vs Celtics" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jd2h3liejmm2_ec21955c_20261109.png?v=ec21955c" group-title="🏀 Bóng Rổ (2 LIVE)",08:00 09/11 Bucks vs Celtics | GV
+#EXTINF:-1 tvg-id="" tvg-name="08:00 09/11 Bucks vs Celtics" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jd2h3liejmm2_ec21955c_20261109.png?v=ec21955c" group-title="🏀 Bóng Rổ (1 LIVE)",08:00 09/11 Bucks vs Celtics | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1794123228_hd/1794123228_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:00 09/11 Clippers vs Pelicans" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n5vb9zhyimzy_88516e60_20261109.png?v=88516e60" group-title="🏀 Bóng Rổ (2 LIVE)",09:00 09/11 Clippers vs Pelicans | GV
+#EXTINF:-1 tvg-id="" tvg-name="09:00 09/11 Clippers vs Pelicans" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n5vb9zhyimzy_88516e60_20261109.png?v=88516e60" group-title="🏀 Bóng Rổ (1 LIVE)",09:00 09/11 Clippers vs Pelicans | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1794123417_hd/1794123417_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="09:00 09/11 Kings vs Heat" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7hkz9au9s7t7_0ba0f5e8_20261109.png?v=0ba0f5e8" group-title="🏀 Bóng Rổ (2 LIVE)",09:00 09/11 Kings vs Heat | GV
+#EXTINF:-1 tvg-id="" tvg-name="09:00 09/11 Kings vs Heat" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7hkz9au9s7t7_0ba0f5e8_20261109.png?v=0ba0f5e8" group-title="🏀 Bóng Rổ (1 LIVE)",09:00 09/11 Kings vs Heat | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
