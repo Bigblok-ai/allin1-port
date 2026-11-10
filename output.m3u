@@ -177,11 +177,21 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/86e5d7c9cd3c493f96ac79121ec1d4af/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17:00 11/11 Hà Lan U17 vs Norway U17" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3338060f72229b92061bc4_56bad7fe_20261110.png?v=56bad7fe" group-title="⚽ Bóng Đá (3 LIVE)",17:00 11/11 Hà Lan U17 vs Norway U17 | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1794323749_hd/1794323749_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 11/11 Yokohama Marinos vs Kashima Antlers" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/3glrw7h4w7lkqdy_184438d4_20261110.png?v=184438d4" group-title="⚽ Bóng Đá (3 LIVE)",17:00 11/11 Yokohama Marinos vs Kashima Antlers | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/2f623bdcc1044463b7ab45b28fe93443/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:00 11/11 Croatia U19 vs U19 Hungary" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2b74f43d7ef10b43d5_e47d1899_20261110.png?v=e47d1899" group-title="⚽ Bóng Đá (3 LIVE)",18:00 11/11 Croatia U19 vs U19 Hungary | GV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1794323806_hd/1794323806_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="00:00 Fenerbahce W vs Real Sociedad W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/70099_ec736036_20261110.png?v=ec736036" group-title="⚽ Bóng Đá (3 LIVE)",00:00 Fenerbahce W vs Real Sociedad W | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -242,27 +252,32 @@ https://pzhgifbkllliv.vcdn.cloud/1794294504_hd/1794294504_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1794306990_hd/1794306990_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:05 10/11 🔴 Edwin Gamas vs Dondon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d6f45e3a74_0f232f2d_20261110.png?v=0f232f2d" group-title="🎱 Billiards (3 LIVE)",20:05 10/11 🔴 Edwin Gamas vs Dondon | Choang
+#EXTINF:-1 tvg-id="" tvg-name="20:05 10/11 🔴 Edwin Gamas vs Dondon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d6f45e3a74_0f232f2d_20261110.png?v=0f232f2d" group-title="🎱 Billiards (4 LIVE)",20:05 10/11 🔴 Edwin Gamas vs Dondon | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10063/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:53 10/11 🔴 AJ MANAS vs ASSIS TADIQUE" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-17591c33cb_8dadd707_20261110.png?v=8dadd707" group-title="🎱 Billiards (3 LIVE)",20:53 10/11 🔴 AJ MANAS vs ASSIS TADIQUE | Choang
+#EXTINF:-1 tvg-id="" tvg-name="20:53 10/11 🔴 AJ MANAS vs ASSIS TADIQUE" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-17591c33cb_8dadd707_20261110.png?v=8dadd707" group-title="🎱 Billiards (4 LIVE)",20:53 10/11 🔴 AJ MANAS vs ASSIS TADIQUE | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10065/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:19 10/11 🔴 JEFF IGNACIO vs LEE VAN CORTRZA" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-2ef162c84d_c2e05a3a_20261110.png?v=c2e05a3a" group-title="🎱 Billiards (3 LIVE)",21:19 10/11 🔴 JEFF IGNACIO vs LEE VAN CORTRZA | Choang
+#EXTINF:-1 tvg-id="" tvg-name="21:19 10/11 🔴 JEFF IGNACIO vs LEE VAN CORTRZA" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-2ef162c84d_c2e05a3a_20261110.png?v=c2e05a3a" group-title="🎱 Billiards (4 LIVE)",21:19 10/11 🔴 JEFF IGNACIO vs LEE VAN CORTRZA | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10067/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 11/11 Anaitasuna FT vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-63357e1006_7c05369a_20261110.png?v=7c05369a" group-title="🎱 Billiards (3 LIVE)",01:00 11/11 Anaitasuna FT vs Alaves | Choang
+#EXTINF:-1 tvg-id="" tvg-name="22:17 10/11 🔴 Karding vs Lauro" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-5ee3534496_99252a75_20261110.png?v=99252a75" group-title="🎱 Billiards (4 LIVE)",22:17 10/11 🔴 Karding vs Lauro | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live10068/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01:00 11/11 Anaitasuna FT vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-63357e1006_7c05369a_20261110.png?v=7c05369a" group-title="🎱 Billiards (4 LIVE)",01:00 11/11 Anaitasuna FT vs Alaves | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10060/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:00 11/11 Trival Valderas vs Leganes" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b9980c24d8_e5f72422_20261110.png?v=e5f72422" group-title="🎱 Billiards (3 LIVE)",02:00 11/11 Trival Valderas vs Leganes | Choang
+#EXTINF:-1 tvg-id="" tvg-name="02:00 11/11 Trival Valderas vs Leganes" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b9980c24d8_e5f72422_20261110.png?v=e5f72422" group-title="🎱 Billiards (4 LIVE)",02:00 11/11 Trival Valderas vs Leganes | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
