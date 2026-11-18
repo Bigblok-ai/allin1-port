@@ -282,6 +282,11 @@ https://pull.digitalcdn.net/live/8fdd1f25eb3a43dcb84b864f5240907b/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/17c8d81a9b0146e1a99b1cac3251f87f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="22:30 19/11 Qatar U17 vs Panama U17" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/6ypq3nhvpo1gmd7_fc49b3f0_20261119.png?v=fc49b3f0" group-title="⚽ Bóng Đá (8 LIVE)",22:30 19/11 Qatar U17 vs Panama U17 | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/51e5c3e4a0ed41e789ef88cbc2e89d40/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="00:45 Austria Vienna W vs Bayern Munich W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/80431_2515fcf1_20261119.png?v=2515fcf1" group-title="⚽ Bóng Đá (8 LIVE)",00:45 Austria Vienna W vs Bayern Munich W | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
