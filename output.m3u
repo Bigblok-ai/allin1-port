@@ -52,11 +52,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:30 20/11 🔴 Indonesia U-17 vs Myanmar U-17" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q02dle74jnqi_935473a8_20261120.png?v=935473a8" group-title="⚽ Bóng Đá (8 LIVE)",15:30 20/11 🔴 Indonesia U-17 vs Myanmar U-17 | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795101825_hd/1795101825_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 20/11 🔴 Thanh Hóa vs Hoàng Anh Gia Lai" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccdf_4cf06039_20261120.png?v=4cf06039" group-title="⚽ Bóng Đá (8 LIVE)",17:00 20/11 🔴 Thanh Hóa vs Hoàng Anh Gia Lai | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -162,26 +157,26 @@ https://live.khoga.space/live/livehub13.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/4c9eb5a1bd504609b6ae437954f0be78/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 20/11 🔴 Beijing Guoan vs SHANGHAI SIPG" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638058_6c7f8433_20261120.png?v=6c7f8433" group-title="⚽ Bóng Đá (8 LIVE)",18:35 20/11 🔴 Beijing Guoan vs SHANGHAI SIPG | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 20/11 🔴 Beijing Guoan vs SHANGHAI SIPG" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638058_6c7f8433_20261120.png?v=6c7f8433" group-title="⚽ Bóng Đá (8 LIVE)",18:35 20/11 🔴 Beijing Guoan vs SHANGHAI SIPG | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="18:35 20/11 🔴 Beijing Guoan vs SHANGHAI SIPG" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638058_6c7f8433_20261120.png?v=6c7f8433" group-title="⚽ Bóng Đá (8 LIVE)",18:35 20/11 🔴 Beijing Guoan vs SHANGHAI SIPG | CCport 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="17:00 20/11 🔴 Bà Rịa Vũng Tàu vs Thai Nguyen" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/318q66hxlyz8qo9_62645dce_20261120.png?v=62645dce" group-title="⚽ Bóng Đá (8 LIVE)",17:00 20/11 🔴 Bà Rịa Vũng Tàu vs Thai Nguyen | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/de00df40aad64b32b8edad06488a75fe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 20/11 Beijing Guoan vs SHANGHAI SIPG" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638058_6c7f8433_20261120.png?v=6c7f8433" group-title="⚽ Bóng Đá (8 LIVE)",18:35 20/11 Beijing Guoan vs SHANGHAI SIPG | CCport 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 20/11 Beijing Guoan vs SHANGHAI SIPG" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638058_6c7f8433_20261120.png?v=6c7f8433" group-title="⚽ Bóng Đá (8 LIVE)",18:35 20/11 Beijing Guoan vs SHANGHAI SIPG | CCport 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:35 20/11 Beijing Guoan vs SHANGHAI SIPG" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1638058_6c7f8433_20261120.png?v=6c7f8433" group-title="⚽ Bóng Đá (8 LIVE)",18:35 20/11 Beijing Guoan vs SHANGHAI SIPG | CCport 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="19:00 20/11 Thailand U-17 vs Iraq U-17" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7fivyrg1w863_361aebb3_20261120.png?v=361aebb3" group-title="⚽ Bóng Đá (8 LIVE)",19:00 20/11 Thailand U-17 vs Iraq U-17 | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -757,42 +752,37 @@ https://cdn.sports-cas889abxfileposo.site/live/live10480/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10481/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:35 20/11 🔴 Fragolad Kagoshima vs Nagoya" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dlnngg8v6wc7_acd38ff2_20261120.png?v=acd38ff2" group-title="🏐 Bóng Chuyền (3 LIVE)",16:35 20/11 🔴 Fragolad Kagoshima vs Nagoya | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795158742_hd/1795158742_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 20/11 🔴 Expressway Co Nữ vs IBK Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kbk0mxsa27c3_dbb13fb3_20261120.png?v=dbb13fb3" group-title="🏐 Bóng Chuyền (3 LIVE)",17:00 20/11 🔴 Expressway Co Nữ vs IBK Nữ | GV
+#EXTINF:-1 tvg-id="" tvg-name="17:00 20/11 🔴 Expressway Co Nữ vs IBK Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kbk0mxsa27c3_dbb13fb3_20261120.png?v=dbb13fb3" group-title="🏐 Bóng Chuyền (2 LIVE)",17:00 20/11 🔴 Expressway Co Nữ vs IBK Nữ | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1795103322_hd/1795103322_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 20/11 🔴 Expressway Co Womon vs IBK Womon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2f14c00b05a34ae0a17e748934c60ae3_afe0186c_20261120.png?v=afe0186c" group-title="🏐 Bóng Chuyền (3 LIVE)",17:00 20/11 🔴 Expressway Co Womon vs IBK Womon | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="17:00 20/11 🔴 Expressway Co Womon vs IBK Womon" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/2f14c00b05a34ae0a17e748934c60ae3_afe0186c_20261120.png?v=afe0186c" group-title="🏐 Bóng Chuyền (2 LIVE)",17:00 20/11 🔴 Expressway Co Womon vs IBK Womon | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/df0b4716674342b59b547a3e87d72889/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:05 21/11 Gunma Bank Green Wings Women vs Aleeza Aichi Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/272d7822be15498d946005e3b47a6aa6_19ad5e55_20261120.png?v=19ad5e55" group-title="🏐 Bóng Chuyền (3 LIVE)",11:05 21/11 Gunma Bank Green Wings Women vs Aleeza Aichi Women | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="11:05 21/11 Gunma Bank Green Wings Women vs Aleeza Aichi Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/272d7822be15498d946005e3b47a6aa6_19ad5e55_20261120.png?v=19ad5e55" group-title="🏐 Bóng Chuyền (2 LIVE)",11:05 21/11 Gunma Bank Green Wings Women vs Aleeza Aichi Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/1019154d82044bd0a5a2d9ed5dcc2ac2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:05 21/11 Toray Arrows Women vs Okayama Seagulls Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/863863f8a19b40a891b77b69d01f204c_7f00bd97_20261120.png?v=7f00bd97" group-title="🏐 Bóng Chuyền (3 LIVE)",11:05 21/11 Toray Arrows Women vs Okayama Seagulls Women | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="11:05 21/11 Toray Arrows Women vs Okayama Seagulls Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/863863f8a19b40a891b77b69d01f204c_7f00bd97_20261120.png?v=7f00bd97" group-title="🏐 Bóng Chuyền (2 LIVE)",11:05 21/11 Toray Arrows Women vs Okayama Seagulls Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/a321ebab34964fd8a8d16a27b5f31b0b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 21/11 Eczacibasi Women vs Kuzey Boru Genclik Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c81e91ec72c347e0b4ffa2e542fddff3_94020c06_20261120.png?v=94020c06" group-title="🏐 Bóng Chuyền (3 LIVE)",18:00 21/11 Eczacibasi Women vs Kuzey Boru Genclik Women | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="18:00 21/11 Eczacibasi Women vs Kuzey Boru Genclik Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/c81e91ec72c347e0b4ffa2e542fddff3_94020c06_20261120.png?v=94020c06" group-title="🏐 Bóng Chuyền (2 LIVE)",18:00 21/11 Eczacibasi Women vs Kuzey Boru Genclik Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/4715d3e6cdd247f4b025b2c8fe2e2f40/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 21/11 Aras Kargo Women vs Fenerbahce Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5e3c8374d0eb461fa7a0f69d131cdf7c_1ef0a249_20261120.png?v=1ef0a249" group-title="🏐 Bóng Chuyền (3 LIVE)",19:00 21/11 Aras Kargo Women vs Fenerbahce Women | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="19:00 21/11 Aras Kargo Women vs Fenerbahce Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5e3c8374d0eb461fa7a0f69d131cdf7c_1ef0a249_20261120.png?v=1ef0a249" group-title="🏐 Bóng Chuyền (2 LIVE)",19:00 21/11 Aras Kargo Women vs Fenerbahce Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/69d80a5391b04047b8a74d5607392af2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:59 22/11 Vero Volley Nữ vs Conegliano Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26f1hbplk076_7a68eca1_20261120.png?v=7a68eca1" group-title="🏐 Bóng Chuyền (3 LIVE)",23:59 22/11 Vero Volley Nữ vs Conegliano Nữ | GV
+#EXTINF:-1 tvg-id="" tvg-name="23:59 22/11 Vero Volley Nữ vs Conegliano Nữ" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26f1hbplk076_7a68eca1_20261120.png?v=7a68eca1" group-title="🏐 Bóng Chuyền (2 LIVE)",23:59 22/11 Vero Volley Nữ vs Conegliano Nữ | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
