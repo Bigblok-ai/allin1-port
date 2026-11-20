@@ -52,22 +52,17 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 🔴 Seattle Sounders vs Real Salt Lake" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/80458_e762e596_20261120.png?v=e762e596" group-title="⚽ Bóng Đá (1 LIVE)",10:00 🔴 Seattle Sounders vs Real Salt Lake | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="12:50 20/11 Western Sydney Wanderers W vs Wellington Phoenix W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1632127_b5ee8108_20261120.png?v=b5ee8108" group-title="⚽ Bóng Đá (1 LIVE)",12:50 20/11 Western Sydney Wanderers W vs Wellington Phoenix W | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="12:50 20/11 🔴 Western Sydney Wanderers W vs Wellington Phoenix W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1632127_b5ee8108_20261120.png?v=b5ee8108" group-title="⚽ Bóng Đá (1 LIVE)",12:50 20/11 🔴 Western Sydney Wanderers W vs Wellington Phoenix W | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:50 20/11 Western Sydney Wanderers W vs Wellington Phoenix W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1632127_b5ee8108_20261120.png?v=b5ee8108" group-title="⚽ Bóng Đá (1 LIVE)",12:50 20/11 Western Sydney Wanderers W vs Wellington Phoenix W | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="12:50 20/11 🔴 Western Sydney Wanderers W vs Wellington Phoenix W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1632127_b5ee8108_20261120.png?v=b5ee8108" group-title="⚽ Bóng Đá (1 LIVE)",12:50 20/11 🔴 Western Sydney Wanderers W vs Wellington Phoenix W | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:50 20/11 Western Sydney Wanderers W vs Wellington Phoenix W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1632127_b5ee8108_20261120.png?v=b5ee8108" group-title="⚽ Bóng Đá (1 LIVE)",12:50 20/11 Western Sydney Wanderers W vs Wellington Phoenix W | CCport 3
+#EXTINF:-1 tvg-id="" tvg-name="12:50 20/11 🔴 Western Sydney Wanderers W vs Wellington Phoenix W" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1632127_b5ee8108_20261120.png?v=b5ee8108" group-title="⚽ Bóng Đá (1 LIVE)",12:50 20/11 🔴 Western Sydney Wanderers W vs Wellington Phoenix W | CCport 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
@@ -792,32 +787,32 @@ https://pzhgifbkllliv.vcdn.cloud/1795063035_hd/1795063035_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1795063064_hd/1795063064_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 🔴 Jerico Banares vs Ronel Nalaunan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-328eefe741_8452a728_20261120.png?v=8452a728" group-title="🎱 Billiards (3 LIVE)",12:30 20/11 🔴 Jerico Banares vs Ronel Nalaunan | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live10473/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 🔴 Carlo Biado vs Andri Januarta" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-db9dc0a73e_21aaa287_20261120.png?v=21aaa287" group-title="🎱 Billiards (3 LIVE)",12:30 20/11 🔴 Carlo Biado vs Andri Januarta | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 🔴 Carlo Biado vs Andri Januarta" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-db9dc0a73e_21aaa287_20261120.png?v=21aaa287" group-title="🎱 Billiards (4 LIVE)",12:30 20/11 🔴 Carlo Biado vs Andri Januarta | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10477/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 🔴 Aloysius Yapp vs Lo Ho Sum" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-08fcb1d383_c0c14bca_20261120.png?v=c0c14bca" group-title="🎱 Billiards (3 LIVE)",12:30 20/11 🔴 Aloysius Yapp vs Lo Ho Sum | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 🔴 Jerico Banares vs Ronel Nalaunan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-328eefe741_8452a728_20261120.png?v=8452a728" group-title="🎱 Billiards (4 LIVE)",12:30 20/11 🔴 Jerico Banares vs Ronel Nalaunan | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live10475/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 Assis Tadique vs Jeffrey Ignacio" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1aec295609_b29e16f6_20261120.png?v=b29e16f6" group-title="🎱 Billiards (3 LIVE)",12:30 20/11 Assis Tadique vs Jeffrey Ignacio | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live10472/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 Albert Januarta vs Sean Mark Malayan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-2ed5187ab7_ed66ae4b_20261120.png?v=ed66ae4b" group-title="🎱 Billiards (3 LIVE)",12:30 20/11 Albert Januarta vs Sean Mark Malayan | Choang
+https://cdn.sports-cas889abxfileposo.site/live/live10473/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 🔴 Albert Januarta vs Sean Mark Malayan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-2ed5187ab7_ed66ae4b_20261120.png?v=ed66ae4b" group-title="🎱 Billiards (4 LIVE)",12:30 20/11 🔴 Albert Januarta vs Sean Mark Malayan | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10474/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 1 vs Wu Kun Lin" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a198dd5e20_31308cdf_20261120.png?v=31308cdf" group-title="🎱 Billiards (3 LIVE)",12:30 20/11 1 vs Wu Kun Lin | Choang
+#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 🔴 Aloysius Yapp vs Lo Ho Sum" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-08fcb1d383_c0c14bca_20261120.png?v=c0c14bca" group-title="🎱 Billiards (4 LIVE)",12:30 20/11 🔴 Aloysius Yapp vs Lo Ho Sum | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live10475/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 Assis Tadique vs Jeffrey Ignacio" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-1aec295609_b29e16f6_20261120.png?v=b29e16f6" group-title="🎱 Billiards (4 LIVE)",12:30 20/11 Assis Tadique vs Jeffrey Ignacio | Choang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://choangtv25.com/
+https://cdn.sports-cas889abxfileposo.site/live/live10472/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="12:30 20/11 1 vs Wu Kun Lin" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a198dd5e20_31308cdf_20261120.png?v=31308cdf" group-title="🎱 Billiards (4 LIVE)",12:30 20/11 1 vs Wu Kun Lin | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
