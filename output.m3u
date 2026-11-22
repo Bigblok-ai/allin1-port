@@ -422,21 +422,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 Werder Bremen vs Hamburger" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a511_3188b235_20261122.png?v=3188b235" group-title="⚽ Bóng Đá (8 LIVE)",23:30 22/11 Werder Bremen vs Hamburger | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795062379_hd/1795062379_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 Werder Bremen vs Hamburger" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a511_3188b235_20261122.png?v=3188b235" group-title="⚽ Bóng Đá (8 LIVE)",23:30 22/11 Werder Bremen vs Hamburger | PhaoHoa
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 Werder Bremen vs Hamburger" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a511_3188b235_20261122.png?v=3188b235" group-title="⚽ Bóng Đá (8 LIVE)",23:30 22/11 Werder Bremen vs Hamburger | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/90806255d8a04cd492de33784fbafc2a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 Liverpool vs Man Utd" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d1699f74317a479fbf1ee1d8056b5933_82bf40b8_20261122.png?v=82bf40b8" group-title="⚽ Bóng Đá (8 LIVE)",23:30 22/11 Liverpool vs Man Utd | Phalang 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -707,6 +692,16 @@ https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-j
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="23:30 Werder Bremen vs Hamburger SV" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/83897_c1b2f42f_20261122.png?v=c1b2f42f" group-title="⚽ Bóng Đá (8 LIVE)",23:30 Werder Bremen vs Hamburger SV | PhaoHoa
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="23:30 Werder Bremen vs Hamburger SV" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/83897_c1b2f42f_20261122.png?v=c1b2f42f" group-title="⚽ Bóng Đá (8 LIVE)",23:30 Werder Bremen vs Hamburger SV | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/90806255d8a04cd492de33784fbafc2a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:30 Liverpool vs Manchester Utd" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/83898_9d6a1ece_20261122.png?v=9d6a1ece" group-title="⚽ Bóng Đá (8 LIVE)",23:30 Liverpool vs Manchester Utd | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -727,11 +722,6 @@ https://pzhgifbkllliv.vcdn.cloud/1795279497_hd/1795279497_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1795279590_hd/1795279590_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 22/11 Basquet Coruna vs Lleida" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xfmn7f6xaqf4_fb5b662b_20261122.png?v=fb5b662b" group-title="🏀 Bóng Rổ (3 LIVE)",23:00 22/11 Basquet Coruna vs Lleida | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795062988_hd/1795062988_hd@720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="03:30 23/11 Atlanta Hawks vs Detroit Pistons" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23638279_a1be7106_20261122.png?v=a1be7106" group-title="🏀 Bóng Rổ (3 LIVE)",03:30 23/11 Atlanta Hawks vs Detroit Pistons | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -742,37 +732,32 @@ https://pzhgifbkllliv.vcdn.cloud/1795063035_hd/1795063035_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1795063064_hd/1795063064_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 22/11 🔴 Lô Văn Xuân vs Hoàng PT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-43f36d40a7_cdd48845_20261122.png?v=cdd48845" group-title="🎱 Billiards (4 LIVE)",16:00 22/11 🔴 Lô Văn Xuân vs Hoàng PT | Choang
+#EXTINF:-1 tvg-id="" tvg-name="16:00 22/11 🔴 Lô Văn Xuân vs Hoàng PT" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-43f36d40a7_cdd48845_20261122.png?v=cdd48845" group-title="🎱 Billiards (3 LIVE)",16:00 22/11 🔴 Lô Văn Xuân vs Hoàng PT | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10522/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 22/11 🔴 Phạm Phương Nam vs Nguyễn Hoàng Phong" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-01e65af180_a10001f8_20261122.png?v=a10001f8" group-title="🎱 Billiards (4 LIVE)",16:00 22/11 🔴 Phạm Phương Nam vs Nguyễn Hoàng Phong | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live10523/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:45 22/11 🔴 duy đen vs duy tân" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-f1703466d4_67af4108_20261122.png?v=67af4108" group-title="🎱 Billiards (4 LIVE)",17:45 22/11 🔴 duy đen vs duy tân | Choang
+#EXTINF:-1 tvg-id="" tvg-name="17:45 22/11 🔴 duy đen vs duy tân" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-f1703466d4_67af4108_20261122.png?v=67af4108" group-title="🎱 Billiards (3 LIVE)",17:45 22/11 🔴 duy đen vs duy tân | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10530/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 22/11 🔴 SHAYNE ACEBAR vs MR CHAMP" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-c14e6906f0_d243df12_20261122.png?v=d243df12" group-title="🎱 Billiards (4 LIVE)",18:00 22/11 🔴 SHAYNE ACEBAR vs MR CHAMP | Choang
+#EXTINF:-1 tvg-id="" tvg-name="18:00 22/11 🔴 SHAYNE ACEBAR vs MR CHAMP" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-c14e6906f0_d243df12_20261122.png?v=d243df12" group-title="🎱 Billiards (3 LIVE)",18:00 22/11 🔴 SHAYNE ACEBAR vs MR CHAMP | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10531/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:30 22/11 Juventus vs Venezia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-6b99f7a20a_e4f2f4b9_20261122.png?v=e4f2f4b9" group-title="🎱 Billiards (4 LIVE)",18:30 22/11 Juventus vs Venezia | Choang
+#EXTINF:-1 tvg-id="" tvg-name="18:30 22/11 Juventus vs Venezia" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-6b99f7a20a_e4f2f4b9_20261122.png?v=e4f2f4b9" group-title="🎱 Billiards (3 LIVE)",18:30 22/11 Juventus vs Venezia | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10528/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 22/11 Barcelona vs Villarreal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-67c3d4997a_b77d8e84_20261122.png?v=b77d8e84" group-title="🎱 Billiards (4 LIVE)",20:00 22/11 Barcelona vs Villarreal | Choang
+#EXTINF:-1 tvg-id="" tvg-name="20:00 22/11 Barcelona vs Villarreal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-67c3d4997a_b77d8e84_20261122.png?v=b77d8e84" group-title="🎱 Billiards (3 LIVE)",20:00 22/11 Barcelona vs Villarreal | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10525/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 Liverpool vs Man United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-02b16a372b_e06f63d9_20261122.png?v=e06f63d9" group-title="🎱 Billiards (4 LIVE)",23:30 22/11 Liverpool vs Man United | Choang
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 Liverpool vs Man United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-02b16a372b_e06f63d9_20261122.png?v=e06f63d9" group-title="🎱 Billiards (3 LIVE)",23:30 22/11 Liverpool vs Man United | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
