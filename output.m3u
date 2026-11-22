@@ -412,6 +412,11 @@ https://pull.digitalcdn.net/live/a102733aa68b4e13afbbad68a5223bc5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/e1f639b78e6e4aeabc3be1bbc85a1886/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:00 23/11 Al-Ain FC vs Esteghlal Tehran" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhnlkdyqvy_985dd734_20261123.png?v=985dd734" group-title="⚽ Bóng Đá (5 LIVE)",23:00 23/11 Al-Ain FC vs Esteghlal Tehran | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/cdc4f5d914964bec8b611e5f50309fd0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:15 Al Ittihad vs Pakhtakor" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/85663_073ae161_20261123.png?v=073ae161" group-title="⚽ Bóng Đá (5 LIVE)",01:15 Al Ittihad vs Pakhtakor | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
