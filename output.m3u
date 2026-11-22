@@ -52,66 +52,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | GV 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795062352_hd/1795062352_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | GV 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795062300_hd/1795062300_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | GV 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795062324_hd/1795062324_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 3
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 4
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 5
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 6
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 7
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 8
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 9
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Werder Bremen vs Hamburger" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a511_3188b235_20261123.png?v=3188b235" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Werder Bremen vs Hamburger | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -217,12 +157,52 @@ https://pull.digitalcdn.net/live/ac0ad70246d241019aa05d12f68b9d71/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Man Utd" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d1699f74317a479fbf1ee1d8056b5933_82bf40b8_20261123.png?v=82bf40b8" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Man Utd | Phalang 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557473_98120a6a_20261123.png?v=98120a6a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/26f97313c4d642fa968bf9c261f17749/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Man Utd" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/d1699f74317a479fbf1ee1d8056b5933_82bf40b8_20261123.png?v=82bf40b8" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Man Utd | Phalang 2
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557473_98120a6a_20261123.png?v=98120a6a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557473_98120a6a_20261123.png?v=98120a6a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 3
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557473_98120a6a_20261123.png?v=98120a6a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 4
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557473_98120a6a_20261123.png?v=98120a6a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 5
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557473_98120a6a_20261123.png?v=98120a6a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 6
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557473_98120a6a_20261123.png?v=98120a6a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 7
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557473_98120a6a_20261123.png?v=98120a6a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 8
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/cc-port/refs/heads/main/thumbs/1557473_98120a6a_20261123.png?v=98120a6a" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Manchester United | CCport 9
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Man Utd" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/n54qllhny65lqvy_82bf40b8_20261123.png?v=82bf40b8" group-title="⚽ Bóng Đá (9 LIVE)",23:30 22/11 🔴 Liverpool vs Man Utd | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
@@ -637,22 +617,17 @@ https://pzhgifbkllliv.vcdn.cloud/1795365889_hd/1795365889_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1795365919_hd/1795365919_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:05 22/11 🔴 EDWIN GAMAS vs ALLAN IBAAN" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d4e8d165c5_43dd4d4a_20261123.png?v=43dd4d4a" group-title="🎱 Billiards (2 LIVE)",23:05 22/11 🔴 EDWIN GAMAS vs ALLAN IBAAN | Choang
+#EXTINF:-1 tvg-id="" tvg-name="23:05 22/11 🔴 EDWIN GAMAS vs ALLAN IBAAN" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d4e8d165c5_43dd4d4a_20261123.png?v=43dd4d4a" group-title="🎱 Billiards (1 LIVE)",23:05 22/11 🔴 EDWIN GAMAS vs ALLAN IBAAN | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10539/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 22/11 🔴 Liverpool vs Man United" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-02b16a372b_e06f63d9_20261123.png?v=e06f63d9" group-title="🎱 Billiards (2 LIVE)",23:30 22/11 🔴 Liverpool vs Man United | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live10526/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="02:45 23/11 Atalanta vs Inter Milan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-3d47f78ca1_60a63898_20261123.png?v=60a63898" group-title="🎱 Billiards (2 LIVE)",02:45 23/11 Atalanta vs Inter Milan | Choang
+#EXTINF:-1 tvg-id="" tvg-name="02:45 23/11 Atalanta vs Inter Milan" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-3d47f78ca1_60a63898_20261123.png?v=60a63898" group-title="🎱 Billiards (1 LIVE)",02:45 23/11 Atalanta vs Inter Milan | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10529/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 23/11 Getafe vs Atletico" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-062e15e7b5_83523db8_20261123.png?v=83523db8" group-title="🎱 Billiards (2 LIVE)",03:00 23/11 Getafe vs Atletico | Choang
+#EXTINF:-1 tvg-id="" tvg-name="03:00 23/11 Getafe vs Atletico" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-062e15e7b5_83523db8_20261123.png?v=83523db8" group-title="🎱 Billiards (1 LIVE)",03:00 23/11 Getafe vs Atletico | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
