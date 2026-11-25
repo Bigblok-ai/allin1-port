@@ -52,6 +52,21 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:45 26/11 🔴 Sabah FK vs Barcelona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e5e_1775fa25_20261126.png?v=1775fa25" group-title="⚽ Bóng Đá (7 LIVE)",00:45 26/11 🔴 Sabah FK vs Barcelona | GV 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1795457621_hd/1795457621_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:45 26/11 🔴 Sabah FK vs Barcelona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e5e_1775fa25_20261126.png?v=1775fa25" group-title="⚽ Bóng Đá (7 LIVE)",00:45 26/11 🔴 Sabah FK vs Barcelona | GV 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://giovang.store/
+https://pzhgifbkllliv.vcdn.cloud/1795457629_hd/1795457629_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="00:45 26/11 🔴 Sabah FK vs Barcelona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e5e_1775fa25_20261126.png?v=1775fa25" group-title="⚽ Bóng Đá (7 LIVE)",00:45 26/11 🔴 Sabah FK vs Barcelona | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/b451536763c6426aa57c7409ae316706/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="00:45 26/11 🔴 Slavia Praha vs Villarreal" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4347_36617d30_20261126.png?v=36617d30" group-title="⚽ Bóng Đá (7 LIVE)",00:45 26/11 🔴 Slavia Praha vs Villarreal | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -72,21 +87,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:45 26/11 🔴 Sabah FK vs Barcelona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e5e_1775fa25_20261126.png?v=1775fa25" group-title="⚽ Bóng Đá (7 LIVE)",00:45 26/11 🔴 Sabah FK vs Barcelona | GV 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795457621_hd/1795457621_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:45 26/11 🔴 Sabah FK vs Barcelona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e5e_1775fa25_20261126.png?v=1775fa25" group-title="⚽ Bóng Đá (7 LIVE)",00:45 26/11 🔴 Sabah FK vs Barcelona | GV 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795457629_hd/1795457629_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="00:45 26/11 🔴 Sabah FK vs Barcelona" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e5e_1775fa25_20261126.png?v=1775fa25" group-title="⚽ Bóng Đá (7 LIVE)",00:45 26/11 🔴 Sabah FK vs Barcelona | Phalang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://phalang.live/
-https://pull.digitalcdn.net/live/b451536763c6426aa57c7409ae316706/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01:15 26/11 🔴 Al-Taawon vs AL-Nahda" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a87960ee207814bf00bf3b1_ecee5e3f_20261126.png?v=ecee5e3f" group-title="⚽ Bóng Đá (7 LIVE)",01:15 26/11 🔴 Al-Taawon vs AL-Nahda | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -642,17 +642,12 @@ https://cdn.sports-cas889abxfileposo.site/live/live10618/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10616/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:30 25/11 🔴 Olsztyn vs Rzeszow" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/k2uyqqbuxlrg_08fee128_20261126.png?v=08fee128" group-title="🏐 Bóng Chuyền (1 LIVE)",23:30 25/11 🔴 Olsztyn vs Rzeszow | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795459222_hd/1795459222_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 26/11 Hyundai E&C Hillstate Women vs SOOP SOOPers Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/29eb5a6d355d4b1990df423e7a8f7c5b_7ef03d29_20261126.png?v=7ef03d29" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 26/11 Hyundai E&C Hillstate Women vs SOOP SOOPers Women | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="17:00 26/11 Hyundai E&C Hillstate Women vs SOOP SOOPers Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/29eb5a6d355d4b1990df423e7a8f7c5b_7ef03d29_20261126.png?v=7ef03d29" group-title="🏐 Bóng Chuyền",17:00 26/11 Hyundai E&C Hillstate Women vs SOOP SOOPers Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/5fe4481b249e4328804682da70bfed6b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 27/11 Hungkuk Women vs GS Caltex Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5b3c641ac4bd46d595e07d3cf4bd92fc_305eeb5f_20261126.png?v=305eeb5f" group-title="🏐 Bóng Chuyền (1 LIVE)",17:00 27/11 Hungkuk Women vs GS Caltex Women | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="17:00 27/11 Hungkuk Women vs GS Caltex Women" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/5b3c641ac4bd46d595e07d3cf4bd92fc_305eeb5f_20261126.png?v=305eeb5f" group-title="🏐 Bóng Chuyền",17:00 27/11 Hungkuk Women vs GS Caltex Women | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
