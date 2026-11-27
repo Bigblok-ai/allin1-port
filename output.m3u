@@ -292,6 +292,11 @@ https://pull.digitalcdn.net/live/2c762b64100949aa89a2ab9bbc9bf651/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/dda08a1a4788410084b6b2f7b5ed8d38/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02:45 29/11 PSG vs Lorient" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/pl-port/refs/heads/main/thumbs/jw2r09hkdjezrz8_246c9247_20261128.png?v=246c9247" group-title="⚽ Bóng Đá (1 LIVE)",02:45 29/11 PSG vs Lorient | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/e4d9fcc9908d4041be1c4ab25cfc3a15/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="02:45 Inter vs Genoa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/90278_7b4ac1ca_20261128.png?v=7b4ac1ca" group-title="⚽ Bóng Đá (1 LIVE)",02:45 Inter vs Genoa | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
