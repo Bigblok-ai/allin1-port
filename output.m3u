@@ -412,6 +412,11 @@ https://pull.digitalcdn.net/live/34b53ec32ed549e3b5a49fcd7cdd7b54/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://livecdn321.cdnfastter.xyz/live/live_f64016ed85/index.m3u8?token=2zFHBLZ7ZQ-fbhTLWfwNITX5zZlxj49JwHBeBRcyALM&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="02:45 Inter vs Genoa" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/90278_7b4ac1ca_20261128.png?v=7b4ac1ca" group-title="⚽ Bóng Đá (7 LIVE)",02:45 Inter vs Genoa | Phalang
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://phalang.live/
+https://pull.digitalcdn.net/live/4d5f6d6da0554e94b1849128bc40f13e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="03:00 Real Madrid vs Alaves" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/90286_9f672f0f_20261128.png?v=9f672f0f" group-title="⚽ Bóng Đá (7 LIVE)",03:00 Real Madrid vs Alaves | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -562,22 +567,17 @@ https://pzhgifbkllliv.vcdn.cloud/1795575668_hd/1795575668_hd@720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1795575639_hd/1795575639_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="01:00 28/11 🔴 Team USA vs Team Europe" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-19ff614bd5_4a46beaa_20261128.png?v=4a46beaa" group-title="🎱 Billiards (1 LIVE)",01:00 28/11 🔴 Team USA vs Team Europe | Choang
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://choangtv25.com/
-https://cdn.sports-cas889abxfileposo.site/live/live10690/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 28/11 skyler woodward vs Aleksa Pecelj" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a668a3a438_a685d6e2_20261128.png?v=a685d6e2" group-title="🎱 Billiards (1 LIVE)",03:00 28/11 skyler woodward vs Aleksa Pecelj | Choang
+#EXTINF:-1 tvg-id="" tvg-name="03:00 28/11 skyler woodward vs Aleksa Pecelj" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-a668a3a438_a685d6e2_20261128.png?v=a685d6e2" group-title="🎱 Billiards",03:00 28/11 skyler woodward vs Aleksa Pecelj | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10688/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="03:00 28/11 Nottingham Forest vs Chelsea" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d7d8050c0c_11c45854_20261128.png?v=11c45854" group-title="🎱 Billiards (1 LIVE)",03:00 28/11 Nottingham Forest vs Chelsea | Choang
+#EXTINF:-1 tvg-id="" tvg-name="03:00 28/11 Nottingham Forest vs Chelsea" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-d7d8050c0c_11c45854_20261128.png?v=11c45854" group-title="🎱 Billiards",03:00 28/11 Nottingham Forest vs Chelsea | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
 https://cdn.sports-cas889abxfileposo.site/live/live10673/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="04:00 28/11 Shane Van Boening-tyler Styer vs jayson shaw-David Alcaide" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b5ccbd8cea_a0655fd0_20261128.png?v=a0655fd0" group-title="🎱 Billiards (1 LIVE)",04:00 28/11 Shane Van Boening-tyler Styer vs jayson shaw-David Alcaide | Choang
+#EXTINF:-1 tvg-id="" tvg-name="04:00 28/11 Shane Van Boening-tyler Styer vs jayson shaw-David Alcaide" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ch-port/refs/heads/main/thumbs/chtv-b5ccbd8cea_a0655fd0_20261128.png?v=a0655fd0" group-title="🎱 Billiards",04:00 28/11 Shane Van Boening-tyler Styer vs jayson shaw-David Alcaide | Choang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://choangtv25.com/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://choangtv25.com/
