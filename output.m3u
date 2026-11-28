@@ -52,26 +52,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 tvg-id="" tvg-name="MrBean" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b55bc93a3f7c19f97ead263a719b83eb449e4b103d314604c6d175e1a067524e.jpg" group-title="📺 Kênh Truyền Hình (19 LIVE)",MrBean | amagi
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 28/11 🔴 Vissel Kobe vs JEF United Ichihara" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c93_c2af5f18_20261128.png?v=c2af5f18" group-title="⚽ Bóng Đá (3 LIVE)",13:00 28/11 🔴 Vissel Kobe vs JEF United Ichihara | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795755766_hd/1795755766_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 28/11 🔴 Kashima Antlers vs Okayama FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c8b_dd1a851c_20261128.png?v=dd1a851c" group-title="⚽ Bóng Đá (3 LIVE)",13:00 28/11 🔴 Kashima Antlers vs Okayama FC | GV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://giovang.store/
-https://pzhgifbkllliv.vcdn.cloud/1795838796_hd/1795838796_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:00 28/11 🔴 Kashima Antlers vs Okayama FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c8b_dd1a851c_20261128.png?v=dd1a851c" group-title="⚽ Bóng Đá (3 LIVE)",13:00 28/11 🔴 Kashima Antlers vs Okayama FC | PhaoHoa 1
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="13:00 28/11 🔴 Kashima Antlers vs Okayama FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c8b_dd1a851c_20261128.png?v=dd1a851c" group-title="⚽ Bóng Đá (3 LIVE)",13:00 28/11 🔴 Kashima Antlers vs Okayama FC | PhaoHoa 2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoiche.live/
-https://live.khoga.space/live/livehub13.flv
 #EXTINF:-1 tvg-id="" tvg-name="14:00 28/11 🔴 Kashiwa Reysol vs Sanfrecce Hiroshima" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c99_aa269860_20261128.png?v=aa269860" group-title="⚽ Bóng Đá (3 LIVE)",14:00 28/11 🔴 Kashiwa Reysol vs Sanfrecce Hiroshima | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -92,36 +72,46 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 Central Coast Mariners FC vs Auckland FC | GV
+#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://giovang.store/
 https://pzhgifbkllliv.vcdn.cloud/1795848817_hd/1795848817_hd@720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 Central Coast Mariners FC vs Auckland FC | PhaoHoa
+#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC | PhaoHoa
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoiche.live/
 https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615
-#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 Central Coast Mariners FC vs Auckland FC | CCport 1
+#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC | CCport 1
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 Central Coast Mariners FC vs Auckland FC | CCport 2
+#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC | CCport 2
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 Central Coast Mariners FC vs Auckland FC | CCport 3
+#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC | CCport 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 Central Coast Mariners FC vs Auckland FC | Phalang
+#EXTINF:-1 tvg-id="" tvg-name="15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537ce9_8b729205_20261128.png?v=8b729205" group-title="⚽ Bóng Đá (3 LIVE)",15:40 28/11 🔴 Central Coast Mariners FC vs Auckland FC | Phalang
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://phalang.live/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull.digitalcdn.net/live/bf353767141446fb8af80b4b3a15d76d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="13:00 🔴 Kashima Antlers vs Okayama" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/89015_f696c9cb_20261128.png?v=f696c9cb" group-title="⚽ Bóng Đá (3 LIVE)",13:00 🔴 Kashima Antlers vs Okayama | PhaoHoa 1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615
+#EXTINF:-1 tvg-id="" tvg-name="13:00 🔴 Kashima Antlers vs Okayama" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/ph-port/refs/heads/main/thumbs/89015_f696c9cb_20261128.png?v=f696c9cb" group-title="⚽ Bóng Đá (3 LIVE)",13:00 🔴 Kashima Antlers vs Okayama | PhaoHoa 2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://xoiche.live/"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoiche.live/
+https://live.khoga.space/live/livehub13.flv
 #EXTINF:-1 tvg-id="" tvg-name="16:00 28/11 Cao Su Đồng Tháp vs Becamex Bình Dương" tvg-logo="https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537d73_a45b489a_20261128.png?v=a45b489a" group-title="⚽ Bóng Đá (3 LIVE)",16:00 28/11 Cao Su Đồng Tháp vs Becamex Bình Dương | GV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36","Referer":"https://giovang.store/"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
